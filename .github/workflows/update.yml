@@ -1,0 +1,38 @@
+name: Update UniSport calendar
+
+on:
+  schedule:
+    - cron: '17 */3 * * *'   # every 3 hours
+  workflow_dispatch:
+    inputs:
+      debug:
+        description: 'Save raw timetable data for troubleshooting'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install
+      - run: node scrape.mjs ${{ inputs.debug && '--debug' || '' }}
+      - name: Upload debug data
+        if: ${{ inputs.debug }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug
+          path: debug/
+      - name: Commit calendar
+        run: |
+          git config user.name "unisport-calendar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/
+          git diff --cached --quiet || git commit -m "Update UniSport calendar"
+          git push

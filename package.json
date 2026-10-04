@@ -1,0 +1,14 @@
+{
+  "name": "unisport-calendar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scrape.mjs",
+    "debug": "node scrape.mjs --debug",
+    "test": "node test/test.mjs"
+  },
+  "dependencies": {
+    "luxon": "^3.5.0"
+  }
+}

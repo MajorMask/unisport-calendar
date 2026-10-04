@@ -94,5 +94,17 @@
     "capacity": 20,
     "source": "Group Exercise Campuses",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/~date=2026-10-14"
+  },
+  {
+    "id": "868320",
+    "name": "Pilates 45 (Musiikkitalo, Tanssistudio)",
+    "start": "2026-10-19T14:30:00.000Z",
+    "end": "2026-10-19T15:15:00.000Z",
+    "location": "Yliopistokampukset",
+    "instructor": "Inari Nikkanen",
+    "free": 15,
+    "capacity": 15,
+    "source": "Group Exercise Campuses",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/~date=2026-10-19"
   }
 ]

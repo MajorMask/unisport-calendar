@@ -30,7 +30,7 @@
     "end": "2026-10-06T15:00:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "",
-    "free": 2,
+    "free": 3,
     "capacity": 14,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-10-06"
@@ -78,7 +78,7 @@
     "end": "2026-10-08T14:30:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "Krista Kekkonen",
-    "free": 1,
+    "free": 0,
     "capacity": 14,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-10-08"
@@ -262,5 +262,29 @@
     "capacity": 14,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-10-17"
+  },
+  {
+    "id": "876200",
+    "name": "Lentopallo: pelurivuoro",
+    "start": "2026-10-19T13:00:00.000Z",
+    "end": "2026-10-19T15:00:00.000Z",
+    "location": "UniSport Kumpula",
+    "instructor": "",
+    "free": 14,
+    "capacity": 14,
+    "source": "Ball Games Kumpula",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-10-19"
+  },
+  {
+    "id": "876216",
+    "name": "Koripallo: rentovuoro",
+    "start": "2026-10-19T17:00:00.000Z",
+    "end": "2026-10-19T18:00:00.000Z",
+    "location": "UniSport Kumpula",
+    "instructor": "",
+    "free": 18,
+    "capacity": 18,
+    "source": "Ball Games Kumpula",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-10-19"
   }
 ]

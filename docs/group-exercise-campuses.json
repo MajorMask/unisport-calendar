@@ -1,0 +1,98 @@
+[
+  {
+    "id": "868318",
+    "name": "Pilates 45 (Musiikkitalo, Tanssistudio)",
+    "start": "2026-10-05T14:30:00.000Z",
+    "end": "2026-10-05T15:15:00.000Z",
+    "location": "Yliopistokampukset",
+    "instructor": "Inari Nikkanen",
+    "free": 14,
+    "capacity": 15,
+    "source": "Group Exercise Campuses",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/~date=2026-10-05"
+  },
+  {
+    "id": "870462",
+    "name": "Pilates 45 (Kandidaattikeskus, Top Lounge)",
+    "start": "2026-10-06T13:15:00.000Z",
+    "end": "2026-10-06T14:00:00.000Z",
+    "location": "Yliopistokampukset",
+    "instructor": "Hanna Autio",
+    "free": 15,
+    "capacity": 15,
+    "source": "Group Exercise Campuses",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/~date=2026-10-06"
+  },
+  {
+    "id": "868353",
+    "name": "Pilates 45 (Teatterikorkeakoulu Sörnäinen, sali 525)",
+    "start": "2026-10-06T14:15:00.000Z",
+    "end": "2026-10-06T15:00:00.000Z",
+    "location": "Yliopistokampukset",
+    "instructor": "Inari Nikkanen",
+    "free": 20,
+    "capacity": 20,
+    "source": "Group Exercise Campuses",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/~date=2026-10-06"
+  },
+  {
+    "id": "868388",
+    "name": "Gentle Hatha Yoga 45 (Teatterikorkeakoulu Sörnäinen, sali 525)",
+    "start": "2026-10-07T14:15:00.000Z",
+    "end": "2026-10-07T15:00:00.000Z",
+    "location": "Yliopistokampukset",
+    "instructor": "Kukka-Maaria Vuorikoski",
+    "free": 19,
+    "capacity": 20,
+    "source": "Group Exercise Campuses",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/~date=2026-10-07"
+  },
+  {
+    "id": "868319",
+    "name": "Pilates 45 (Musiikkitalo, Tanssistudio)",
+    "start": "2026-10-12T14:30:00.000Z",
+    "end": "2026-10-12T15:15:00.000Z",
+    "location": "Yliopistokampukset",
+    "instructor": "Inari Nikkanen",
+    "free": 15,
+    "capacity": 15,
+    "source": "Group Exercise Campuses",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/~date=2026-10-12"
+  },
+  {
+    "id": "870463",
+    "name": "Pilates 45 (Kandidaattikeskus, Top Lounge)",
+    "start": "2026-10-13T13:15:00.000Z",
+    "end": "2026-10-13T14:00:00.000Z",
+    "location": "Yliopistokampukset",
+    "instructor": "Hanna Autio",
+    "free": 15,
+    "capacity": 15,
+    "source": "Group Exercise Campuses",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/~date=2026-10-13"
+  },
+  {
+    "id": "868354",
+    "name": "Pilates 45 (Teatterikorkeakoulu Sörnäinen, sali 525)",
+    "start": "2026-10-13T14:15:00.000Z",
+    "end": "2026-10-13T15:00:00.000Z",
+    "location": "Yliopistokampukset",
+    "instructor": "Katri Djerf",
+    "free": 20,
+    "capacity": 20,
+    "source": "Group Exercise Campuses",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/~date=2026-10-13"
+  },
+  {
+    "id": "868389",
+    "name": "Gentle Hatha Yoga 45 (Teatterikorkeakoulu Sörnäinen, sali 525)",
+    "start": "2026-10-14T14:15:00.000Z",
+    "end": "2026-10-14T15:00:00.000Z",
+    "location": "Yliopistokampukset",
+    "instructor": "Kukka-Maaria Vuorikoski",
+    "free": 20,
+    "capacity": 20,
+    "source": "Group Exercise Campuses",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/~date=2026-10-14"
+  }
+]

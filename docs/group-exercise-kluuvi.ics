@@ -1,0 +1,3202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//unisport-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UniSport Group Exercise – Kluuvi
+X-WR-TIMEZONE:Europe/Helsinki
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:870152@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261004T070000Z
+DTEND:20261004T081500Z
+SUMMARY:Yin Yoga 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-04\nInstructor: Kia Gluschkoff\nFree spots wh
+ en last checked: 17 / 40\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-04
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yin Yoga 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870186@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261004T100000Z
+DTEND:20261004T110000Z
+SUMMARY:BODYPUMP™  in English
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-04\nInstructor: Eveliina Sjöblom\nFree spots
+  when last checked: 0 / 38\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-04
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™  in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870220@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261004T111500Z
+DTEND:20261004T121500Z
+SUMMARY:Pilates in English
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-04\nInstructor: Marianne Airisniemi\nFree spo
+ ts when last checked: 0 / 40\nBooking opens 6 days before. Cancel at leas
+ t 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-04
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870254@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261004T123000Z
+DTEND:20261004T133000Z
+SUMMARY:Body
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-04\nInstructor: Hanna Huumonen\nFree spots wh
+ en last checked: 30 / 35\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-04
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Body
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870288@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261004T134000Z
+DTEND:20261004T142500Z
+SUMMARY:LES MILLS DANCE™ in English
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-04\nInstructor: Kimi Holm\nFree spots when la
+ st checked: 13 / 35\nBooking opens 6 days before. Cancel at least 2 h bef
+ ore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-04
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:LES MILLS DANCE™ in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870322@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261004T144000Z
+DTEND:20261004T154000Z
+SUMMARY:Dance Choreo Musical Jazz (Uusi koreografia)
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-04\nInstructor: Jere Jääskeläinen\nFree sp
+ ots when last checked: 0 / 40\nBooking opens 6 days before. Cancel at lea
+ st 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-04
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dance Choreo Musical Jazz (Uusi koreografia)
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868284@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261004T144500Z
+DTEND:20261004T154500Z
+SUMMARY:Spin Intensive
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-04\nInstructor: Sonetta Harjanne\nFree spots 
+ when last checked: 22 / 25\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-04
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Intensive
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870356@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261004T155000Z
+DTEND:20261004T165000Z
+SUMMARY:BODYBALANCE™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-04\nInstructor: Sonetta Harjanne\nFree spots 
+ when last checked: 22 / 40\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-04
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYBALANCE™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868771@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261005T075000Z
+DTEND:20261005T085000Z
+SUMMARY:BODYBALANCE™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-05\nInstructor: Eija Karonen\nFree spots when
+  last checked: 34 / 40\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-05
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYBALANCE™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870692@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261005T100000Z
+DTEND:20261005T110000Z
+SUMMARY:Pilates
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-05\nInstructor: Katja Lilja\nFree spots when 
+ last checked: 14 / 40\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-05
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868839@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261005T115000Z
+DTEND:20261005T130500Z
+SUMMARY:Ashtanga Yoga in English 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-05\nInstructor: Outi Sirviö\nFree spots when
+  last checked: 22 / 40\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-05
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ashtanga Yoga in English 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868873@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261005T131500Z
+DTEND:20261005T141500Z
+SUMMARY:BODYJAM™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-05\nInstructor: Iina Hakola\nFree spots when 
+ last checked: 29 / 40\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-05
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYJAM™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867494@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261005T140000Z
+DTEND:20261005T150000Z
+SUMMARY:Spin Endurance
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-05\nInstructor: Janne Taivainen\nFree spots w
+ hen last checked: 12 / 25\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-05
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Endurance
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867358@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261005T142500Z
+DTEND:20261005T152500Z
+SUMMARY:BODYBALANCE™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-05\nInstructor: Iina Hakola\nFree spots when 
+ last checked: 0 / 18\nBooking opens 6 days before. Cancel at least 2 h be
+ fore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-05
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYBALANCE™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868907@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261005T142500Z
+DTEND:20261005T152500Z
+SUMMARY:Interval Step
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-05\nInstructor: Ingrid Suominen\nFree spots w
+ hen last checked: 0 / 40\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-05
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Interval Step
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867426@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261005T151500Z
+DTEND:20261005T161500Z
+SUMMARY:Spin Heavy in English
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-05\nInstructor: Amanda Åkerlund\nFree spots 
+ when last checked: 0 / 25\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-05
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Heavy in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868941@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261005T153500Z
+DTEND:20261005T163500Z
+SUMMARY:Circuit Training
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-05\nInstructor: Janne Taivainen\nFree spots w
+ hen last checked: 7 / 50\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-05
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Circuit Training
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870760@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261005T154500Z
+DTEND:20261005T164500Z
+SUMMARY:Pilates
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-05\nInstructor: Inari Nikkanen\nFree spots wh
+ en last checked: 0 / 18\nBooking opens 6 days before. Cancel at least 2 h
+  before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-05
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870390@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261005T164500Z
+DTEND:20261005T174500Z
+SUMMARY:Dance Choreo Commercial in English
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-05\nInstructor: Jewel Alarcon\nFree spots whe
+ n last checked: 0 / 40\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-05
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dance Choreo Commercial in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867529@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261006T043000Z
+DTEND:20261006T053000Z
+SUMMARY:Flow Yoga
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-06\nInstructor: Outi Pikkuoksa\nFree spots wh
+ en last checked: 0 / 18\nBooking opens 6 days before. Cancel at least 2 h
+  before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-06
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Flow Yoga
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868976@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261006T080000Z
+DTEND:20261006T090000Z
+SUMMARY:Body
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-06\nInstructor: Marianne Airisniemi\nFree spo
+ ts when last checked: 36 / 40\nBooking opens 6 days before. Cancel at lea
+ st 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-06
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Body
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869011@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261006T093000Z
+DTEND:20261006T104500Z
+SUMMARY:Yin Yoga 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-06\nInstructor: Peppina Lindfors\nFree spots 
+ when last checked: 28 / 40\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-06
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yin Yoga 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869046@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261006T110000Z
+DTEND:20261006T120000Z
+SUMMARY:Pilates
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-06\nInstructor: Susanna Keski-Kohtamäki\nFre
+ e spots when last checked: 18 / 40\nBooking opens 6 days before. Cancel a
+ t least 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-06
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869081@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261006T121000Z
+DTEND:20261006T131000Z
+SUMMARY:Dance Choreo Showjazz (Uusi koreografia)
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-06\nInstructor: Jere Jääskeläinen\nFree sp
+ ots when last checked: 0 / 40\nBooking opens 6 days before. Cancel at lea
+ st 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-06
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dance Choreo Showjazz (Uusi koreografia)
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869105@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261006T131500Z
+DTEND:20261006T140000Z
+SUMMARY:BODYCOMBAT™ 45 på svenska
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-06\nInstructor: Pieter Claes\nFree spots when
+  last checked: 27 / 35\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-06
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYCOMBAT™ 45 på svenska
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867564@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261006T133000Z
+DTEND:20261006T141500Z
+SUMMARY:Physio Neck & Back 45
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-06\nInstructor: Mareike Vogt\nFree spots when
+  last checked: 4 / 16\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-06
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Physio Neck & Back 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867704@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261006T140500Z
+DTEND:20261006T152000Z
+SUMMARY:Spin Endurance 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-06\nInstructor: Iivari Tiusanen\nFree spots w
+ hen last checked: 9 / 25\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-06
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Endurance 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869140@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261006T141000Z
+DTEND:20261006T151000Z
+SUMMARY:BODYPUMP™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-06\nInstructor: Mari Mäki-Torkko\nFree spots
+  when last checked: 0 / 43\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-06
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867669@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261006T143000Z
+DTEND:20261006T151500Z
+SUMMARY:Indoor Cardio
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-06\nInstructor: Milla Valjus\nFree spots when
+  last checked: 13 / 18\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-06
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Indoor Cardio
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867634@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261006T152000Z
+DTEND:20261006T162000Z
+SUMMARY:Box Fit
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-06\nInstructor: Marika Niskanen\nFree spots w
+ hen last checked: 3 / 16\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-06
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Box Fit
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869175@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261006T152000Z
+DTEND:20261006T160500Z
+SUMMARY:Pilates 45
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-06\nInstructor: Kirsi Ketola\nFree spots when
+  last checked: 34 / 45\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-06
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870520@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261006T153000Z
+DTEND:20261006T160000Z
+SUMMARY:Spin HIIT 30
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-06\nInstructor: Iivari Tiusanen\nFree spots w
+ hen last checked: 23 / 25\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-06
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin HIIT 30
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867761@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261006T161000Z
+DTEND:20261006T162000Z
+SUMMARY:Spin Intro
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-06\nInstructor: Kirsi Ketola\nFree spots when
+  last checked: 0\nBooking opens 6 days before. Cancel at least 2 h before
+  to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-06
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Intro
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869210@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261006T161500Z
+DTEND:20261006T164500Z
+SUMMARY:Core Training 30
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-06\nInstructor: Eija Karonen\nFree spots when
+  last checked: 24 / 35\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-06
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Core Training 30
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867796@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261006T162000Z
+DTEND:20261006T170500Z
+SUMMARY:Spin Easy 45
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-06\nInstructor: Kirsi Ketola\nFree spots when
+  last checked: 13 / 25\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-06
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Easy 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870425@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261006T163000Z
+DTEND:20261006T174500Z
+SUMMARY:Gentle Hatha Yoga  + Mindful Moment75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-06\nInstructor: Kukka-Maaria Vuorikoski\nFree
+  spots when last checked: 11 / 18\nBooking opens 6 days before. Cancel at
+  least 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-06
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gentle Hatha Yoga  + Mindful Moment75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869245@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261006T170000Z
+DTEND:20261006T180000Z
+SUMMARY:BODYBALANCE™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-06\nInstructor: Eija Karonen\nFree spots when
+  last checked: 27 / 40\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-06
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYBALANCE™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:871754@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261007T050000Z
+DTEND:20261007T054500Z
+SUMMARY:Pilates 45
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-07\nInstructor: Katja Lilja\nFree spots when 
+ last checked: 31 / 40\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-07
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869280@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261007T075000Z
+DTEND:20261007T085000Z
+SUMMARY:BODYPUMP™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-07\nInstructor: Jenni Haukirauma\nFree spots 
+ when last checked: 31 / 43\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-07
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869315@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261007T115500Z
+DTEND:20261007T125500Z
+SUMMARY:Pilates
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-07\nInstructor: Minna Määttä\nFree spots w
+ hen last checked: 9 / 40\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-07
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869350@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261007T130000Z
+DTEND:20261007T140000Z
+SUMMARY:Dance Choreo Jazz
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-07\nInstructor: Marianne Airisniemi\nFree spo
+ ts when last checked: 7 / 40\nBooking opens 6 days before. Cancel at leas
+ t 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-07
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dance Choreo Jazz
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867901@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261007T141000Z
+DTEND:20261007T151000Z
+SUMMARY:Spin Endurance
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-07\nInstructor: Iivari Tiusanen\nFree spots w
+ hen last checked: 12 / 25\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-07
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Endurance
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869385@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261007T141000Z
+DTEND:20261007T144000Z
+SUMMARY:Core Training 30
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-07\nInstructor: Milla Valjus\nFree spots when
+  last checked: 31 / 35\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-07
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Core Training 30
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867831@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261007T141500Z
+DTEND:20261007T151500Z
+SUMMARY:Flow Yoga in English
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-07\nInstructor: Paula Band\nFree spots when l
+ ast checked: 0 / 18\nBooking opens 6 days before. Cancel at least 2 h bef
+ ore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-07
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Flow Yoga in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869420@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261007T144500Z
+DTEND:20261007T154500Z
+SUMMARY:BODYJAM™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-07\nInstructor: Milla Valjus\nFree spots when
+  last checked: 27 / 40\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-07
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYJAM™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867971@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261007T150000Z
+DTEND:20261007T154500Z
+SUMMARY:Indoor Cardio
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-07\nInstructor: Panu Erästö\nFree spots whe
+ n last checked: 14 / 18\nBooking opens 6 days before. Cancel at least 2 h
+  before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-07
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Indoor Cardio
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867936@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261007T153000Z
+DTEND:20261007T163000Z
+SUMMARY:Spin Intensive
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-07\nInstructor: Tero Vauraste\nFree spots whe
+ n last checked: 21 / 25\nBooking opens 6 days before. Cancel at least 2 h
+  before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-07
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Intensive
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869455@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261007T160000Z
+DTEND:20261007T164500Z
+SUMMARY:Pilates 45
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-07\nInstructor: Panu Erästö\nFree spots whe
+ n last checked: 32 / 40\nBooking opens 6 days before. Cancel at least 2 h
+  before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-07
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869490@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261007T170000Z
+DTEND:20261007T181500Z
+SUMMARY:Yin Yoga 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-07\nInstructor: Vesa Rouvinen\nFree spots whe
+ n last checked: 34 / 40\nBooking opens 6 days before. Cancel at least 2 h
+  before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-07
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yin Yoga 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869526@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261008T041500Z
+DTEND:20261008T051500Z
+SUMMARY:BODYPUMP™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-08\nInstructor: Nana Sironen\nFree spots when
+  last checked: 32 / 38\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-08
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869561@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261008T054500Z
+DTEND:20261008T064500Z
+SUMMARY:Pilates
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-08\nInstructor: Petra Nyman\nFree spots when 
+ last checked: 41 / 45\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-08
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869596@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261008T075000Z
+DTEND:20261008T085000Z
+SUMMARY:BODYCOMBAT™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-08\nInstructor: Leena Turkki\nFree spots when
+  last checked: 32 / 35\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-08
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYCOMBAT™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868006@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261008T080000Z
+DTEND:20261008T084500Z
+SUMMARY:Physio Neck & Back 45
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-08\nInstructor: Hanna Autio\nFree spots when 
+ last checked: 12 / 16\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-08
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Physio Neck & Back 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870555@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261008T085500Z
+DTEND:20261008T090500Z
+SUMMARY:Spin Intro
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-08\nInstructor: Hanna Autio\nFree spots when 
+ last checked: 0\nBooking opens 6 days before. Cancel at least 2 h before 
+ to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-08
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Intro
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870590@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261008T090500Z
+DTEND:20261008T095000Z
+SUMMARY:Spin Easy 45
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-08\nInstructor: Hanna Autio\nFree spots when 
+ last checked: 24 / 25\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-08
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Easy 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869631@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261008T115500Z
+DTEND:20261008T125500Z
+SUMMARY:Dance Choreo Hiphop
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-08\nInstructor: Anniina Ala-Mattinen\nFree sp
+ ots when last checked: 36 / 40\nBooking opens 6 days before. Cancel at le
+ ast 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-08
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dance Choreo Hiphop
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869666@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261008T131000Z
+DTEND:20261008T141000Z
+SUMMARY:Mobility
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-08\nInstructor: Marianne Airisniemi\nFree spo
+ ts when last checked: 38 / 40\nBooking opens 6 days before. Cancel at lea
+ st 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-08
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mobility
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868111@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261008T141500Z
+DTEND:20261008T150000Z
+SUMMARY:Indoor Cardio
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-08\nInstructor: Elias Uusi-Rauva\nFree spots 
+ when last checked: 15 / 18\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-08
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Indoor Cardio
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869701@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261008T141500Z
+DTEND:20261008T150000Z
+SUMMARY:LES MILLS DANCE™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-08\nInstructor: Mirva Kivinen\nFree spots whe
+ n last checked: 20 / 35\nBooking opens 6 days before. Cancel at least 2 h
+  before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-08
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:LES MILLS DANCE™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868076@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261008T143000Z
+DTEND:20261008T153000Z
+SUMMARY:Spin Heavy
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-08\nInstructor: Mirjam Rabi\nFree spots when 
+ last checked: 24 / 25\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-08
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Heavy
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869736@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261008T150500Z
+DTEND:20261008T160500Z
+SUMMARY:TUNTIMUUTOS: BODYCOMBAT™ in English
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-08\nInstructor: Ingrid Suominen\nFree spots w
+ hen last checked: 0 / 35\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-08
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUNTIMUUTOS: BODYCOMBAT™ in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868041@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261008T161000Z
+DTEND:20261008T172500Z
+SUMMARY:Ashtanga Yoga 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-08\nInstructor: Outi Sirviö\nFree spots when
+  last checked: 11 / 18\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-08
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ashtanga Yoga 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869771@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261008T161500Z
+DTEND:20261008T171500Z
+SUMMARY:BODYPUMP™  in English
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-08\nInstructor: Hanne Vilpponen\nFree spots w
+ hen last checked: 29 / 43\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-08
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™  in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:880986@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261009T050000Z
+DTEND:20261009T061500Z
+SUMMARY:Gentle Hatha Yoga 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-09\nInstructor: Annika Sarvela\nFree spots wh
+ en last checked: 36 / 40\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-09
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gentle Hatha Yoga 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869806@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261009T084000Z
+DTEND:20261009T092500Z
+SUMMARY:Mobility 45
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-09\nInstructor: Minna Määttä\nFree spots w
+ hen last checked: 39 / 40\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-09
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mobility 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869841@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261009T093000Z
+DTEND:20261009T103000Z
+SUMMARY:Pilates
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-09\nInstructor: Minna Määttä\nFree spots w
+ hen last checked: 31 / 45\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-09
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868146@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261009T113000Z
+DTEND:20261009T124500Z
+SUMMARY:Ashtanga Yoga 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-09\nInstructor: Ulla Prami\nFree spots when l
+ ast checked: 10 / 18\nBooking opens 6 days before. Cancel at least 2 h be
+ fore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-09
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ashtanga Yoga 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869876@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261009T114500Z
+DTEND:20261009T124500Z
+SUMMARY:BODYCOMBAT™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-09\nInstructor: Helena Pasanen\nFree spots wh
+ en last checked: 38 / 40\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-09
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYCOMBAT™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869911@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261009T131500Z
+DTEND:20261009T141500Z
+SUMMARY:Zumba™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-09\nInstructor: Marianne Airisniemi\nFree spo
+ ts when last checked: 9 / 40\nBooking opens 6 days before. Cancel at leas
+ t 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-09
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zumba™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868181@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261009T132500Z
+DTEND:20261009T142500Z
+SUMMARY:Easy Training
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-09\nInstructor: Helena Pasanen\nFree spots wh
+ en last checked: 14 / 16\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-09
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Easy Training
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868216@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261009T135500Z
+DTEND:20261009T152500Z
+SUMMARY:Spin Endurance 90
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-09\nInstructor: Iivari Tiusanen\nFree spots w
+ hen last checked: 24 / 25\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-09
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Endurance 90
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869946@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261009T142500Z
+DTEND:20261009T152500Z
+SUMMARY:Pilates
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-09\nInstructor: Marianne Airisniemi\nFree spo
+ ts when last checked: 19 / 40\nBooking opens 6 days before. Cancel at lea
+ st 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-09
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869981@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261009T154000Z
+DTEND:20261009T164000Z
+SUMMARY:BODYPUMP™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-09\nInstructor: Iivari Tiusanen\nFree spots w
+ hen last checked: 37 / 38\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-09
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870017@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261010T063000Z
+DTEND:20261010T074500Z
+SUMMARY:Flow Yoga 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-10\nInstructor: Anna Ahtiainen\nFree spots wh
+ en last checked: 34 / 40\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-10
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Flow Yoga 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868251@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261010T074500Z
+DTEND:20261010T090000Z
+SUMMARY:Spin Intensive 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-10\nInstructor: Tero Vauraste\nFree spots whe
+ n last checked: 25 / 25\nBooking opens 6 days before. Cancel at least 2 h
+  before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-10
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Intensive 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870051@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261010T080000Z
+DTEND:20261010T090000Z
+SUMMARY:BODYPUMP™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-10\nInstructor: Eija Kolehmainen\nFree spots 
+ when last checked: 37 / 38\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-10
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870659@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261010T091500Z
+DTEND:20261010T101500Z
+SUMMARY:BODYCOMBAT™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-10\nInstructor: Eija Karonen\nFree spots when
+  last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-10
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYCOMBAT™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870085@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261010T103000Z
+DTEND:20261010T113000Z
+SUMMARY:BODYBALANCE™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-10\nInstructor: Eija Karonen\nFree spots when
+  last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-10
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYBALANCE™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870119@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261010T132000Z
+DTEND:20261010T142000Z
+SUMMARY:Dance Choreo Jazz
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-10\nInstructor: Mervi Keskinen\nFree spots wh
+ en last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-10
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dance Choreo Jazz
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870153@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261011T070000Z
+DTEND:20261011T081500Z
+SUMMARY:Yin Yoga 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-11\nInstructor: Kia Gluschkoff\nFree spots wh
+ en last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-11
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yin Yoga 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870187@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261011T100000Z
+DTEND:20261011T110000Z
+SUMMARY:BODYPUMP™  in English
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-11\nInstructor: Eveliina Sjöblom\nFree spots
+  when last checked: 38 / 38\nBooking opens 6 days before. Cancel at least
+  2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-11
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™  in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870221@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261011T111500Z
+DTEND:20261011T121500Z
+SUMMARY:Pilates in English
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-11\nInstructor: Marianne Airisniemi\nFree spo
+ ts when last checked: 40 / 40\nBooking opens 6 days before. Cancel at lea
+ st 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-11
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870255@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261011T123000Z
+DTEND:20261011T133000Z
+SUMMARY:Body
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-11\nInstructor: Hanna Huumonen\nFree spots wh
+ en last checked: 35 / 35\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-11
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Body
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870289@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261011T134000Z
+DTEND:20261011T142500Z
+SUMMARY:LES MILLS DANCE™ in English
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-11\nInstructor: Kimi Holm\nFree spots when la
+ st checked: 35 / 35\nBooking opens 6 days before. Cancel at least 2 h bef
+ ore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-11
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:LES MILLS DANCE™ in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870323@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261011T144000Z
+DTEND:20261011T154000Z
+SUMMARY:Dance Choreo Musical Jazz
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-11\nInstructor: Jere Jääskeläinen\nFree sp
+ ots when last checked: 40 / 40\nBooking opens 6 days before. Cancel at le
+ ast 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-11
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dance Choreo Musical Jazz
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868285@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261011T144500Z
+DTEND:20261011T154500Z
+SUMMARY:Spin Intensive
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-11\nInstructor: Sonetta Harjanne\nFree spots 
+ when last checked: 25 / 25\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-11
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Intensive
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870357@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261011T155000Z
+DTEND:20261011T165000Z
+SUMMARY:BODYBALANCE™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-11\nInstructor: Sonetta Harjanne\nFree spots 
+ when last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-11
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYBALANCE™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868772@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261012T075000Z
+DTEND:20261012T085000Z
+SUMMARY:BODYBALANCE™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-12\nInstructor: Eija Karonen\nFree spots when
+  last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYBALANCE™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870693@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261012T100000Z
+DTEND:20261012T110000Z
+SUMMARY:Pilates
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-12\nInstructor: Katja Lilja\nFree spots when 
+ last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868840@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261012T115000Z
+DTEND:20261012T130500Z
+SUMMARY:Flow Yoga in English 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-12\nInstructor: Paula Band\nFree spots when l
+ ast checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h be
+ fore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Flow Yoga in English 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868874@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261012T131500Z
+DTEND:20261012T141500Z
+SUMMARY:BODYJAM™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-12\nInstructor: Iina Hakola\nFree spots when 
+ last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYJAM™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867495@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261012T140000Z
+DTEND:20261012T150000Z
+SUMMARY:Spin Endurance
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-12\nInstructor: Ukkopekka Hyvönen\nFree spot
+ s when last checked: 25 / 25\nBooking opens 6 days before. Cancel at leas
+ t 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Endurance
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867359@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261012T142500Z
+DTEND:20261012T152500Z
+SUMMARY:BODYBALANCE™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-12\nInstructor: Iina Hakola\nFree spots when 
+ last checked: 18 / 18\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYBALANCE™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868908@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261012T142500Z
+DTEND:20261012T152500Z
+SUMMARY:Interval Step
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-12\nInstructor: Katri Djerf\nFree spots when 
+ last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Interval Step
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867427@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261012T151500Z
+DTEND:20261012T161500Z
+SUMMARY:Spin Heavy in English
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-12\nInstructor: Amanda Åkerlund\nFree spots 
+ when last checked: 25 / 25\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Heavy in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868942@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261012T153500Z
+DTEND:20261012T163500Z
+SUMMARY:Circuit Training
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-12\nInstructor: Katri Djerf\nFree spots when 
+ last checked: 50 / 50\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Circuit Training
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870761@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261012T154500Z
+DTEND:20261012T164500Z
+SUMMARY:Pilates
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-12\nInstructor: Inari Nikkanen\nFree spots wh
+ en last checked: 18 / 18\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870391@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261012T164500Z
+DTEND:20261012T174500Z
+SUMMARY:Dance Choreo Commercial in English
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-12\nInstructor: Jewel Alarcon\nFree spots whe
+ n last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h
+  before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dance Choreo Commercial in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867530@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261013T043000Z
+DTEND:20261013T053000Z
+SUMMARY:Flow Yoga
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-13\nInstructor: Outi Pikkuoksa\nFree spots wh
+ en last checked: 18 / 18\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Flow Yoga
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868977@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261013T080000Z
+DTEND:20261013T090000Z
+SUMMARY:Body
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-13\nInstructor: Adele Salonen\nFree spots whe
+ n last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h
+  before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Body
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869012@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261013T093000Z
+DTEND:20261013T104500Z
+SUMMARY:Yin Yoga 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-13\nInstructor: Peppina Lindfors\nFree spots 
+ when last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yin Yoga 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869047@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261013T110000Z
+DTEND:20261013T120000Z
+SUMMARY:Pilates
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-13\nInstructor: Susanna Keski-Kohtamäki\nFre
+ e spots when last checked: 40 / 40\nBooking opens 6 days before. Cancel a
+ t least 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:881474@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261013T113000Z
+DTEND:20261013T133000Z
+SUMMARY:Kuntosalin workshop: Vahvat pakarat
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-13\nInstructor: Tiina Kärki\nFree spots when
+  last checked: 10 / 10\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kuntosalin workshop: Vahvat pakarat
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869082@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261013T121000Z
+DTEND:20261013T131000Z
+SUMMARY:Dance Choreo Showjazz
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-13\nInstructor: Jere Jääskeläinen\nFree sp
+ ots when last checked: 40 / 40\nBooking opens 6 days before. Cancel at le
+ ast 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dance Choreo Showjazz
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869106@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261013T131500Z
+DTEND:20261013T140000Z
+SUMMARY:BODYCOMBAT™ 45 på svenska
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-13\nInstructor: Pieter Claes\nFree spots when
+  last checked: 35 / 35\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYCOMBAT™ 45 på svenska
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867565@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261013T133000Z
+DTEND:20261013T141500Z
+SUMMARY:Physio Neck & Back 45
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-13\nInstructor: Mareike Vogt\nFree spots when
+  last checked: 16 / 16\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Physio Neck & Back 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867705@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261013T140500Z
+DTEND:20261013T152000Z
+SUMMARY:Spin Endurance 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-13\nInstructor: Iivari Tiusanen\nFree spots w
+ hen last checked: 25 / 25\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Endurance 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869141@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261013T141000Z
+DTEND:20261013T151000Z
+SUMMARY:BODYPUMP™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-13\nInstructor: Mari Mäki-Torkko\nFree spots
+  when last checked: 43 / 43\nBooking opens 6 days before. Cancel at least
+  2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867670@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261013T143000Z
+DTEND:20261013T151500Z
+SUMMARY:Indoor Cardio
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-13\nInstructor: Milla Valjus\nFree spots when
+  last checked: 18 / 18\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Indoor Cardio
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867635@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261013T152000Z
+DTEND:20261013T162000Z
+SUMMARY:Box Fit
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-13\nInstructor: Marika Niskanen\nFree spots w
+ hen last checked: 16 / 16\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Box Fit
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869176@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261013T152000Z
+DTEND:20261013T160500Z
+SUMMARY:Pilates 45
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-13\nInstructor: Kirsi Ketola\nFree spots when
+  last checked: 45 / 45\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870521@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261013T153000Z
+DTEND:20261013T160000Z
+SUMMARY:Spin HIIT 30
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-13\nInstructor: Iivari Tiusanen\nFree spots w
+ hen last checked: 25 / 25\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin HIIT 30
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867762@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261013T161000Z
+DTEND:20261013T162000Z
+SUMMARY:Spin Intro
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-13\nInstructor: Kirsi Ketola\nFree spots when
+  last checked: 0\nBooking opens 6 days before. Cancel at least 2 h before
+  to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Intro
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869211@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261013T161500Z
+DTEND:20261013T164500Z
+SUMMARY:Core Training 30
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-13\nInstructor: Katri Djerf\nFree spots when 
+ last checked: 35 / 35\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Core Training 30
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867797@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261013T162000Z
+DTEND:20261013T170500Z
+SUMMARY:Spin Easy 45
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-13\nInstructor: Kirsi Ketola\nFree spots when
+  last checked: 25 / 25\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Easy 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870426@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261013T163000Z
+DTEND:20261013T174500Z
+SUMMARY:Gentle Hatha Yoga  + Mindful Moment75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-13\nInstructor: Kukka-Maaria Vuorikoski\nFree
+  spots when last checked: 18 / 18\nBooking opens 6 days before. Cancel at
+  least 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gentle Hatha Yoga  + Mindful Moment75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869246@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261013T170000Z
+DTEND:20261013T180000Z
+SUMMARY:BODYBALANCE™ in English
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-13\nInstructor: Katri Djerf\nFree spots when 
+ last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYBALANCE™ in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:871755@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261014T050000Z
+DTEND:20261014T054500Z
+SUMMARY:Pilates 45
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-14\nInstructor: Katja Lilja\nFree spots when 
+ last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869281@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261014T075000Z
+DTEND:20261014T085000Z
+SUMMARY:BODYPUMP™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-14\nInstructor: Jenni Haukirauma\nFree spots 
+ when last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869316@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261014T115500Z
+DTEND:20261014T125500Z
+SUMMARY:Pilates
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-14\nInstructor: Minna Määttä\nFree spots w
+ hen last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869351@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261014T130000Z
+DTEND:20261014T140000Z
+SUMMARY:Dance Choreo Jazz
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-14\nInstructor: Marianne Airisniemi\nFree spo
+ ts when last checked: 40 / 40\nBooking opens 6 days before. Cancel at lea
+ st 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dance Choreo Jazz
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867902@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261014T141000Z
+DTEND:20261014T151000Z
+SUMMARY:Spin Endurance
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-14\nInstructor: Iivari Tiusanen\nFree spots w
+ hen last checked: 25 / 25\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Endurance
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869386@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261014T141000Z
+DTEND:20261014T144000Z
+SUMMARY:Core Training 30
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-14\nInstructor: Jere Jääskeläinen\nFree sp
+ ots when last checked: 35 / 35\nBooking opens 6 days before. Cancel at le
+ ast 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Core Training 30
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867832@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261014T141500Z
+DTEND:20261014T151500Z
+SUMMARY:Flow Yoga in English
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-14\nInstructor: Paula Band\nFree spots when l
+ ast checked: 18 / 18\nBooking opens 6 days before. Cancel at least 2 h be
+ fore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Flow Yoga in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869421@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261014T144500Z
+DTEND:20261014T154500Z
+SUMMARY:BODYJAM™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-14\nInstructor: Jere Jääskeläinen\nFree sp
+ ots when last checked: 40 / 40\nBooking opens 6 days before. Cancel at le
+ ast 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYJAM™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867972@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261014T150000Z
+DTEND:20261014T154500Z
+SUMMARY:Indoor Cardio
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-14\nInstructor: Panu Erästö\nFree spots whe
+ n last checked: 18 / 18\nBooking opens 6 days before. Cancel at least 2 h
+  before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Indoor Cardio
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:867937@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261014T153000Z
+DTEND:20261014T163000Z
+SUMMARY:Spin Intensive
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-14\nInstructor: Tero Vauraste\nFree spots whe
+ n last checked: 25 / 25\nBooking opens 6 days before. Cancel at least 2 h
+  before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Intensive
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869456@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261014T160000Z
+DTEND:20261014T164500Z
+SUMMARY:Pilates 45
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-14\nInstructor: Panu Erästö\nFree spots whe
+ n last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h
+  before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869491@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261014T170000Z
+DTEND:20261014T181500Z
+SUMMARY:Yin Yoga 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-14\nInstructor: Vesa Rouvinen\nFree spots whe
+ n last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h
+  before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yin Yoga 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869527@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261015T041500Z
+DTEND:20261015T051500Z
+SUMMARY:BODYPUMP™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-15\nInstructor: Eija Karonen\nFree spots when
+  last checked: 38 / 38\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-15
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869562@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261015T054500Z
+DTEND:20261015T064500Z
+SUMMARY:Pilates
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-15\nInstructor: Susanna Keski-Kohtamäki\nFre
+ e spots when last checked: 45 / 45\nBooking opens 6 days before. Cancel a
+ t least 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-15
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869597@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261015T075000Z
+DTEND:20261015T085000Z
+SUMMARY:BODYCOMBAT™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-15\nInstructor: Leena Turkki\nFree spots when
+  last checked: 35 / 35\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-15
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYCOMBAT™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868007@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261015T080000Z
+DTEND:20261015T084500Z
+SUMMARY:Physio Neck & Back 45
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-15\nInstructor: Hanna Autio\nFree spots when 
+ last checked: 16 / 16\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-15
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Physio Neck & Back 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870556@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261015T085500Z
+DTEND:20261015T090500Z
+SUMMARY:Spin Intro
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-15\nInstructor: Hanna Autio\nFree spots when 
+ last checked: 0\nBooking opens 6 days before. Cancel at least 2 h before 
+ to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-15
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Intro
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870591@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261015T090500Z
+DTEND:20261015T095000Z
+SUMMARY:Spin Easy 45
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-15\nInstructor: Hanna Autio\nFree spots when 
+ last checked: 25 / 25\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-15
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Easy 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869632@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261015T115500Z
+DTEND:20261015T125500Z
+SUMMARY:Dance Choreo Hiphop
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-15\nInstructor: Anniina Ala-Mattinen\nFree sp
+ ots when last checked: 40 / 40\nBooking opens 6 days before. Cancel at le
+ ast 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-15
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dance Choreo Hiphop
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869667@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261015T131000Z
+DTEND:20261015T141000Z
+SUMMARY:Mobility
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-15\nInstructor: Marianne Airisniemi\nFree spo
+ ts when last checked: 40 / 40\nBooking opens 6 days before. Cancel at lea
+ st 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-15
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mobility
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868112@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261015T141500Z
+DTEND:20261015T150000Z
+SUMMARY:Indoor Cardio
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-15\nInstructor: Elias Uusi-Rauva\nFree spots 
+ when last checked: 18 / 18\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-15
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Indoor Cardio
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869702@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261015T141500Z
+DTEND:20261015T150000Z
+SUMMARY:LES MILLS DANCE™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-15\nInstructor: Kimi Holm\nFree spots when la
+ st checked: 35 / 35\nBooking opens 6 days before. Cancel at least 2 h bef
+ ore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-15
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:LES MILLS DANCE™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868077@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261015T143000Z
+DTEND:20261015T153000Z
+SUMMARY:Spin Heavy
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-15\nInstructor: Mirjam Rabi\nFree spots when 
+ last checked: 25 / 25\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-15
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Heavy
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869737@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261015T150500Z
+DTEND:20261015T160500Z
+SUMMARY:BODYCOMBAT™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-15\nInstructor: Kimi Holm\nFree spots when la
+ st checked: 35 / 35\nBooking opens 6 days before. Cancel at least 2 h bef
+ ore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-15
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYCOMBAT™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868042@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261015T161000Z
+DTEND:20261015T172500Z
+SUMMARY:Ashtanga Yoga 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-15\nInstructor: Ulla Prami\nFree spots when l
+ ast checked: 18 / 18\nBooking opens 6 days before. Cancel at least 2 h be
+ fore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-15
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ashtanga Yoga 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869772@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261015T161500Z
+DTEND:20261015T171500Z
+SUMMARY:BODYPUMP™  in English
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-15\nInstructor: Hanne Vilpponen\nFree spots w
+ hen last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-15
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™  in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:880987@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261016T050000Z
+DTEND:20261016T061500Z
+SUMMARY:Gentle Hatha Yoga 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-16\nInstructor: Annika Sarvela\nFree spots wh
+ en last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-16
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gentle Hatha Yoga 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869807@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261016T084000Z
+DTEND:20261016T092500Z
+SUMMARY:Mobility 45
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-16\nInstructor: Minna Määttä\nFree spots w
+ hen last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-16
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mobility 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869842@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261016T093000Z
+DTEND:20261016T103000Z
+SUMMARY:Pilates
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-16\nInstructor: Minna Määttä\nFree spots w
+ hen last checked: 45 / 45\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-16
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868147@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261016T113000Z
+DTEND:20261016T124500Z
+SUMMARY:Ashtanga Yoga 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-16\nInstructor: Inari Nikkanen\nFree spots wh
+ en last checked: 18 / 18\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-16
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ashtanga Yoga 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869877@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261016T114500Z
+DTEND:20261016T124500Z
+SUMMARY:BODYCOMBAT™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-16\nInstructor: Helena Pasanen\nFree spots wh
+ en last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-16
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYCOMBAT™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869912@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261016T131500Z
+DTEND:20261016T141500Z
+SUMMARY:Zumba™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-16\nInstructor: Marianne Airisniemi\nFree spo
+ ts when last checked: 40 / 40\nBooking opens 6 days before. Cancel at lea
+ st 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-16
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zumba™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868182@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261016T132500Z
+DTEND:20261016T142500Z
+SUMMARY:Easy Training
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-16\nInstructor: Helena Pasanen\nFree spots wh
+ en last checked: 16 / 16\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-16
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Easy Training
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868217@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261016T135500Z
+DTEND:20261016T152500Z
+SUMMARY:Spin Endurance 90
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-16\nInstructor: Iivari Tiusanen\nFree spots w
+ hen last checked: 25 / 25\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-16
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Endurance 90
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869947@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261016T142500Z
+DTEND:20261016T152500Z
+SUMMARY:Pilates
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-16\nInstructor: Marianne Airisniemi\nFree spo
+ ts when last checked: 40 / 40\nBooking opens 6 days before. Cancel at lea
+ st 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-16
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:869982@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261016T154000Z
+DTEND:20261016T164000Z
+SUMMARY:BODYPUMP™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-16\nInstructor: Iivari Tiusanen\nFree spots w
+ hen last checked: 38 / 38\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-16
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870018@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261017T063000Z
+DTEND:20261017T074500Z
+SUMMARY:Flow Yoga 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-17\nInstructor: Anna Ahtiainen\nFree spots wh
+ en last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-17
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Flow Yoga 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868252@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261017T074500Z
+DTEND:20261017T090000Z
+SUMMARY:Spin Intensive 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-17\nInstructor: Ukkopekka Hyvönen\nFree spot
+ s when last checked: 25 / 25\nBooking opens 6 days before. Cancel at leas
+ t 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-17
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Intensive 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870052@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261017T080000Z
+DTEND:20261017T090000Z
+SUMMARY:BODYPUMP™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-17\nInstructor: Eija Kolehmainen\nFree spots 
+ when last checked: 38 / 38\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-17
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870660@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261017T091500Z
+DTEND:20261017T101500Z
+SUMMARY:BODYCOMBAT™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-17\nInstructor: Eija Karonen\nFree spots when
+  last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-17
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYCOMBAT™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870086@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261017T103000Z
+DTEND:20261017T113000Z
+SUMMARY:BODYBALANCE™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-17\nInstructor: Eija Karonen\nFree spots when
+  last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-17
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYBALANCE™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870120@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261017T132000Z
+DTEND:20261017T142000Z
+SUMMARY:Dance Choreo Jazz
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-17\nInstructor: Mervi Keskinen\nFree spots wh
+ en last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-17
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dance Choreo Jazz
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870154@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261018T070000Z
+DTEND:20261018T081500Z
+SUMMARY:Yin Yoga 75
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-18\nInstructor: Kia Gluschkoff\nFree spots wh
+ en last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-18
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yin Yoga 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:882577@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261018T083000Z
+DTEND:20261018T093000Z
+SUMMARY:BODYCOMBAT™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-18\nInstructor: Kia Gluschkoff\nFree spots wh
+ en last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-18
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYCOMBAT™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870188@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261018T100000Z
+DTEND:20261018T110000Z
+SUMMARY:BODYPUMP™  in English
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-18\nInstructor: Eveliina Sjöblom\nFree spots
+  when last checked: 38 / 38\nBooking opens 6 days before. Cancel at least
+  2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-18
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™  in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870222@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261018T111500Z
+DTEND:20261018T121500Z
+SUMMARY:Pilates in English
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-18\nInstructor: Marianne Airisniemi\nFree spo
+ ts when last checked: 40 / 40\nBooking opens 6 days before. Cancel at lea
+ st 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-18
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870256@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261018T123000Z
+DTEND:20261018T133000Z
+SUMMARY:Body
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-18\nInstructor: Hanna Huumonen\nFree spots wh
+ en last checked: 35 / 35\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-18
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Body
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870290@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261018T134000Z
+DTEND:20261018T142500Z
+SUMMARY:LES MILLS DANCE™ in English
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-18\nInstructor: Kimi Holm\nFree spots when la
+ st checked: 35 / 35\nBooking opens 6 days before. Cancel at least 2 h bef
+ ore to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-18
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:LES MILLS DANCE™ in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870324@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261018T144000Z
+DTEND:20261018T154000Z
+SUMMARY:Dance Choreo Musical Jazz
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-18\nInstructor: Jere Jääskeläinen\nFree sp
+ ots when last checked: 40 / 40\nBooking opens 6 days before. Cancel at le
+ ast 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-18
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dance Choreo Musical Jazz
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:868286@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261018T144500Z
+DTEND:20261018T154500Z
+SUMMARY:Spin Intensive
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-18\nInstructor: Sonetta Harjanne\nFree spots 
+ when last checked: 25 / 25\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-18
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spin Intensive
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:870358@unisport-calendar
+DTSTAMP:20261004T103325Z
+DTSTART:20261018T155000Z
+DTEND:20261018T165000Z
+SUMMARY:BODYBALANCE™
+LOCATION:UniSport Kluuvi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/1/-/-/-/-/~date=2026-10-18\nInstructor: Sonetta Harjanne\nFree spots 
+ when last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/
+ ~date=2026-10-18
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYBALANCE™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,5 +1,5 @@
-// Calls UniSport's public timetable API directly and writes docs/unisport.ics
-// (subscribe to this) plus docs/events.json.
+// Calls UniSport's public timetable API directly and writes one docs/<feed>.ics
+// (subscribe to each separately) plus a matching docs/<feed>.json per feed in config.json.
 import fs from 'node:fs/promises';
 import { DateTime } from 'luxon';
 import { extractEvents, applyFilters, bookingLink, toICS } from './lib.mjs';
@@ -20,9 +20,10 @@ function parseSourceUrl(url) {
   return { service_id, location_ids: clean(location_ids), group_ids: clean(group_ids) };
 }
 
-const found = [];
-for (const src of cfg.sources) {
-  const { service_id, location_ids, group_ids } = parseSourceUrl(src.url);
+let anyFound = false;
+for (const feed of cfg.feeds) {
+  const { source } = feed;
+  const { service_id, location_ids, group_ids } = parseSourceUrl(source.url);
   const from = DateTime.now().setZone(zone).toISODate();
   const to = DateTime.now().setZone(zone).plus({ days: cfg.daysAhead }).toISODate();
   const api = new URL('https://oma.enkora.fi/unisport/reservations2/apievents');
@@ -36,29 +37,33 @@ for (const src of cfg.sources) {
   } catch (err) {
     console.warn(`Could not fetch ${api}: ${err.message}`);
   }
-  if (debug) await fs.writeFile(`debug/response-${src.label}.json`, JSON.stringify(body, null, 2));
+  if (debug) await fs.writeFile(`debug/response-${source.label}.json`, JSON.stringify(body, null, 2));
 
-  const evs = extractEvents(body, zone);
-  for (const e of evs) found.push({ ...e, source: src.label, bookUrl: bookingLink(src.url, e.start, zone) });
-  console.log(`${src.label} ${from}..${to}: ${Array.isArray(body) ? body.length : 0} raw entries, ${evs.length} class entries`);
+  const found = extractEvents(body, zone).map((e) => ({ ...e, source: source.label, bookUrl: bookingLink(source.url, e.start, zone) }));
+  console.log(`${source.label} ${from}..${to}: ${Array.isArray(body) ? body.length : 0} raw entries, ${found.length} class entries`);
+  if (found.length > 0) anyFound = true;
+
+  const jsonPath = `docs/${feed.filename.replace(/\.ics$/, '.json')}`;
+  let previous = [];
+  try { previous = JSON.parse(await fs.readFile(jsonPath, 'utf8')); } catch { /* first run */ }
+  const cutoff = DateTime.utc().minus({ days: cfg.keepPastDays ?? 7 });
+  const byKey = new Map();
+  for (const e of [...previous, ...found]) {
+    if (DateTime.fromISO(e.end) < cutoff) continue;
+    byKey.set(`${e.name}|${e.start}|${e.location}`, e);
+  }
+  const fresh = applyFilters([...byKey.values()], cfg.filters, zone);
+
+  if (found.length === 0 && previous.length === 0) {
+    console.error(`${source.label}: no classes found and no previous data. Skipping write.`);
+    continue;
+  }
+  await fs.writeFile(jsonPath, JSON.stringify(fresh, null, 2));
+  await fs.writeFile(`docs/${feed.filename}`, toICS(fresh, { calendarName: feed.calendarName, reminderMinutesBefore: cfg.reminderMinutesBefore }));
+  console.log(`Wrote ${fresh.length} classes to docs/${feed.filename}`);
 }
 
-// Merge with the previous run so recently past classes stay visible for a while.
-let previous = [];
-try { previous = JSON.parse(await fs.readFile('docs/events.json', 'utf8')); } catch { /* first run */ }
-const cutoff = DateTime.utc().minus({ days: cfg.keepPastDays ?? 7 });
-const byKey = new Map();
-for (const e of [...previous, ...found]) {
-  if (DateTime.fromISO(e.end) < cutoff) continue;
-  byKey.set(`${e.name}|${e.start}|${e.location}`, e);
-}
-const fresh = applyFilters([...byKey.values()], cfg.filters, zone);
-
-if (found.length === 0) {
-  console.error('No classes found on the timetable. Kept the previous calendar. Run with --debug and check the debug folder.');
-  process.exitCode = previous.length ? 0 : 1;
-} else {
-  await fs.writeFile('docs/events.json', JSON.stringify(fresh, null, 2));
-  await fs.writeFile('docs/unisport.ics', toICS(fresh, cfg));
-  console.log(`Wrote ${fresh.length} classes to docs/unisport.ics`);
+if (!anyFound) {
+  console.error('No classes found on any feed. Run with --debug and check the debug folder.');
+  process.exitCode = 1;
 }

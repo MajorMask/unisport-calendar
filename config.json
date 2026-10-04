@@ -1,22 +1,50 @@
 {
-  "calendarName": "UniSport Classes",
   "timezone": "Europe/Helsinki",
-  "sources": [
-    {
-      "label": "Group Exercise",
-      "url": "https://oma.enkora.fi/unisport/reservations2/reservations/3/-/-/-/-/-/"
-    },
-    {
-      "label": "Ball Games",
-      "url": "https://oma.enkora.fi/unisport/reservations2/reservations/14/-/20/-/-/-/"
-    },
-    {
-      "label": "Take a Break",
-      "url": "https://oma.enkora.fi/unisport/reservations2/reservations/39/-/32/-/-/-/"
-    }
-  ],
   "daysAhead": 14,
   "keepPastDays": 7,
+  "reminderMinutesBefore": 60,
+  "feeds": [
+    {
+      "filename": "group-exercise-kluuvi.ics",
+      "calendarName": "UniSport Group Exercise – Kluuvi",
+      "source": { "label": "Group Exercise Kluuvi", "url": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/" }
+    },
+    {
+      "filename": "group-exercise-kumpula.ics",
+      "calendarName": "UniSport Group Exercise – Kumpula",
+      "source": { "label": "Group Exercise Kumpula", "url": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/" }
+    },
+    {
+      "filename": "group-exercise-meilahti.ics",
+      "calendarName": "UniSport Group Exercise – Meilahti",
+      "source": { "label": "Group Exercise Meilahti", "url": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/" }
+    },
+    {
+      "filename": "group-exercise-otaniemi.ics",
+      "calendarName": "UniSport Group Exercise – Otaniemi",
+      "source": { "label": "Group Exercise Otaniemi", "url": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/" }
+    },
+    {
+      "filename": "group-exercise-campuses.ics",
+      "calendarName": "UniSport Group Exercise – University campuses",
+      "source": { "label": "Group Exercise Campuses", "url": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/" }
+    },
+    {
+      "filename": "ball-games-kumpula.ics",
+      "calendarName": "UniSport Ball Games – Kumpula",
+      "source": { "label": "Ball Games Kumpula", "url": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/" }
+    },
+    {
+      "filename": "ball-games-otaniemi.ics",
+      "calendarName": "UniSport Ball Games – Otaniemi",
+      "source": { "label": "Ball Games Otaniemi", "url": "https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/-/" }
+    },
+    {
+      "filename": "take-a-break.ics",
+      "calendarName": "UniSport Take a Break",
+      "source": { "label": "Take a Break", "url": "https://oma.enkora.fi/unisport/reservations2/reservations/39/-/32/-/-/-/" }
+    }
+  ],
   "filters": {
     "nameIncludes": [],
     "nameExcludes": [],
@@ -24,6 +52,5 @@
     "weekdays": [],
     "earliestTime": "",
     "latestTime": ""
-  },
-  "reminderMinutesBefore": 60
+  }
 }

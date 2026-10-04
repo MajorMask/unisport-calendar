@@ -1,6 +1,6 @@
-# UniSport Yoga → your calendar
+# UniSport classes → your calendar
 
-This project gives you a calendar link with UniSport yoga classes. You can subscribe to it in Google Calendar, Apple Calendar or TickTick. Each class event has a **Book** link that opens UniSport's timetable on that day, so the class is one tap away.
+This project gives you a calendar link with UniSport group exercise classes, ball game groups and Take a Break sessions. You can subscribe to it in Google Calendar, Apple Calendar or TickTick. Each class event has a **Book** link that opens UniSport's timetable on that day, so the class is one tap away.
 
 It runs for free on GitHub. Every 3 hours, GitHub opens the public UniSport timetable, reads the classes and updates the calendar file.
 

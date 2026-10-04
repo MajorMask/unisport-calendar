@@ -1,17 +1,25 @@
 {
-  "calendarName": "UniSport Yoga",
+  "calendarName": "UniSport Classes",
   "timezone": "Europe/Helsinki",
   "sources": [
     {
-      "label": "Yoga",
-      "url": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1,13,3,4,5,7/1/-/-/-/"
+      "label": "Group Exercise",
+      "url": "https://oma.enkora.fi/unisport/reservations2/reservations/3/-/-/-/-/-/"
+    },
+    {
+      "label": "Ball Games",
+      "url": "https://oma.enkora.fi/unisport/reservations2/reservations/14/-/20/-/-/-/"
+    },
+    {
+      "label": "Take a Break",
+      "url": "https://oma.enkora.fi/unisport/reservations2/reservations/39/-/32/-/-/-/"
     }
   ],
   "daysAhead": 14,
   "keepPastDays": 7,
   "filters": {
     "nameIncludes": [],
-    "nameExcludes": ["Pilates"],
+    "nameExcludes": [],
     "locationIncludes": [],
     "weekdays": [],
     "earliestTime": "",

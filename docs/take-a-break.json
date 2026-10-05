@@ -298,5 +298,65 @@
     "capacity": null,
     "source": "Take a Break",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/39/-/32/-/-/-/~date=2026-10-19"
+  },
+  {
+    "id": "868669",
+    "name": "Online: Shake a Break!",
+    "start": "2026-10-20T09:05:00.000Z",
+    "end": "2026-10-20T09:20:00.000Z",
+    "location": "UniSport Kluuvi",
+    "instructor": "Marianne Airisniemi",
+    "free": 0,
+    "capacity": null,
+    "source": "Take a Break",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/39/-/32/-/-/-/~date=2026-10-20"
+  },
+  {
+    "id": "868425",
+    "name": "Take a Break! (Viikki)",
+    "start": "2026-10-20T10:00:00.000Z",
+    "end": "2026-10-20T10:15:00.000Z",
+    "location": "Yliopistokampukset",
+    "instructor": "Helena Pasanen",
+    "free": 0,
+    "capacity": null,
+    "source": "Take a Break",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/39/-/32/-/-/-/~date=2026-10-20"
+  },
+  {
+    "id": "872339",
+    "name": "Take a Break! (Otaniemi)",
+    "start": "2026-10-20T10:30:00.000Z",
+    "end": "2026-10-20T10:45:00.000Z",
+    "location": "Yliopistokampukset",
+    "instructor": "Nora Lillandt",
+    "free": 0,
+    "capacity": null,
+    "source": "Take a Break",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/39/-/32/-/-/-/~date=2026-10-20"
+  },
+  {
+    "id": "868460",
+    "name": "Mind a Break! (Otaniemi)",
+    "start": "2026-10-20T11:00:00.000Z",
+    "end": "2026-10-20T11:15:00.000Z",
+    "location": "Yliopistokampukset",
+    "instructor": "Nora Lillandt",
+    "free": 0,
+    "capacity": null,
+    "source": "Take a Break",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/39/-/32/-/-/-/~date=2026-10-20"
+  },
+  {
+    "id": "868495",
+    "name": "Take a Break! (Otaniemi)",
+    "start": "2026-10-20T11:30:00.000Z",
+    "end": "2026-10-20T11:45:00.000Z",
+    "location": "Yliopistokampukset",
+    "instructor": "Nora Lillandt",
+    "free": 0,
+    "capacity": null,
+    "source": "Take a Break",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/39/-/32/-/-/-/~date=2026-10-20"
   }
 ]

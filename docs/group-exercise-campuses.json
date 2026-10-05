@@ -106,5 +106,29 @@
     "capacity": 15,
     "source": "Group Exercise Campuses",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/~date=2026-10-19"
+  },
+  {
+    "id": "870464",
+    "name": "Pilates 45 (Kandidaattikeskus, Top Lounge)",
+    "start": "2026-10-20T13:15:00.000Z",
+    "end": "2026-10-20T14:00:00.000Z",
+    "location": "Yliopistokampukset",
+    "instructor": "Hanna Autio",
+    "free": 15,
+    "capacity": 15,
+    "source": "Group Exercise Campuses",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/~date=2026-10-20"
+  },
+  {
+    "id": "868355",
+    "name": "Pilates 45 (Teatterikorkeakoulu Sörnäinen, sali 525)",
+    "start": "2026-10-20T14:15:00.000Z",
+    "end": "2026-10-20T15:00:00.000Z",
+    "location": "Yliopistokampukset",
+    "instructor": "Hanna Kosonen",
+    "free": 20,
+    "capacity": 20,
+    "source": "Group Exercise Campuses",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/~date=2026-10-20"
   }
 ]

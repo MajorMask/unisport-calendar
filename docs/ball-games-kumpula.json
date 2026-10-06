@@ -322,5 +322,17 @@
     "capacity": 15,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-10-10"
+  },
+  {
+    "id": "876266",
+    "name": "Lentopallo: pelurivuoro",
+    "start": "2026-10-21T13:00:00.000Z",
+    "end": "2026-10-21T15:00:00.000Z",
+    "location": "UniSport Kumpula",
+    "instructor": "",
+    "free": 14,
+    "capacity": 14,
+    "source": "Ball Games Kumpula",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-10-21"
   }
 ]

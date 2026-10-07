@@ -78,7 +78,7 @@
     "end": "2026-10-08T14:30:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "Krista Kekkonen",
-    "free": 0,
+    "free": 3,
     "capacity": 14,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-10-08"
@@ -150,7 +150,7 @@
     "end": "2026-10-13T15:00:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "",
-    "free": 14,
+    "free": 2,
     "capacity": 14,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-10-13"
@@ -318,7 +318,7 @@
     "end": "2026-10-10T09:00:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "",
-    "free": 15,
+    "free": 14,
     "capacity": 15,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-10-10"

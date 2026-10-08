@@ -766,5 +766,53 @@
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-21"
+  },
+  {
+    "id": "866295",
+    "name": "Physio Neck & Back 45",
+    "start": "2026-10-22T13:15:00.000Z",
+    "end": "2026-10-22T14:00:00.000Z",
+    "location": "UniSport Otaniemi",
+    "instructor": "Adele Salonen",
+    "free": 28,
+    "capacity": 28,
+    "source": "Group Exercise Otaniemi",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-22"
+  },
+  {
+    "id": "866336",
+    "name": "Dance Choreo Showjazz",
+    "start": "2026-10-22T14:10:00.000Z",
+    "end": "2026-10-22T15:10:00.000Z",
+    "location": "UniSport Otaniemi",
+    "instructor": "Stella Siira",
+    "free": 25,
+    "capacity": 25,
+    "source": "Group Exercise Otaniemi",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-22"
+  },
+  {
+    "id": "866371",
+    "name": "BODYCOMBAT™ in English",
+    "start": "2026-10-22T15:15:00.000Z",
+    "end": "2026-10-22T16:15:00.000Z",
+    "location": "UniSport Otaniemi",
+    "instructor": "Hanna Huumonen",
+    "free": 25,
+    "capacity": 25,
+    "source": "Group Exercise Otaniemi",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-22"
+  },
+  {
+    "id": "866406",
+    "name": "Pilates 45 in English",
+    "start": "2026-10-22T16:20:00.000Z",
+    "end": "2026-10-22T17:05:00.000Z",
+    "location": "UniSport Otaniemi",
+    "instructor": "Hanna Huumonen",
+    "free": 28,
+    "capacity": 28,
+    "source": "Group Exercise Otaniemi",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-22"
   }
 ]

@@ -586,5 +586,41 @@
     "capacity": null,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-07"
+  },
+  {
+    "id": "863775",
+    "name": "Dance Choreo Dancehall",
+    "start": "2026-10-22T13:45:00.000Z",
+    "end": "2026-10-22T14:45:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Marjan Aqazada",
+    "free": 40,
+    "capacity": 40,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-22"
+  },
+  {
+    "id": "863810",
+    "name": "BODYPUMP™",
+    "start": "2026-10-22T14:55:00.000Z",
+    "end": "2026-10-22T15:55:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Eija Karonen",
+    "free": 48,
+    "capacity": 48,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-22"
+  },
+  {
+    "id": "863845",
+    "name": "Gentle Hatha Yoga",
+    "start": "2026-10-22T16:05:00.000Z",
+    "end": "2026-10-22T17:05:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Eija Karonen",
+    "free": 48,
+    "capacity": 48,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-22"
   }
 ]

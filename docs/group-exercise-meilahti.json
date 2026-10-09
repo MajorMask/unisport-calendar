@@ -634,5 +634,41 @@
     "capacity": null,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-08"
+  },
+  {
+    "id": "882493",
+    "name": "Kettlebell 45",
+    "start": "2026-10-23T04:30:00.000Z",
+    "end": "2026-10-23T05:15:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Eija Karonen",
+    "free": 30,
+    "capacity": 30,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-23"
+  },
+  {
+    "id": "863997",
+    "name": "Pilates",
+    "start": "2026-10-23T11:55:00.000Z",
+    "end": "2026-10-23T12:55:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Maija Lanteri",
+    "free": 40,
+    "capacity": 40,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-23"
+  },
+  {
+    "id": "863921",
+    "name": "BODYCOMBAT™",
+    "start": "2026-10-23T14:15:00.000Z",
+    "end": "2026-10-23T15:15:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Eija Karonen",
+    "free": 40,
+    "capacity": 40,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-23"
   }
 ]

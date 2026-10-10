@@ -270,7 +270,7 @@
     "end": "2026-10-10T09:30:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Helena Pasanen",
-    "free": 23,
+    "free": 12,
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-10"
@@ -282,7 +282,7 @@
     "end": "2026-10-10T10:40:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Adele Salonen",
-    "free": 20,
+    "free": 14,
     "capacity": 28,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-10"
@@ -294,7 +294,7 @@
     "end": "2026-10-11T09:15:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Anna Petrenko",
-    "free": 22,
+    "free": 20,
     "capacity": 28,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-11"
@@ -318,7 +318,7 @@
     "end": "2026-10-11T15:30:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Jassi Koskimies",
-    "free": 4,
+    "free": 2,
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-11"
@@ -414,7 +414,7 @@
     "end": "2026-10-13T17:25:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Jessica Suni",
-    "free": 23,
+    "free": 22,
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-13"

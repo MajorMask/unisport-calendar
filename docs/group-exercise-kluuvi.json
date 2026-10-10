@@ -882,7 +882,7 @@
     "end": "2026-10-10T07:45:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Anna Ahtiainen",
-    "free": 6,
+    "free": 1,
     "capacity": 40,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-10"
@@ -894,7 +894,7 @@
     "end": "2026-10-10T09:00:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Tero Vauraste",
-    "free": 8,
+    "free": 10,
     "capacity": 25,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-10"
@@ -906,7 +906,7 @@
     "end": "2026-10-10T09:00:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Eija Kolehmainen",
-    "free": 15,
+    "free": 7,
     "capacity": 38,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-10"
@@ -918,7 +918,7 @@
     "end": "2026-10-10T10:15:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Eija Karonen",
-    "free": 31,
+    "free": 21,
     "capacity": 40,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-10"
@@ -930,7 +930,7 @@
     "end": "2026-10-10T11:30:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Eija Karonen",
-    "free": 29,
+    "free": 28,
     "capacity": 40,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-10"
@@ -942,7 +942,7 @@
     "end": "2026-10-10T14:20:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Mervi Keskinen",
-    "free": 28,
+    "free": 30,
     "capacity": 40,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-10"
@@ -954,7 +954,7 @@
     "end": "2026-10-11T08:15:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Kia Gluschkoff",
-    "free": 31,
+    "free": 30,
     "capacity": 40,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-11"
@@ -966,7 +966,7 @@
     "end": "2026-10-11T11:00:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Eveliina Sjöblom",
-    "free": 3,
+    "free": 0,
     "capacity": 38,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-11"
@@ -990,7 +990,7 @@
     "end": "2026-10-11T13:30:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Hanna Huumonen",
-    "free": 27,
+    "free": 26,
     "capacity": 35,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-11"
@@ -1002,7 +1002,7 @@
     "end": "2026-10-11T14:25:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Kimi Holm",
-    "free": 4,
+    "free": 0,
     "capacity": 35,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-11"
@@ -1026,7 +1026,7 @@
     "end": "2026-10-11T15:45:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Sonetta Harjanne",
-    "free": 17,
+    "free": 16,
     "capacity": 25,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-11"
@@ -1050,7 +1050,7 @@
     "end": "2026-10-12T08:50:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Eija Karonen",
-    "free": 35,
+    "free": 34,
     "capacity": 40,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-12"
@@ -1062,7 +1062,7 @@
     "end": "2026-10-12T11:00:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Katja Lilja",
-    "free": 22,
+    "free": 20,
     "capacity": 40,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-12"
@@ -1086,7 +1086,7 @@
     "end": "2026-10-12T14:15:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Iina Hakola",
-    "free": 30,
+    "free": 29,
     "capacity": 40,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-12"
@@ -1098,7 +1098,7 @@
     "end": "2026-10-12T15:00:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Ukkopekka Hyvönen",
-    "free": 16,
+    "free": 15,
     "capacity": 25,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-12"
@@ -1170,7 +1170,7 @@
     "end": "2026-10-12T17:45:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Jewel Alarcon",
-    "free": 13,
+    "free": 11,
     "capacity": 40,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-12"
@@ -1218,7 +1218,7 @@
     "end": "2026-10-13T12:00:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Susanna Keski-Kohtamäki",
-    "free": 30,
+    "free": 28,
     "capacity": 40,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-13"
@@ -1230,7 +1230,7 @@
     "end": "2026-10-13T13:30:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Tiina Kärki",
-    "free": 3,
+    "free": 2,
     "capacity": 10,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-13"
@@ -1242,7 +1242,7 @@
     "end": "2026-10-13T13:10:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Jere Jääskeläinen",
-    "free": 5,
+    "free": 3,
     "capacity": 40,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-13"
@@ -1278,7 +1278,7 @@
     "end": "2026-10-13T15:20:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Iivari Tiusanen",
-    "free": 19,
+    "free": 18,
     "capacity": 25,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-13"
@@ -1314,7 +1314,7 @@
     "end": "2026-10-13T16:20:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Marika Niskanen",
-    "free": 9,
+    "free": 7,
     "capacity": 16,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-13"
@@ -1326,7 +1326,7 @@
     "end": "2026-10-13T16:05:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Inari Nikkanen",
-    "free": 33,
+    "free": 31,
     "capacity": 45,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-13"
@@ -1362,7 +1362,7 @@
     "end": "2026-10-13T16:45:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Katri Djerf",
-    "free": 21,
+    "free": 19,
     "capacity": 35,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-13"
@@ -1374,7 +1374,7 @@
     "end": "2026-10-13T17:05:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Kirsi Ketola",
-    "free": 20,
+    "free": 18,
     "capacity": 25,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-13"
@@ -1398,7 +1398,7 @@
     "end": "2026-10-13T18:00:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Katri Djerf",
-    "free": 23,
+    "free": 22,
     "capacity": 40,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-13"
@@ -1422,7 +1422,7 @@
     "end": "2026-10-14T08:50:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Jenni Haukirauma",
-    "free": 36,
+    "free": 35,
     "capacity": 43,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-14"
@@ -1434,7 +1434,7 @@
     "end": "2026-10-14T12:55:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Minna Määttä",
-    "free": 17,
+    "free": 13,
     "capacity": 40,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-14"
@@ -1446,7 +1446,7 @@
     "end": "2026-10-14T14:00:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Marianne Airisniemi",
-    "free": 19,
+    "free": 16,
     "capacity": 40,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-14"
@@ -1458,7 +1458,7 @@
     "end": "2026-10-14T15:10:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Iivari Tiusanen",
-    "free": 15,
+    "free": 14,
     "capacity": 25,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-14"
@@ -1482,7 +1482,7 @@
     "end": "2026-10-14T15:15:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Paula Band",
-    "free": 5,
+    "free": 2,
     "capacity": 18,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-14"
@@ -1494,7 +1494,7 @@
     "end": "2026-10-14T15:45:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Jere Jääskeläinen",
-    "free": 23,
+    "free": 20,
     "capacity": 40,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-14"
@@ -1530,7 +1530,7 @@
     "end": "2026-10-14T16:45:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Panu Erästö",
-    "free": 31,
+    "free": 30,
     "capacity": 40,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-14"
@@ -1578,7 +1578,7 @@
     "end": "2026-10-15T08:50:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Leena Turkki",
-    "free": 33,
+    "free": 32,
     "capacity": 35,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-15"
@@ -1590,7 +1590,7 @@
     "end": "2026-10-15T08:45:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Hanna Autio",
-    "free": 16,
+    "free": 15,
     "capacity": 16,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-15"
@@ -1626,7 +1626,7 @@
     "end": "2026-10-15T12:55:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Anniina Ala-Mattinen",
-    "free": 37,
+    "free": 36,
     "capacity": 40,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-15"
@@ -1638,7 +1638,7 @@
     "end": "2026-10-15T14:10:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Marianne Airisniemi",
-    "free": 39,
+    "free": 38,
     "capacity": 40,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-15"
@@ -1650,7 +1650,7 @@
     "end": "2026-10-15T15:00:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Elias Uusi-Rauva",
-    "free": 17,
+    "free": 15,
     "capacity": 18,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-15"
@@ -1662,7 +1662,7 @@
     "end": "2026-10-15T15:00:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Kimi Holm",
-    "free": 28,
+    "free": 27,
     "capacity": 35,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-15"
@@ -1686,7 +1686,7 @@
     "end": "2026-10-15T16:05:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Kimi Holm",
-    "free": 9,
+    "free": 4,
     "capacity": 35,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-15"
@@ -1698,7 +1698,7 @@
     "end": "2026-10-15T17:25:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Ulla Prami",
-    "free": 16,
+    "free": 15,
     "capacity": 18,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-15"
@@ -1710,7 +1710,7 @@
     "end": "2026-10-15T17:15:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Hanne Vilpponen",
-    "free": 41,
+    "free": 39,
     "capacity": 43,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-15"
@@ -1746,7 +1746,7 @@
     "end": "2026-10-16T10:30:00.000Z",
     "location": "UniSport Kluuvi",
     "instructor": "Minna Määttä",
-    "free": 45,
+    "free": 44,
     "capacity": 45,
     "source": "Group Exercise Kluuvi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/1/-/-/-/-/~date=2026-10-16"

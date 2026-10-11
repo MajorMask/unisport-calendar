@@ -1,17 +1,5 @@
 [
   {
-    "id": "870938",
-    "name": "Ashtanga Yoga 75 in English",
-    "start": "2026-10-04T08:00:00.000Z",
-    "end": "2026-10-04T09:15:00.000Z",
-    "location": "UniSport Otaniemi",
-    "instructor": "Anna Petrenko",
-    "free": 19,
-    "capacity": 28,
-    "source": "Group Exercise Otaniemi",
-    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-04"
-  },
-  {
     "id": "866618",
     "name": "Dance Choreo Musical Jazz (Uusi koreografia)",
     "start": "2026-10-04T12:40:00.000Z",
@@ -294,7 +282,7 @@
     "end": "2026-10-11T09:15:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Anna Petrenko",
-    "free": 18,
+    "free": 11,
     "capacity": 28,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-11"
@@ -306,7 +294,7 @@
     "end": "2026-10-11T13:40:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Jere Jääskeläinen",
-    "free": 0,
+    "free": 2,
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-11"
@@ -318,7 +306,7 @@
     "end": "2026-10-11T15:30:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Jassi Koskimies",
-    "free": 0,
+    "free": 2,
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-11"
@@ -330,7 +318,7 @@
     "end": "2026-10-12T15:10:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Jassi Koskimies",
-    "free": 19,
+    "free": 18,
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-12"
@@ -366,7 +354,7 @@
     "end": "2026-10-12T17:25:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Sirpa Rantanen",
-    "free": 22,
+    "free": 20,
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-12"
@@ -426,7 +414,7 @@
     "end": "2026-10-14T15:10:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Karoliina Hakkarainen",
-    "free": 28,
+    "free": 27,
     "capacity": 28,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-14"
@@ -438,7 +426,7 @@
     "end": "2026-10-14T16:10:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Jaakko Kuusisto",
-    "free": 3,
+    "free": 2,
     "capacity": 12,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-14"
@@ -450,7 +438,7 @@
     "end": "2026-10-14T16:15:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Kirsi Ketola",
-    "free": 25,
+    "free": 23,
     "capacity": 28,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-14"
@@ -462,7 +450,7 @@
     "end": "2026-10-14T17:05:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Jaakko Kuusisto",
-    "free": 24,
+    "free": 23,
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-14"
@@ -486,7 +474,7 @@
     "end": "2026-10-15T15:10:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Stella Siira",
-    "free": 25,
+    "free": 24,
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-15"
@@ -522,7 +510,7 @@
     "end": "2026-10-16T14:45:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Elias Uusi-Rauva",
-    "free": 24,
+    "free": 21,
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-16"
@@ -534,7 +522,7 @@
     "end": "2026-10-16T16:00:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Elias Uusi-Rauva",
-    "free": 27,
+    "free": 26,
     "capacity": 28,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-16"

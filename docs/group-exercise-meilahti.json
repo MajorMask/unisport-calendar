@@ -670,5 +670,41 @@
     "capacity": 40,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-25"
+  },
+  {
+    "id": "863531",
+    "name": "Power Circuit",
+    "start": "2026-10-26T15:00:00.000Z",
+    "end": "2026-10-26T15:45:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Panu Erästö",
+    "free": 16,
+    "capacity": 16,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-26"
+  },
+  {
+    "id": "863463",
+    "name": "BODYPUMP™",
+    "start": "2026-10-26T15:15:00.000Z",
+    "end": "2026-10-26T16:15:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Elias Uusi-Rauva",
+    "free": 48,
+    "capacity": 48,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-26"
+  },
+  {
+    "id": "863497",
+    "name": "Pilates",
+    "start": "2026-10-26T16:35:00.000Z",
+    "end": "2026-10-26T17:35:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Kirsi Ketola",
+    "free": 40,
+    "capacity": 40,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-26"
   }
 ]

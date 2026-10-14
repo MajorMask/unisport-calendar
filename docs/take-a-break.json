@@ -430,5 +430,29 @@
     "capacity": null,
     "source": "Take a Break",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/39/-/32/-/-/-/~date=2026-10-28"
+  },
+  {
+    "id": "870628",
+    "name": "Online: Take a Break!",
+    "start": "2026-10-29T10:00:00.000Z",
+    "end": "2026-10-29T10:15:00.000Z",
+    "location": "UniSport Kluuvi",
+    "instructor": "Leena Turkki",
+    "free": 0,
+    "capacity": null,
+    "source": "Take a Break",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/39/-/32/-/-/-/~date=2026-10-29"
+  },
+  {
+    "id": "868601",
+    "name": "Take a Break! (Sörnäinen)",
+    "start": "2026-10-29T12:30:00.000Z",
+    "end": "2026-10-29T12:45:00.000Z",
+    "location": "Yliopistokampukset",
+    "instructor": "Hanna Autio",
+    "free": 0,
+    "capacity": null,
+    "source": "Take a Break",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/39/-/32/-/-/-/~date=2026-10-29"
   }
 ]

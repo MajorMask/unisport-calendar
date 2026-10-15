@@ -1,17 +1,5 @@
 [
   {
-    "id": "866404",
-    "name": "Pilates 45 in English",
-    "start": "2026-10-08T16:20:00.000Z",
-    "end": "2026-10-08T17:05:00.000Z",
-    "location": "UniSport Otaniemi",
-    "instructor": "Hanna Huumonen",
-    "free": 11,
-    "capacity": 28,
-    "source": "Group Exercise Otaniemi",
-    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-08"
-  },
-  {
     "id": "866439",
     "name": "BODYPUMP™  in English",
     "start": "2026-10-09T13:45:00.000Z",
@@ -306,7 +294,7 @@
     "end": "2026-10-16T16:00:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Elias Uusi-Rauva",
-    "free": 24,
+    "free": 21,
     "capacity": 28,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-16"
@@ -318,7 +306,7 @@
     "end": "2026-10-17T09:30:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Helena Pasanen",
-    "free": 24,
+    "free": 23,
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-17"
@@ -330,7 +318,7 @@
     "end": "2026-10-17T10:40:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Adele Salonen",
-    "free": 20,
+    "free": 19,
     "capacity": 28,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-17"
@@ -366,7 +354,7 @@
     "end": "2026-10-18T15:30:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Jassi Koskimies",
-    "free": 9,
+    "free": 6,
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-18"
@@ -378,7 +366,7 @@
     "end": "2026-10-19T15:25:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Sonetta Harjanne",
-    "free": 2,
+    "free": 0,
     "capacity": 10,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-19"
@@ -390,7 +378,7 @@
     "end": "2026-10-19T15:10:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Mirva Kivinen",
-    "free": 25,
+    "free": 24,
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-19"
@@ -498,7 +486,7 @@
     "end": "2026-10-21T16:10:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Jaakko Kuusisto",
-    "free": 10,
+    "free": 7,
     "capacity": 12,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-21"
@@ -510,7 +498,7 @@
     "end": "2026-10-21T16:15:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Kirsi Ketola",
-    "free": 28,
+    "free": 26,
     "capacity": 28,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-21"
@@ -826,5 +814,29 @@
     "capacity": 28,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-29"
+  },
+  {
+    "id": "866442",
+    "name": "BODYPUMP™  in English",
+    "start": "2026-10-30T14:45:00.000Z",
+    "end": "2026-10-30T15:45:00.000Z",
+    "location": "UniSport Otaniemi",
+    "instructor": "Elias Uusi-Rauva",
+    "free": 25,
+    "capacity": 25,
+    "source": "Group Exercise Otaniemi",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-30"
+  },
+  {
+    "id": "866485",
+    "name": "BODYBALANCE™ in English",
+    "start": "2026-10-30T16:00:00.000Z",
+    "end": "2026-10-30T17:00:00.000Z",
+    "location": "UniSport Otaniemi",
+    "instructor": "Elias Uusi-Rauva",
+    "free": 28,
+    "capacity": 28,
+    "source": "Group Exercise Otaniemi",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-30"
   }
 ]

@@ -126,7 +126,7 @@
     "end": "2026-10-16T14:00:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "",
-    "free": 1,
+    "free": 0,
     "capacity": 14,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-10-16"
@@ -418,5 +418,17 @@
     "capacity": 14,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-10-29"
+  },
+  {
+    "id": "876297",
+    "name": "Lentopallo: rentovuoro",
+    "start": "2026-10-30T13:30:00.000Z",
+    "end": "2026-10-30T15:00:00.000Z",
+    "location": "UniSport Kumpula",
+    "instructor": "",
+    "free": 14,
+    "capacity": 14,
+    "source": "Ball Games Kumpula",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-10-30"
   }
 ]

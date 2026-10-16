@@ -4,12 +4,15 @@ PRODID:-//unisport-calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:UniSport Ball Games – Otaniemi
+X-WR-CALDESC:Unofficial\, student-made calendar — not run or endorsed by
+  UniSport. Data may be stale\; always verify on UniSport before relying o
+ n it.
 X-WR-TIMEZONE:Europe/Helsinki
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
 UID:858019@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261009T120000Z
 DTEND:20261009T130000Z
 SUMMARY:Salibandy: pelurivuoro
@@ -17,7 +20,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-09\nFree spots when last checked: 6 / 18\nB
  ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
-  fee.
+  fee.\nUnofficial\, student-made calendar — not run or endorsed by UniS
+ port. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-09
 BEGIN:VALARM
@@ -28,7 +32,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858039@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261009T150000Z
 DTEND:20261009T160000Z
 SUMMARY:Koripallo: pelurivuoro
@@ -36,7 +40,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-09\nFree spots when last checked: 19 / 20\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.
+ R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
+ Sport. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-09
 BEGIN:VALARM
@@ -47,7 +52,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858059@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261009T170000Z
 DTEND:20261009T180000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -55,7 +60,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-09\nFree spots when last checked: 1 / 14\nB
  ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
-  fee.
+  fee.\nUnofficial\, student-made calendar — not run or endorsed by UniS
+ port. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-09
 BEGIN:VALARM
@@ -66,7 +72,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:857934@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261012T130000Z
 DTEND:20261012T140000Z
 SUMMARY:Salibandy: pelurivuoro
@@ -74,7 +80,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-12\nFree spots when last checked: 18 / 18\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.
+ R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
+ Sport. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-12
 BEGIN:VALARM
@@ -85,7 +92,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:857956@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261012T180000Z
 DTEND:20261012T193000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -93,7 +100,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-12\nFree spots when last checked: 0 / 14\nB
  ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
-  fee.
+  fee.\nUnofficial\, student-made calendar — not run or endorsed by UniS
+ port. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-12
 BEGIN:VALARM
@@ -104,7 +112,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:857978@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261013T180000Z
 DTEND:20261013T193000Z
 SUMMARY:Koripallo: rentovuoro
@@ -112,7 +120,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-13\nFree spots when last checked: 13 / 20\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.
+ R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
+ Sport. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-13
 BEGIN:VALARM
@@ -123,7 +132,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858000@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261015T180000Z
 DTEND:20261015T193000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -131,7 +140,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-15\nFree spots when last checked: 0 / 14\nB
  ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
-  fee.
+  fee.\nUnofficial\, student-made calendar — not run or endorsed by UniS
+ port. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-15
 BEGIN:VALARM
@@ -142,7 +152,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858020@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261016T120000Z
 DTEND:20261016T130000Z
 SUMMARY:Salibandy: pelurivuoro
@@ -150,7 +160,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-16\nFree spots when last checked: 6 / 18\nB
  ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
-  fee.
+  fee.\nUnofficial\, student-made calendar — not run or endorsed by UniS
+ port. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-16
 BEGIN:VALARM
@@ -161,7 +172,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858040@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261016T150000Z
 DTEND:20261016T160000Z
 SUMMARY:Koripallo: pelurivuoro
@@ -169,7 +180,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-16\nFree spots when last checked: 20 / 20\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.
+ R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
+ Sport. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-16
 BEGIN:VALARM
@@ -180,7 +192,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858060@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261016T170000Z
 DTEND:20261016T180000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -188,7 +200,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-16\nFree spots when last checked: 11 / 14\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.
+ R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
+ Sport. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-16
 BEGIN:VALARM
@@ -199,7 +212,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:857935@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261019T130000Z
 DTEND:20261019T140000Z
 SUMMARY:Salibandy: pelurivuoro
@@ -207,7 +220,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-19\nFree spots when last checked: 18 / 18\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.
+ R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
+ Sport. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-19
 BEGIN:VALARM
@@ -218,7 +232,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:857957@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261019T180000Z
 DTEND:20261019T193000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -226,7 +240,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-19\nFree spots when last checked: 12 / 14\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.
+ R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
+ Sport. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-19
 BEGIN:VALARM
@@ -237,7 +252,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:857979@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261020T180000Z
 DTEND:20261020T193000Z
 SUMMARY:Koripallo: rentovuoro
@@ -245,7 +260,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-20\nFree spots when last checked: 20 / 20\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.
+ R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
+ Sport. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-20
 BEGIN:VALARM
@@ -256,7 +272,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858001@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261022T180000Z
 DTEND:20261022T193000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -264,7 +280,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-22\nFree spots when last checked: 14 / 14\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.
+ R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
+ Sport. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-22
 BEGIN:VALARM
@@ -275,7 +292,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858021@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261023T120000Z
 DTEND:20261023T130000Z
 SUMMARY:Salibandy: pelurivuoro
@@ -283,7 +300,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-23\nFree spots when last checked: 18 / 18\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.
+ R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
+ Sport. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-23
 BEGIN:VALARM
@@ -294,7 +312,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858041@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261023T150000Z
 DTEND:20261023T160000Z
 SUMMARY:Koripallo: pelurivuoro
@@ -302,7 +320,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-23\nFree spots when last checked: 20 / 20\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.
+ R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
+ Sport. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-23
 BEGIN:VALARM
@@ -313,7 +332,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858061@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261023T170000Z
 DTEND:20261023T180000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -321,7 +340,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-23\nFree spots when last checked: 14 / 14\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.
+ R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
+ Sport. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-23
 BEGIN:VALARM
@@ -332,7 +352,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:857936@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261026T140000Z
 DTEND:20261026T150000Z
 SUMMARY:Salibandy: pelurivuoro
@@ -340,7 +360,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-26\nFree spots when last checked: 18 / 18\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.
+ R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
+ Sport. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-26
 BEGIN:VALARM
@@ -351,7 +372,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:857958@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261026T190000Z
 DTEND:20261026T203000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -359,7 +380,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-26\nFree spots when last checked: 14 / 14\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.
+ R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
+ Sport. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-26
 BEGIN:VALARM
@@ -370,7 +392,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:857980@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261027T190000Z
 DTEND:20261027T203000Z
 SUMMARY:Koripallo: rentovuoro
@@ -378,7 +400,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-27\nFree spots when last checked: 20 / 20\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.
+ R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
+ Sport. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-27
 BEGIN:VALARM
@@ -389,7 +412,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858002@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261029T190000Z
 DTEND:20261029T203000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -397,7 +420,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-29\nFree spots when last checked: 14 / 14\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.
+ R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
+ Sport. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-29
 BEGIN:VALARM
@@ -408,7 +432,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858022@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261030T130000Z
 DTEND:20261030T140000Z
 SUMMARY:Salibandy: pelurivuoro
@@ -416,7 +440,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-30\nFree spots when last checked: 18 / 18\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.
+ R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
+ Sport. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-30
 BEGIN:VALARM
@@ -427,7 +452,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858042@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261030T160000Z
 DTEND:20261030T170000Z
 SUMMARY:Koripallo: pelurivuoro
@@ -435,7 +460,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-30\nFree spots when last checked: 20 / 20\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.
+ R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
+ Sport. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-30
 BEGIN:VALARM
@@ -446,7 +472,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858062@unisport-calendar
-DTSTAMP:20261015T212105Z
+DTSTAMP:20261016T013026Z
 DTSTART:20261030T180000Z
 DTEND:20261030T190000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -454,7 +480,8 @@ LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/5/20/-/-/-/~date=2026-10-30\nFree spots when last checked: 14 / 14\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.
+ R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
+ Sport. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-30
 BEGIN:VALARM

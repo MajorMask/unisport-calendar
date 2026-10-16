@@ -31,7 +31,12 @@ for (const feed of cfg.feeds) {
 
   let body = [];
   try {
-    const res = await fetch(api, { headers: { accept: 'application/json' } });
+    const res = await fetch(api, {
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'unisport-calendar/1.0 (+https://github.com/MajorMask/unisport-calendar; student-run, unofficial, read-only; contact via GitHub issues)',
+      },
+    });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     body = await res.json();
   } catch (err) {

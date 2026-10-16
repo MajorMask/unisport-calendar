@@ -4,487 +4,15 @@ PRODID:-//unisport-calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:UniSport Group Exercise – Kumpula
+X-WR-CALDESC:Unofficial\, student-made calendar — not run or endorsed by
+  UniSport. Data may be stale\; always verify on UniSport before relying o
+ n it.
 X-WR-TIMEZONE:Europe/Helsinki
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-UID:865613@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261004T070000Z
-DTEND:20261004T080000Z
-SUMMARY:BODYPUMP™
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-04\nInstructor: Hanna Kosonen\nFree spots whe
- n last checked: 14 / 43\nBooking opens 6 days before. Cancel at least 2 h
-  before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-04
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BODYPUMP™
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:865647@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261004T131000Z
-DTEND:20261004T141000Z
-SUMMARY:Pilates
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-04\nInstructor: Kirsi Ketola\nFree spots when
-  last checked: 33 / 44\nBooking opens 6 days before. Cancel at least 2 h 
- before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-04
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pilates
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:865681@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261004T142000Z
-DTEND:20261004T152000Z
-SUMMARY:BODYCOMBAT™
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-04\nInstructor: Zuzu Elyousfi\nFree spots whe
- n last checked: 37 / 40\nBooking opens 6 days before. Cancel at least 2 h
-  before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-04
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BODYCOMBAT™
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:865715@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261004T153500Z
-DTEND:20261004T165000Z
-SUMMARY:Flow Yoga 75
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-04\nInstructor: Outi Pikkuoksa\nFree spots wh
- en last checked: 38 / 44\nBooking opens 6 days before. Cancel at least 2 
- h before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-04
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Flow Yoga 75
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:881016@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261005T090000Z
-DTEND:20261005T100000Z
-SUMMARY:BODYBALANCE™ 45
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-05\nInstructor: Mette Veistola\nFree spots wh
- en last checked: 42 / 43\nBooking opens 6 days before. Cancel at least 2 
- h before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-05
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BODYBALANCE™ 45
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:864446@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261005T131500Z
-DTEND:20261005T141500Z
-SUMMARY:Easy Training
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-05\nInstructor: Helena Pasanen\nFree spots wh
- en last checked: 39 / 43\nBooking opens 6 days before. Cancel at least 2 
- h before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-05
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Easy Training
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:864528@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261005T142000Z
-DTEND:20261005T152000Z
-SUMMARY:Gentle Hatha Yoga in English
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-05\nInstructor: Kukka-Maaria Vuorikoski\nFree
-  spots when last checked: 34 / 44\nBooking opens 6 days before. Cancel at
-  least 2 h before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-05
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Gentle Hatha Yoga in English
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:864610@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261005T153000Z
-DTEND:20261005T161500Z
-SUMMARY:LES MILLS DANCE™
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-05\nInstructor: Milla Valjus\nFree spots when
-  last checked: 36 / 40\nBooking opens 6 days before. Cancel at least 2 h 
- before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-05
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:LES MILLS DANCE™
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:864740@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261005T162000Z
-DTEND:20261005T165000Z
-SUMMARY:Core Training 30
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-05\nInstructor: Milla Valjus\nFree spots when
-  last checked: 40 / 45\nBooking opens 6 days before. Cancel at least 2 h 
- before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-05
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Core Training 30
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:864774@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261005T165500Z
-DTEND:20261005T174000Z
-SUMMARY:Mobility 45
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-05\nInstructor: Milla Valjus\nFree spots when
-  last checked: 39 / 43\nBooking opens 6 days before. Cancel at least 2 h 
- before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-05
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Mobility 45
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:864809@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261006T050000Z
-DTEND:20261006T060000Z
-SUMMARY:Pilates
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-06\nInstructor: Iina Ahola\nFree spots when l
- ast checked: 39 / 44\nBooking opens 6 days before. Cancel at least 2 h be
- fore to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-06
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pilates
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:882290@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261006T131000Z
-DTEND:20261006T141000Z
-SUMMARY:Zumba™
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-06\nInstructor: Katriina Haikala\nFree spots 
- when last checked: 37 / 40\nBooking opens 6 days before. Cancel at least 
- 2 h before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-06
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Zumba™
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:864879@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261006T141500Z
-DTEND:20261006T150000Z
-SUMMARY:Kettlebell 45 in English
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-06\nInstructor: Giulia Saponaro\nFree spots w
- hen last checked: 13 / 25\nBooking opens 6 days before. Cancel at least 2
-  h before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-06
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Kettlebell 45 in English
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:864914@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261006T151000Z
-DTEND:20261006T161000Z
-SUMMARY:Interval Body in English
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-06\nInstructor: Giulia Saponaro\nFree spots w
- hen last checked: 37 / 40\nBooking opens 6 days before. Cancel at least 2
-  h before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-06
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Interval Body in English
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:864949@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261006T162000Z
-DTEND:20261006T172000Z
-SUMMARY:BODYPUMP™  in English
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-06\nInstructor: Reka Malinen\nFree spots when
-  last checked: 33 / 43\nBooking opens 6 days before. Cancel at least 2 h 
- before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-06
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BODYPUMP™  in English
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:864989@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261007T053000Z
-DTEND:20261007T063000Z
-SUMMARY:BODYPUMP™
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-07\nInstructor: Zuzu Elyousfi\nFree spots whe
- n last checked: 42 / 43\nBooking opens 6 days before. Cancel at least 2 h
-  before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-07
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BODYPUMP™
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:865024@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261007T090000Z
-DTEND:20261007T094500Z
-SUMMARY:Body 45
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-07\nInstructor: Helena Pasanen\nFree spots wh
- en last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 
- h before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-07
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Body 45
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:865059@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261007T141000Z
-DTEND:20261007T151000Z
-SUMMARY:BODYBALANCE™  in English
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-07\nInstructor: Reka Malinen\nFree spots when
-  last checked: 35 / 43\nBooking opens 6 days before. Cancel at least 2 h 
- before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-07
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BODYBALANCE™  in English
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:865094@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261007T151500Z
-DTEND:20261007T161500Z
-SUMMARY:Zumba™ in English
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-07\nInstructor: Kari Short\nFree spots when l
- ast checked: 5 / 40\nBooking opens 6 days before. Cancel at least 2 h bef
- ore to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-07
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Zumba™ in English
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:865132@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261007T162500Z
-DTEND:20261007T171000Z
-SUMMARY:Pilates 45
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-07\nInstructor: Katja Lilja\nFree spots when 
- last checked: 41 / 44\nBooking opens 6 days before. Cancel at least 2 h b
- efore to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-07
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pilates 45
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:865167@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261008T114500Z
-DTEND:20261008T123000Z
-SUMMARY:Pilates 45 in English
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-08\nInstructor: Mette Veistola\nFree spots wh
- en last checked: 43 / 44\nBooking opens 6 days before. Cancel at least 2 
- h before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-08
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pilates 45 in English
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:865202@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261008T132500Z
-DTEND:20261008T141000Z
-SUMMARY:BODYCOMBAT™ 45 in English
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-08\nInstructor: Ingrid Suominen\nFree spots w
- hen last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2
-  h before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-08
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BODYCOMBAT™ 45 in English
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:865272@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261008T141500Z
-DTEND:20261008T151500Z
-SUMMARY:Ashtanga Yoga
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-08\nInstructor: Inari Nikkanen\nFree spots wh
- en last checked: 40 / 44\nBooking opens 6 days before. Cancel at least 2 
- h before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-08
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ashtanga Yoga
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:865237@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261008T152000Z
-DTEND:20261008T162000Z
-SUMMARY:Interval Step
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-08\nInstructor: Iina Hakola\nFree spots when 
- last checked: 38 / 40\nBooking opens 6 days before. Cancel at least 2 h b
- efore to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-08
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Interval Step
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:865307@unisport-calendar
-DTSTAMP:20261004T103325Z
-DTSTART:20261008T162500Z
-DTEND:20261008T172500Z
-SUMMARY:Zumba™
-LOCATION:UniSport Kumpula
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/3/-/-/-/-/~date=2026-10-08\nInstructor: Katriina Haikala\nFree spots 
- when last checked: 37 / 40\nBooking opens 6 days before. Cancel at least 
- 2 h before to avoid the 5 EUR fee.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
- ~date=2026-10-08
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Zumba™
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:865357@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261009T070000Z
 DTEND:20261009T080000Z
 SUMMARY:Flow Yoga
@@ -492,7 +20,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-09\nInstructor: Peppina Lindfors\nFree spots 
  when last checked: 42 / 44\nBooking opens 6 days before. Cancel at least 
- 2 h before to avoid the 5 EUR fee.
+ 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
+ — not run or endorsed by UniSport. Data may be stale\; always verify on
+  UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-09
 BEGIN:VALARM
@@ -503,7 +33,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865400@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261009T123000Z
 DTEND:20261009T134500Z
 SUMMARY:Yin Yoga + Relax
@@ -511,7 +41,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-09\nInstructor: Kukka-Maaria Vuorikoski\nFree
   spots when last checked: 44 / 44\nBooking opens 6 days before. Cancel at
-  least 2 h before to avoid the 5 EUR fee.
+  least 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made cale
+ ndar — not run or endorsed by UniSport. Data may be stale\; always veri
+ fy on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-09
 BEGIN:VALARM
@@ -522,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865435@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261009T135500Z
 DTEND:20261009T144000Z
 SUMMARY:LES MILLS DANCE™
@@ -530,7 +62,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-09\nInstructor: Leena Turkki\nFree spots when
   last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h 
- before to avoid the 5 EUR fee.
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-09
 BEGIN:VALARM
@@ -541,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865477@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261009T145000Z
 DTEND:20261009T155000Z
 SUMMARY:BODYPUMP™
@@ -549,7 +83,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-09\nInstructor: Mari Mäki-Torkko\nFree spots
   when last checked: 40 / 43\nBooking opens 6 days before. Cancel at least
-  2 h before to avoid the 5 EUR fee.
+  2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
+ — not run or endorsed by UniSport. Data may be stale\; always verify on
+  UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-09
 BEGIN:VALARM
@@ -560,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865512@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261010T074500Z
 DTEND:20261010T083000Z
 SUMMARY:Kettlebell 45
@@ -568,7 +104,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-10\nInstructor: Jaakko Kuusisto\nFree spots w
  hen last checked: 25 / 25\nBooking opens 6 days before. Cancel at least 2
-  h before to avoid the 5 EUR fee.
+  h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar —
+  not run or endorsed by UniSport. Data may be stale\; always verify on Un
+ iSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-10
 BEGIN:VALARM
@@ -579,7 +117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865546@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261010T090000Z
 DTEND:20261010T100000Z
 SUMMARY:Pilates
@@ -587,7 +125,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-10\nInstructor: Minna Määttä\nFree spots w
  hen last checked: 44 / 44\nBooking opens 6 days before. Cancel at least 2
-  h before to avoid the 5 EUR fee.
+  h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar —
+  not run or endorsed by UniSport. Data may be stale\; always verify on Un
+ iSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-10
 BEGIN:VALARM
@@ -598,7 +138,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865580@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261010T100500Z
 DTEND:20261010T110500Z
 SUMMARY:TUNTIMUUTOS: Dance Choreo Afro
@@ -606,7 +146,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-10\nInstructor: Minna Määttä\nFree spots w
  hen last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2
-  h before to avoid the 5 EUR fee.
+  h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar —
+  not run or endorsed by UniSport. Data may be stale\; always verify on Un
+ iSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-10
 BEGIN:VALARM
@@ -617,7 +159,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865614@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261011T070000Z
 DTEND:20261011T080000Z
 SUMMARY:BODYPUMP™
@@ -625,7 +167,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-11\nInstructor: Mari Mäki-Torkko\nFree spots
   when last checked: 43 / 43\nBooking opens 6 days before. Cancel at least
-  2 h before to avoid the 5 EUR fee.
+  2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
+ — not run or endorsed by UniSport. Data may be stale\; always verify on
+  UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-11
 BEGIN:VALARM
@@ -636,7 +180,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865648@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261011T131000Z
 DTEND:20261011T141000Z
 SUMMARY:Pilates
@@ -644,7 +188,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-11\nInstructor: Kirsi Ketola\nFree spots when
   last checked: 44 / 44\nBooking opens 6 days before. Cancel at least 2 h 
- before to avoid the 5 EUR fee.
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-11
 BEGIN:VALARM
@@ -655,7 +201,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865682@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261011T142000Z
 DTEND:20261011T152000Z
 SUMMARY:BODYCOMBAT™
@@ -663,7 +209,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-11\nInstructor: Zuzu Elyousfi\nFree spots whe
  n last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h
-  before to avoid the 5 EUR fee.
+  before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — n
+ ot run or endorsed by UniSport. Data may be stale\; always verify on UniS
+ port before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-11
 BEGIN:VALARM
@@ -674,7 +222,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865716@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261011T153500Z
 DTEND:20261011T165000Z
 SUMMARY:Flow Yoga 75
@@ -682,7 +230,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-11\nInstructor: Outi Pikkuoksa\nFree spots wh
  en last checked: 44 / 44\nBooking opens 6 days before. Cancel at least 2 
- h before to avoid the 5 EUR fee.
+ h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
+ not run or endorsed by UniSport. Data may be stale\; always verify on Uni
+ Sport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-11
 BEGIN:VALARM
@@ -693,7 +243,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:881017@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261012T090000Z
 DTEND:20261012T100000Z
 SUMMARY:BODYBALANCE™ 45
@@ -701,7 +251,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-12\nInstructor: Mette Veistola\nFree spots wh
  en last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 
- h before to avoid the 5 EUR fee.
+ h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
+ not run or endorsed by UniSport. Data may be stale\; always verify on Uni
+ Sport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-12
 BEGIN:VALARM
@@ -712,7 +264,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:864447@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261012T131500Z
 DTEND:20261012T141500Z
 SUMMARY:Easy Training
@@ -720,7 +272,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-12\nInstructor: Helena Pasanen\nFree spots wh
  en last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 
- h before to avoid the 5 EUR fee.
+ h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
+ not run or endorsed by UniSport. Data may be stale\; always verify on Uni
+ Sport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-12
 BEGIN:VALARM
@@ -731,7 +285,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:864529@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261012T142000Z
 DTEND:20261012T152000Z
 SUMMARY:Gentle Hatha Yoga in English
@@ -739,7 +293,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-12\nInstructor: Kukka-Maaria Vuorikoski\nFree
   spots when last checked: 44 / 44\nBooking opens 6 days before. Cancel at
-  least 2 h before to avoid the 5 EUR fee.
+  least 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made cale
+ ndar — not run or endorsed by UniSport. Data may be stale\; always veri
+ fy on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-12
 BEGIN:VALARM
@@ -750,7 +306,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:864611@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261012T153000Z
 DTEND:20261012T161500Z
 SUMMARY:LES MILLS DANCE™
@@ -758,7 +314,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-12\nInstructor: Milla Valjus\nFree spots when
   last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h 
- before to avoid the 5 EUR fee.
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-12
 BEGIN:VALARM
@@ -769,7 +327,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:864741@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261012T162000Z
 DTEND:20261012T165000Z
 SUMMARY:Core Training 30
@@ -777,7 +335,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-12\nInstructor: Milla Valjus\nFree spots when
   last checked: 45 / 45\nBooking opens 6 days before. Cancel at least 2 h 
- before to avoid the 5 EUR fee.
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-12
 BEGIN:VALARM
@@ -788,7 +348,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:864775@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261012T165500Z
 DTEND:20261012T174000Z
 SUMMARY:Mobility 45
@@ -796,7 +356,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-12\nInstructor: Milla Valjus\nFree spots when
   last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 h 
- before to avoid the 5 EUR fee.
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-12
 BEGIN:VALARM
@@ -807,7 +369,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:864810@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261013T050000Z
 DTEND:20261013T060000Z
 SUMMARY:Pilates
@@ -815,7 +377,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-13\nInstructor: Iina Ahola\nFree spots when l
  ast checked: 44 / 44\nBooking opens 6 days before. Cancel at least 2 h be
- fore to avoid the 5 EUR fee.
+ fore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not 
+ run or endorsed by UniSport. Data may be stale\; always verify on UniSpor
+ t before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-13
 BEGIN:VALARM
@@ -826,7 +390,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:882291@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261013T131000Z
 DTEND:20261013T141000Z
 SUMMARY:Zumba™
@@ -834,7 +398,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-13\nInstructor: Katriina Haikala\nFree spots 
  when last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 
- 2 h before to avoid the 5 EUR fee.
+ 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
+ — not run or endorsed by UniSport. Data may be stale\; always verify on
+  UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-13
 BEGIN:VALARM
@@ -845,7 +411,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:864880@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261013T141500Z
 DTEND:20261013T150000Z
 SUMMARY:Kettlebell 45 in English
@@ -853,7 +419,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-13\nInstructor: Giulia Saponaro\nFree spots w
  hen last checked: 25 / 25\nBooking opens 6 days before. Cancel at least 2
-  h before to avoid the 5 EUR fee.
+  h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar —
+  not run or endorsed by UniSport. Data may be stale\; always verify on Un
+ iSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-13
 BEGIN:VALARM
@@ -864,7 +432,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:864915@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261013T151000Z
 DTEND:20261013T161000Z
 SUMMARY:Interval Body in English
@@ -872,7 +440,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-13\nInstructor: Giulia Saponaro\nFree spots w
  hen last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2
-  h before to avoid the 5 EUR fee.
+  h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar —
+  not run or endorsed by UniSport. Data may be stale\; always verify on Un
+ iSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-13
 BEGIN:VALARM
@@ -883,7 +453,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:864950@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261013T162000Z
 DTEND:20261013T172000Z
 SUMMARY:KIELIMUUTOS: BODYPUMP™
@@ -891,7 +461,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-13\nInstructor: Eija Karonen\nFree spots when
   last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 h 
- before to avoid the 5 EUR fee.
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-13
 BEGIN:VALARM
@@ -902,7 +474,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:864990@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261014T053000Z
 DTEND:20261014T063000Z
 SUMMARY:BODYPUMP™
@@ -910,7 +482,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-14\nInstructor: Zuzu Elyousfi\nFree spots whe
  n last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 h
-  before to avoid the 5 EUR fee.
+  before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — n
+ ot run or endorsed by UniSport. Data may be stale\; always verify on UniS
+ port before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-14
 BEGIN:VALARM
@@ -921,7 +495,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865025@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261014T090000Z
 DTEND:20261014T094500Z
 SUMMARY:Body 45
@@ -929,7 +503,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-14\nInstructor: Helena Pasanen\nFree spots wh
  en last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 
- h before to avoid the 5 EUR fee.
+ h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
+ not run or endorsed by UniSport. Data may be stale\; always verify on Uni
+ Sport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-14
 BEGIN:VALARM
@@ -940,7 +516,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865060@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261014T141000Z
 DTEND:20261014T151000Z
 SUMMARY:BODYBALANCE™  in English
@@ -948,7 +524,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-14\nInstructor: Mirjam Rabi\nFree spots when 
  last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 h b
- efore to avoid the 5 EUR fee.
+ efore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not
+  run or endorsed by UniSport. Data may be stale\; always verify on UniSpo
+ rt before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-14
 BEGIN:VALARM
@@ -959,7 +537,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865095@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261014T151500Z
 DTEND:20261014T161500Z
 SUMMARY:Zumba™ in English
@@ -967,7 +545,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-14\nInstructor: Kari Short\nFree spots when l
  ast checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h be
- fore to avoid the 5 EUR fee.
+ fore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not 
+ run or endorsed by UniSport. Data may be stale\; always verify on UniSpor
+ t before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-14
 BEGIN:VALARM
@@ -978,7 +558,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865133@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261014T162500Z
 DTEND:20261014T171000Z
 SUMMARY:Pilates 45
@@ -986,7 +566,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-14\nInstructor: Katja Lilja\nFree spots when 
  last checked: 44 / 44\nBooking opens 6 days before. Cancel at least 2 h b
- efore to avoid the 5 EUR fee.
+ efore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not
+  run or endorsed by UniSport. Data may be stale\; always verify on UniSpo
+ rt before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-14
 BEGIN:VALARM
@@ -997,7 +579,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865168@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261015T114500Z
 DTEND:20261015T123000Z
 SUMMARY:Pilates 45 in English
@@ -1005,7 +587,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-15\nInstructor: Mette Veistola\nFree spots wh
  en last checked: 44 / 44\nBooking opens 6 days before. Cancel at least 2 
- h before to avoid the 5 EUR fee.
+ h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
+ not run or endorsed by UniSport. Data may be stale\; always verify on Uni
+ Sport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-15
 BEGIN:VALARM
@@ -1016,7 +600,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865203@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261015T132500Z
 DTEND:20261015T141000Z
 SUMMARY:BODYCOMBAT™ 45 in English
@@ -1024,7 +608,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-15\nInstructor: Ingrid Suominen\nFree spots w
  hen last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2
-  h before to avoid the 5 EUR fee.
+  h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar —
+  not run or endorsed by UniSport. Data may be stale\; always verify on Un
+ iSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-15
 BEGIN:VALARM
@@ -1035,7 +621,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865273@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261015T141500Z
 DTEND:20261015T151500Z
 SUMMARY:Ashtanga Yoga
@@ -1043,7 +629,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-15\nInstructor: Inari Nikkanen\nFree spots wh
  en last checked: 44 / 44\nBooking opens 6 days before. Cancel at least 2 
- h before to avoid the 5 EUR fee.
+ h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
+ not run or endorsed by UniSport. Data may be stale\; always verify on Uni
+ Sport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-15
 BEGIN:VALARM
@@ -1054,7 +642,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865238@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261015T152000Z
 DTEND:20261015T162000Z
 SUMMARY:Interval Step
@@ -1062,7 +650,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-15\nInstructor: Milla Valjus\nFree spots when
   last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h 
- before to avoid the 5 EUR fee.
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-15
 BEGIN:VALARM
@@ -1073,7 +663,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865308@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261015T162500Z
 DTEND:20261015T172500Z
 SUMMARY:Zumba™
@@ -1081,7 +671,9 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-15\nInstructor: Katriina Haikala\nFree spots 
  when last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 
- 2 h before to avoid the 5 EUR fee.
+ 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
+ — not run or endorsed by UniSport. Data may be stale\; always verify on
+  UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-15
 BEGIN:VALARM
@@ -1092,15 +684,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865358@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261016T070000Z
 DTEND:20261016T080000Z
 SUMMARY:Flow Yoga
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-16\nInstructor: Peppina Lindfors\nFree spots 
- when last checked: 44 / 44\nBooking opens 6 days before. Cancel at least 
- 2 h before to avoid the 5 EUR fee.
+ when last checked: 37 / 44\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
+ — not run or endorsed by UniSport. Data may be stale\; always verify on
+  UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-16
 BEGIN:VALARM
@@ -1111,15 +705,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865401@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261016T123000Z
 DTEND:20261016T134500Z
 SUMMARY:Yin Yoga + Relax
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-16\nInstructor: Kukka-Maaria Vuorikoski\nFree
-  spots when last checked: 44 / 44\nBooking opens 6 days before. Cancel at
-  least 2 h before to avoid the 5 EUR fee.
+  spots when last checked: 41 / 44\nBooking opens 6 days before. Cancel at
+  least 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made cale
+ ndar — not run or endorsed by UniSport. Data may be stale\; always veri
+ fy on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-16
 BEGIN:VALARM
@@ -1130,15 +726,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865436@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261016T135500Z
 DTEND:20261016T144000Z
 SUMMARY:LES MILLS DANCE™
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-16\nInstructor: Mirjam Rabi\nFree spots when 
- last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h b
- efore to avoid the 5 EUR fee.
+ last checked: 39 / 40\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not
+  run or endorsed by UniSport. Data may be stale\; always verify on UniSpo
+ rt before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-16
 BEGIN:VALARM
@@ -1149,15 +747,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865478@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261016T145000Z
 DTEND:20261016T155000Z
 SUMMARY:BODYPUMP™
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-16\nInstructor: Mirjam Rabi\nFree spots when 
- last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 h b
- efore to avoid the 5 EUR fee.
+ last checked: 30 / 43\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not
+  run or endorsed by UniSport. Data may be stale\; always verify on UniSpo
+ rt before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-16
 BEGIN:VALARM
@@ -1168,15 +768,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:882301@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261016T160000Z
 DTEND:20261016T164500Z
 SUMMARY:BODYCOMBAT™ 45
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-16\nInstructor: Salla Laukkanen\nFree spots w
- hen last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2
-  h before to avoid the 5 EUR fee.
+ hen last checked: 36 / 40\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar —
+  not run or endorsed by UniSport. Data may be stale\; always verify on Un
+ iSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-16
 BEGIN:VALARM
@@ -1187,15 +789,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865513@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261017T074500Z
 DTEND:20261017T083000Z
 SUMMARY:Kettlebell 45
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-17\nInstructor: Jaakko Kuusisto\nFree spots w
- hen last checked: 25 / 25\nBooking opens 6 days before. Cancel at least 2
-  h before to avoid the 5 EUR fee.
+ hen last checked: 22 / 25\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar —
+  not run or endorsed by UniSport. Data may be stale\; always verify on Un
+ iSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-17
 BEGIN:VALARM
@@ -1206,15 +810,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865547@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261017T090000Z
 DTEND:20261017T100000Z
 SUMMARY:Pilates på svenska
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-17\nInstructor: Marianne Airisniemi\nFree spo
- ts when last checked: 44 / 44\nBooking opens 6 days before. Cancel at lea
- st 2 h before to avoid the 5 EUR fee.
+ ts when last checked: 37 / 44\nBooking opens 6 days before. Cancel at lea
+ st 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar
+  — not run or endorsed by UniSport. Data may be stale\; always verify o
+ n UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-17
 BEGIN:VALARM
@@ -1225,15 +831,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:881468@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261017T090000Z
 DTEND:20261017T110000Z
 SUMMARY:Kuntosalin workshop: Leuanvetovariaatiot
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-17\nInstructor: Tiina Kärki\nFree spots when
-  last checked: 10 / 10\nBooking opens 6 days before. Cancel at least 2 h 
- before to avoid the 5 EUR fee.
+  last checked: 7 / 10\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not
+  run or endorsed by UniSport. Data may be stale\; always verify on UniSpo
+ rt before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-17
 BEGIN:VALARM
@@ -1244,15 +852,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865581@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261017T100500Z
 DTEND:20261017T110500Z
 SUMMARY:Dance Mix
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-17\nInstructor: Marianne Airisniemi\nFree spo
- ts when last checked: 40 / 40\nBooking opens 6 days before. Cancel at lea
- st 2 h before to avoid the 5 EUR fee.
+ ts when last checked: 29 / 40\nBooking opens 6 days before. Cancel at lea
+ st 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar
+  — not run or endorsed by UniSport. Data may be stale\; always verify o
+ n UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-17
 BEGIN:VALARM
@@ -1263,15 +873,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865615@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261018T070000Z
 DTEND:20261018T080000Z
 SUMMARY:BODYPUMP™
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-18\nInstructor: Hanna Kosonen\nFree spots whe
- n last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 h
-  before to avoid the 5 EUR fee.
+ n last checked: 35 / 43\nBooking opens 6 days before. Cancel at least 2 h
+  before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — n
+ ot run or endorsed by UniSport. Data may be stale\; always verify on UniS
+ port before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-18
 BEGIN:VALARM
@@ -1282,15 +894,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865649@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261018T131000Z
 DTEND:20261018T141000Z
 SUMMARY:Pilates
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-18\nInstructor: Kirsi Ketola\nFree spots when
-  last checked: 44 / 44\nBooking opens 6 days before. Cancel at least 2 h 
- before to avoid the 5 EUR fee.
+  last checked: 40 / 44\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-18
 BEGIN:VALARM
@@ -1301,15 +915,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865683@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261018T142000Z
 DTEND:20261018T152000Z
 SUMMARY:BODYCOMBAT™
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-18\nInstructor: Zuzu Elyousfi\nFree spots whe
- n last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h
-  before to avoid the 5 EUR fee.
+ n last checked: 34 / 40\nBooking opens 6 days before. Cancel at least 2 h
+  before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — n
+ ot run or endorsed by UniSport. Data may be stale\; always verify on UniS
+ port before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-18
 BEGIN:VALARM
@@ -1320,20 +936,1282 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865717@unisport-calendar
-DTSTAMP:20261004T103325Z
+DTSTAMP:20261016T012930Z
 DTSTART:20261018T153500Z
 DTEND:20261018T165000Z
 SUMMARY:Flow Yoga 75
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/3/-/-/-/-/~date=2026-10-18\nInstructor: Outi Pikkuoksa\nFree spots wh
- en last checked: 44 / 44\nBooking opens 6 days before. Cancel at least 2 
- h before to avoid the 5 EUR fee.
+ en last checked: 37 / 44\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
+ not run or endorsed by UniSport. Data may be stale\; always verify on Uni
+ Sport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
  ~date=2026-10-18
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Flow Yoga 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:881018@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261019T090000Z
+DTEND:20261019T100000Z
+SUMMARY:BODYBALANCE™ 45
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-19\nInstructor: Mette Veistola\nFree spots wh
+ en last checked: 40 / 43\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
+ not run or endorsed by UniSport. Data may be stale\; always verify on Uni
+ Sport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-19
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYBALANCE™ 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:864448@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261019T131500Z
+DTEND:20261019T141500Z
+SUMMARY:Easy Training
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-19\nInstructor: Helena Pasanen\nFree spots wh
+ en last checked: 42 / 43\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
+ not run or endorsed by UniSport. Data may be stale\; always verify on Uni
+ Sport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-19
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Easy Training
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:864530@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261019T142000Z
+DTEND:20261019T152000Z
+SUMMARY:Gentle Hatha Yoga in English
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-19\nInstructor: Kukka-Maaria Vuorikoski\nFree
+  spots when last checked: 39 / 44\nBooking opens 6 days before. Cancel at
+  least 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made cale
+ ndar — not run or endorsed by UniSport. Data may be stale\; always veri
+ fy on UniSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-19
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gentle Hatha Yoga in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:864612@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261019T153000Z
+DTEND:20261019T161500Z
+SUMMARY:LES MILLS DANCE™
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-19\nInstructor: Milla Valjus\nFree spots when
+  last checked: 37 / 40\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-19
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:LES MILLS DANCE™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:864742@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261019T162000Z
+DTEND:20261019T165000Z
+SUMMARY:Core Training 30
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-19\nInstructor: Milla Valjus\nFree spots when
+  last checked: 43 / 45\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-19
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Core Training 30
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:864776@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261019T165500Z
+DTEND:20261019T174000Z
+SUMMARY:Mobility 45
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-19\nInstructor: Milla Valjus\nFree spots when
+  last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-19
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mobility 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:864811@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261020T050000Z
+DTEND:20261020T060000Z
+SUMMARY:Pilates
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-20\nInstructor: Iina Ahola\nFree spots when l
+ ast checked: 43 / 44\nBooking opens 6 days before. Cancel at least 2 h be
+ fore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not 
+ run or endorsed by UniSport. Data may be stale\; always verify on UniSpor
+ t before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-20
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:882292@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261020T131000Z
+DTEND:20261020T141000Z
+SUMMARY:Zumba™
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-20\nInstructor: Katriina Haikala\nFree spots 
+ when last checked: 39 / 40\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
+ — not run or endorsed by UniSport. Data may be stale\; always verify on
+  UniSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-20
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zumba™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:864881@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261020T141500Z
+DTEND:20261020T150000Z
+SUMMARY:Kettlebell 45 in English
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-20\nInstructor: Janne Taivainen\nFree spots w
+ hen last checked: 22 / 25\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar —
+  not run or endorsed by UniSport. Data may be stale\; always verify on Un
+ iSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-20
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kettlebell 45 in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:864916@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261020T151000Z
+DTEND:20261020T161000Z
+SUMMARY:Interval Body
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-20\nInstructor: Helena Pasanen\nFree spots wh
+ en last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
+ not run or endorsed by UniSport. Data may be stale\; always verify on Uni
+ Sport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-20
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Interval Body
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:864951@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261020T162000Z
+DTEND:20261020T172000Z
+SUMMARY:BODYPUMP™  in English
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-20\nInstructor: Reka Malinen\nFree spots when
+  last checked: 42 / 43\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-20
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™  in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:864991@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261021T053000Z
+DTEND:20261021T063000Z
+SUMMARY:BODYPUMP™
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-21\nInstructor: Zuzu Elyousfi\nFree spots whe
+ n last checked: 42 / 43\nBooking opens 6 days before. Cancel at least 2 h
+  before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — n
+ ot run or endorsed by UniSport. Data may be stale\; always verify on UniS
+ port before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-21
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865026@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261021T090000Z
+DTEND:20261021T094500Z
+SUMMARY:Body 45
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-21\nInstructor: Helena Pasanen\nFree spots wh
+ en last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
+ not run or endorsed by UniSport. Data may be stale\; always verify on Uni
+ Sport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-21
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Body 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865061@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261021T141000Z
+DTEND:20261021T151000Z
+SUMMARY:BODYBALANCE™  in English
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-21\nInstructor: Reka Malinen\nFree spots when
+  last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-21
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYBALANCE™  in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865096@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261021T151500Z
+DTEND:20261021T161500Z
+SUMMARY:Zumba™ in English
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-21\nInstructor: Kari Short\nFree spots when l
+ ast checked: 33 / 40\nBooking opens 6 days before. Cancel at least 2 h be
+ fore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not 
+ run or endorsed by UniSport. Data may be stale\; always verify on UniSpor
+ t before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-21
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zumba™ in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865134@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261021T162500Z
+DTEND:20261021T171000Z
+SUMMARY:Pilates 45
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-21\nInstructor: Katja Lilja\nFree spots when 
+ last checked: 44 / 44\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not
+  run or endorsed by UniSport. Data may be stale\; always verify on UniSpo
+ rt before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-21
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:882272@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261022T084500Z
+DTEND:20261022T093000Z
+SUMMARY:BODYCOMBAT™ 45
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-22\nInstructor: Jenni Haukirauma\nFree spots 
+ when last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
+ — not run or endorsed by UniSport. Data may be stale\; always verify on
+  UniSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-22
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYCOMBAT™ 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:882281@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261022T094000Z
+DTEND:20261022T102500Z
+SUMMARY:Mobility 45
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-22\nInstructor: Jenni Haukirauma\nFree spots 
+ when last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
+ — not run or endorsed by UniSport. Data may be stale\; always verify on
+  UniSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-22
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mobility 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865169@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261022T114500Z
+DTEND:20261022T123000Z
+SUMMARY:Pilates 45 in English
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-22\nInstructor: Mette Veistola\nFree spots wh
+ en last checked: 44 / 44\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
+ not run or endorsed by UniSport. Data may be stale\; always verify on Uni
+ Sport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-22
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates 45 in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865204@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261022T132500Z
+DTEND:20261022T141000Z
+SUMMARY:BODYCOMBAT™ 45 in English
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-22\nInstructor: Ingrid Suominen\nFree spots w
+ hen last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar —
+  not run or endorsed by UniSport. Data may be stale\; always verify on Un
+ iSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-22
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYCOMBAT™ 45 in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865274@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261022T141500Z
+DTEND:20261022T151500Z
+SUMMARY:Ashtanga Yoga
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-22\nInstructor: Inari Nikkanen\nFree spots wh
+ en last checked: 44 / 44\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
+ not run or endorsed by UniSport. Data may be stale\; always verify on Uni
+ Sport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-22
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ashtanga Yoga
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865239@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261022T152000Z
+DTEND:20261022T162000Z
+SUMMARY:Interval Step
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-22\nInstructor: Milla Valjus\nFree spots when
+  last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-22
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Interval Step
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865309@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261022T162500Z
+DTEND:20261022T172500Z
+SUMMARY:Zumba™
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-22\nInstructor: Katriina Haikala\nFree spots 
+ when last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
+ — not run or endorsed by UniSport. Data may be stale\; always verify on
+  UniSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-22
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zumba™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865359@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261023T070000Z
+DTEND:20261023T080000Z
+SUMMARY:Flow Yoga
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-23\nInstructor: Peppina Lindfors\nFree spots 
+ when last checked: 44 / 44\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
+ — not run or endorsed by UniSport. Data may be stale\; always verify on
+  UniSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-23
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Flow Yoga
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865402@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261023T123000Z
+DTEND:20261023T134500Z
+SUMMARY:Yin Yoga + Relax
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-23\nInstructor: Kukka-Maaria Vuorikoski\nFree
+  spots when last checked: 44 / 44\nBooking opens 6 days before. Cancel at
+  least 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made cale
+ ndar — not run or endorsed by UniSport. Data may be stale\; always veri
+ fy on UniSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-23
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yin Yoga + Relax
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865437@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261023T135500Z
+DTEND:20261023T144000Z
+SUMMARY:LES MILLS DANCE™
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-23\nInstructor: Mirjam Rabi\nFree spots when 
+ last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not
+  run or endorsed by UniSport. Data may be stale\; always verify on UniSpo
+ rt before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-23
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:LES MILLS DANCE™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865479@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261023T145000Z
+DTEND:20261023T155000Z
+SUMMARY:BODYPUMP™
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-23\nInstructor: Mari Mäki-Torkko\nFree spots
+  when last checked: 43 / 43\nBooking opens 6 days before. Cancel at least
+  2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
+ — not run or endorsed by UniSport. Data may be stale\; always verify on
+  UniSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-23
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:882302@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261023T160000Z
+DTEND:20261023T164500Z
+SUMMARY:BODYCOMBAT™ 45
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-23\nInstructor: Salla Laukkanen\nFree spots w
+ hen last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar —
+  not run or endorsed by UniSport. Data may be stale\; always verify on Un
+ iSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-23
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYCOMBAT™ 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865616@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261025T080000Z
+DTEND:20261025T090000Z
+SUMMARY:BODYPUMP™
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-25\nInstructor: Mari Mäki-Torkko\nFree spots
+  when last checked: 43 / 43\nBooking opens 6 days before. Cancel at least
+  2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
+ — not run or endorsed by UniSport. Data may be stale\; always verify on
+  UniSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-25
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865650@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261025T141000Z
+DTEND:20261025T151000Z
+SUMMARY:Pilates
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-25\nInstructor: Kirsi Ketola\nFree spots when
+  last checked: 44 / 44\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-25
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865684@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261025T152000Z
+DTEND:20261025T162000Z
+SUMMARY:BODYCOMBAT™
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-25\nInstructor: Zuzu Elyousfi\nFree spots whe
+ n last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h
+  before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — n
+ ot run or endorsed by UniSport. Data may be stale\; always verify on UniS
+ port before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-25
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYCOMBAT™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865718@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261025T163500Z
+DTEND:20261025T175000Z
+SUMMARY:TUNTIMUUTOS: Yin Yoga 75
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-25\nInstructor: Kirsi Ketola\nFree spots when
+  last checked: 44 / 44\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-25
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TUNTIMUUTOS: Yin Yoga 75
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:881019@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261026T100000Z
+DTEND:20261026T110000Z
+SUMMARY:BODYBALANCE™ 45
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-26\nInstructor: Mette Veistola\nFree spots wh
+ en last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
+ not run or endorsed by UniSport. Data may be stale\; always verify on Uni
+ Sport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-26
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYBALANCE™ 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:864449@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261026T141500Z
+DTEND:20261026T151500Z
+SUMMARY:Easy Training
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-26\nInstructor: Helena Pasanen\nFree spots wh
+ en last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
+ not run or endorsed by UniSport. Data may be stale\; always verify on Uni
+ Sport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-26
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Easy Training
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:864531@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261026T152000Z
+DTEND:20261026T162000Z
+SUMMARY:Gentle Hatha Yoga in English
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-26\nInstructor: Kukka-Maaria Vuorikoski\nFree
+  spots when last checked: 44 / 44\nBooking opens 6 days before. Cancel at
+  least 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made cale
+ ndar — not run or endorsed by UniSport. Data may be stale\; always veri
+ fy on UniSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-26
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gentle Hatha Yoga in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:864613@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261026T163000Z
+DTEND:20261026T171500Z
+SUMMARY:LES MILLS DANCE™
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-26\nInstructor: Milla Valjus\nFree spots when
+  last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-26
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:LES MILLS DANCE™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:864743@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261026T172000Z
+DTEND:20261026T175000Z
+SUMMARY:Core Training 30
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-26\nInstructor: Milla Valjus\nFree spots when
+  last checked: 45 / 45\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-26
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Core Training 30
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:864777@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261026T175500Z
+DTEND:20261026T184000Z
+SUMMARY:Mobility 45
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-26\nInstructor: Milla Valjus\nFree spots when
+  last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-26
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mobility 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:864812@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261027T060000Z
+DTEND:20261027T070000Z
+SUMMARY:Pilates
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-27\nInstructor: Iina Ahola\nFree spots when l
+ ast checked: 44 / 44\nBooking opens 6 days before. Cancel at least 2 h be
+ fore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not 
+ run or endorsed by UniSport. Data may be stale\; always verify on UniSpor
+ t before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-27
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:882293@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261027T141000Z
+DTEND:20261027T151000Z
+SUMMARY:Zumba™
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-27\nInstructor: Katriina Haikala\nFree spots 
+ when last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
+ — not run or endorsed by UniSport. Data may be stale\; always verify on
+  UniSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-27
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zumba™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:864882@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261027T151500Z
+DTEND:20261027T160000Z
+SUMMARY:Kettlebell 45 in English
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-27\nInstructor: Giulia Saponaro\nFree spots w
+ hen last checked: 25 / 25\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar —
+  not run or endorsed by UniSport. Data may be stale\; always verify on Un
+ iSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-27
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kettlebell 45 in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:864917@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261027T161000Z
+DTEND:20261027T171000Z
+SUMMARY:Interval Body in English
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-27\nInstructor: Giulia Saponaro\nFree spots w
+ hen last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar —
+  not run or endorsed by UniSport. Data may be stale\; always verify on Un
+ iSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-27
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Interval Body in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:864952@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261027T172000Z
+DTEND:20261027T182000Z
+SUMMARY:BODYPUMP™  in English
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-27\nInstructor: Reka Malinen\nFree spots when
+  last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-27
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™  in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:864992@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261028T063000Z
+DTEND:20261028T073000Z
+SUMMARY:BODYPUMP™
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-28\nInstructor: Zuzu Elyousfi\nFree spots whe
+ n last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 h
+  before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — n
+ ot run or endorsed by UniSport. Data may be stale\; always verify on UniS
+ port before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-28
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865027@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261028T100000Z
+DTEND:20261028T104500Z
+SUMMARY:Body 45
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-28\nInstructor: Helena Pasanen\nFree spots wh
+ en last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
+ not run or endorsed by UniSport. Data may be stale\; always verify on Uni
+ Sport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-28
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Body 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865062@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261028T151000Z
+DTEND:20261028T161000Z
+SUMMARY:BODYBALANCE™  in English
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-28\nInstructor: Reka Malinen\nFree spots when
+  last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-28
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYBALANCE™  in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865097@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261028T161500Z
+DTEND:20261028T171500Z
+SUMMARY:Zumba™ in English
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-28\nInstructor: Kari Short\nFree spots when l
+ ast checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h be
+ fore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not 
+ run or endorsed by UniSport. Data may be stale\; always verify on UniSpor
+ t before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-28
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zumba™ in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865135@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261028T172500Z
+DTEND:20261028T181000Z
+SUMMARY:Pilates 45
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-28\nInstructor: Katja Lilja\nFree spots when 
+ last checked: 44 / 44\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not
+  run or endorsed by UniSport. Data may be stale\; always verify on UniSpo
+ rt before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-28
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:882273@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261029T094500Z
+DTEND:20261029T103000Z
+SUMMARY:BODYCOMBAT™ 45
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-29\nInstructor: Jenni Haukirauma\nFree spots 
+ when last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
+ — not run or endorsed by UniSport. Data may be stale\; always verify on
+  UniSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-29
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYCOMBAT™ 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:882282@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261029T104000Z
+DTEND:20261029T112500Z
+SUMMARY:Mobility 45
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-29\nInstructor: Jenni Haukirauma\nFree spots 
+ when last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
+ — not run or endorsed by UniSport. Data may be stale\; always verify on
+  UniSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-29
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mobility 45
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865170@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261029T124500Z
+DTEND:20261029T133000Z
+SUMMARY:Pilates 45 in English
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-29\nInstructor: Mette Veistola\nFree spots wh
+ en last checked: 44 / 44\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
+ not run or endorsed by UniSport. Data may be stale\; always verify on Uni
+ Sport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-29
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pilates 45 in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865205@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261029T142500Z
+DTEND:20261029T151000Z
+SUMMARY:BODYCOMBAT™ 45 in English
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-29\nInstructor: Ingrid Suominen\nFree spots w
+ hen last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar —
+  not run or endorsed by UniSport. Data may be stale\; always verify on Un
+ iSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-29
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYCOMBAT™ 45 in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865275@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261029T151500Z
+DTEND:20261029T161500Z
+SUMMARY:Ashtanga Yoga
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-29\nInstructor: Inari Nikkanen\nFree spots wh
+ en last checked: 44 / 44\nBooking opens 6 days before. Cancel at least 2 
+ h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
+ not run or endorsed by UniSport. Data may be stale\; always verify on Uni
+ Sport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-29
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ashtanga Yoga
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865240@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261029T162000Z
+DTEND:20261029T172000Z
+SUMMARY:Interval Step
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-29\nInstructor: Milla Valjus\nFree spots when
+  last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-29
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Interval Step
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865310@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261029T172500Z
+DTEND:20261029T182500Z
+SUMMARY:Zumba™
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-29\nInstructor: Katriina Haikala\nFree spots 
+ when last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
+ — not run or endorsed by UniSport. Data may be stale\; always verify on
+  UniSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-29
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zumba™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865360@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261030T080000Z
+DTEND:20261030T090000Z
+SUMMARY:Flow Yoga
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-30\nInstructor: Peppina Lindfors\nFree spots 
+ when last checked: 44 / 44\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
+ — not run or endorsed by UniSport. Data may be stale\; always verify on
+  UniSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-30
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Flow Yoga
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865403@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261030T133000Z
+DTEND:20261030T144500Z
+SUMMARY:Yin Yoga + Relax
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-30\nInstructor: Kukka-Maaria Vuorikoski\nFree
+  spots when last checked: 44 / 44\nBooking opens 6 days before. Cancel at
+  least 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made cale
+ ndar — not run or endorsed by UniSport. Data may be stale\; always veri
+ fy on UniSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-30
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yin Yoga + Relax
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865438@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261030T145500Z
+DTEND:20261030T154000Z
+SUMMARY:LES MILLS DANCE™
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-30\nInstructor: Mirjam Rabi\nFree spots when 
+ last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not
+  run or endorsed by UniSport. Data may be stale\; always verify on UniSpo
+ rt before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-30
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:LES MILLS DANCE™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865480@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261030T155000Z
+DTEND:20261030T165000Z
+SUMMARY:BODYPUMP™
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-30\nInstructor: Mirjam Rabi\nFree spots when 
+ last checked: 43 / 43\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not
+  run or endorsed by UniSport. Data may be stale\; always verify on UniSpo
+ rt before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-30
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:882303@unisport-calendar
+DTSTAMP:20261016T012930Z
+DTSTART:20261030T170000Z
+DTEND:20261030T174500Z
+SUMMARY:BODYCOMBAT™ 45
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/3/-/-/-/-/~date=2026-10-30\nInstructor: Salla Laukkanen\nFree spots w
+ hen last checked: 40 / 40\nBooking opens 6 days before. Cancel at least 2
+  h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar —
+  not run or endorsed by UniSport. Data may be stale\; always verify on Un
+ iSport before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/
+ ~date=2026-10-30
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYCOMBAT™ 45
 TRIGGER:-PT60M
 END:VALARM
 END:VEVENT

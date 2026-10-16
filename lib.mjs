@@ -117,16 +117,19 @@ function fold(line) {
   return parts.join('\r\n');
 }
 
+const DISCLAIMER = 'Unofficial, student-made calendar — not run or endorsed by UniSport. Data may be stale; always verify on UniSport before relying on it.';
+
 export function toICS(events, { calendarName, reminderMinutesBefore, now = DateTime.utc().toISO() }) {
   const L = [
     'BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//unisport-calendar//EN', 'CALSCALE:GREGORIAN', 'METHOD:PUBLISH',
-    `X-WR-CALNAME:${esc(calendarName)}`, 'X-WR-TIMEZONE:Europe/Helsinki', 'REFRESH-INTERVAL;VALUE=DURATION:PT3H', 'X-PUBLISHED-TTL:PT3H',
+    `X-WR-CALNAME:${esc(calendarName)}`, `X-WR-CALDESC:${esc(DISCLAIMER)}`, 'X-WR-TIMEZONE:Europe/Helsinki',
+    'REFRESH-INTERVAL;VALUE=DURATION:PT3H', 'X-PUBLISHED-TTL:PT3H',
   ];
   for (const e of [...events].sort((a, b) => a.start.localeCompare(b.start))) {
     const uid = `${(e.id || `${e.name}-${e.start}-${e.location}`).replace(/[^\w.-]+/g, '-')}@unisport-calendar`;
     const spots = e.free != null ? `Free spots when last checked: ${e.free}${e.capacity ? ` / ${e.capacity}` : ''}` : '';
     const desc = [`Book: ${e.bookUrl}`, e.instructor && `Instructor: ${e.instructor}`, spots,
-      'Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR fee.'].filter(Boolean).join('\n');
+      'Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR fee.', DISCLAIMER].filter(Boolean).join('\n');
     L.push('BEGIN:VEVENT', `UID:${uid}`, `DTSTAMP:${stamp(now)}`, `DTSTART:${stamp(e.start)}`, `DTEND:${stamp(e.end)}`,
       `SUMMARY:${esc(e.name)}`);
     if (e.location) L.push(`LOCATION:${esc(e.location)}`);

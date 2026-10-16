@@ -4,15 +4,12 @@ PRODID:-//unisport-calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:UniSport Group Exercise – University campuses
-X-WR-CALDESC:Unofficial\, student-made calendar — not run or endorsed by
-  UniSport. Data may be stale\; always verify on UniSport before relying o
- n it.
 X-WR-TIMEZONE:Europe/Helsinki
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
 UID:868319@unisport-calendar
-DTSTAMP:20261016T012931Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261012T143000Z
 DTEND:20261012T151500Z
 SUMMARY:Pilates 45 (Musiikkitalo\, Tanssistudio)
@@ -20,9 +17,7 @@ LOCATION:Yliopistokampukset
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/13/-/-/-/-/~date=2026-10-12\nInstructor: Inari Nikkanen\nFree spots w
  hen last checked: 15 / 15\nBooking opens 6 days before. Cancel at least 2
-  h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar —
-  not run or endorsed by UniSport. Data may be stale\; always verify on Un
- iSport before relying on it.
+  h before to avoid the 5 EUR fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-
  /~date=2026-10-12
 BEGIN:VALARM
@@ -33,17 +28,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:870463@unisport-calendar
-DTSTAMP:20261016T012931Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261013T131500Z
 DTEND:20261013T140000Z
 SUMMARY:Pilates 45 (Kandidaattikeskus\, Top Lounge)
 LOCATION:Yliopistokampukset
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/13/-/-/-/-/~date=2026-10-13\nInstructor: Hanna Autio\nFree spots when
-  last checked: 15 / 15\nBooking opens 6 days before. Cancel at least 2 h 
- before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
- t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
- ort before relying on it.
+  last checked: 14 / 15\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-
  /~date=2026-10-13
 BEGIN:VALARM
@@ -54,17 +47,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:868354@unisport-calendar
-DTSTAMP:20261016T012931Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261013T141500Z
 DTEND:20261013T150000Z
 SUMMARY:Pilates 45 (Teatterikorkeakoulu Sörnäinen\, sali 525)
 LOCATION:Yliopistokampukset
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/13/-/-/-/-/~date=2026-10-13\nInstructor: Katri Djerf\nFree spots when
-  last checked: 20 / 20\nBooking opens 6 days before. Cancel at least 2 h 
- before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
- t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
- ort before relying on it.
+  last checked: 19 / 20\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-
  /~date=2026-10-13
 BEGIN:VALARM
@@ -74,8 +65,27 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:868354@unisport-calendar
+DTSTAMP:20261015T212105Z
+DTSTART:20261013T141500Z
+DTEND:20261013T150000Z
+SUMMARY:PERUTTU: Pilates 45 (Teatterikorkeakoulu Sörnäinen\, sali 525)
+LOCATION:Yliopistokampukset
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/13/-/-/-/-/~date=2026-10-13\nFree spots when last checked: 0\nBooking
+  opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-
+ /~date=2026-10-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PERUTTU: Pilates 45 (Teatterikorkeakoulu Sörnäinen\, sali 52
+ 5)
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:868389@unisport-calendar
-DTSTAMP:20261016T012931Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261014T141500Z
 DTEND:20261014T150000Z
 SUMMARY:Gentle Hatha Yoga 45 (Teatterikorkeakoulu Sörnäinen\, sali 525)
@@ -83,9 +93,7 @@ LOCATION:Yliopistokampukset
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/13/-/-/-/-/~date=2026-10-14\nInstructor: Kukka-Maaria Vuorikoski\nFre
  e spots when last checked: 20 / 20\nBooking opens 6 days before. Cancel a
- t least 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made cal
- endar — not run or endorsed by UniSport. Data may be stale\; always ver
- ify on UniSport before relying on it.
+ t least 2 h before to avoid the 5 EUR fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-
  /~date=2026-10-14
 BEGIN:VALARM
@@ -96,8 +104,28 @@ TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:868389@unisport-calendar
+DTSTAMP:20261015T212105Z
+DTSTART:20261014T141500Z
+DTEND:20261014T150000Z
+SUMMARY:PERUTTU:Gentle Hatha Yoga 45 (Teatterikorkeakoulu Sörnäinen\, sa
+ li 525)
+LOCATION:Yliopistokampukset
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/13/-/-/-/-/~date=2026-10-14\nFree spots when last checked: 0\nBooking
+  opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-
+ /~date=2026-10-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PERUTTU:Gentle Hatha Yoga 45 (Teatterikorkeakoulu Sörnäinen\
+ , sali 525)
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:868320@unisport-calendar
-DTSTAMP:20261016T012931Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261019T143000Z
 DTEND:20261019T151500Z
 SUMMARY:Pilates 45 (Musiikkitalo\, Tanssistudio)
@@ -105,9 +133,7 @@ LOCATION:Yliopistokampukset
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/13/-/-/-/-/~date=2026-10-19\nInstructor: Inari Nikkanen\nFree spots w
  hen last checked: 15 / 15\nBooking opens 6 days before. Cancel at least 2
-  h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar —
-  not run or endorsed by UniSport. Data may be stale\; always verify on Un
- iSport before relying on it.
+  h before to avoid the 5 EUR fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-
  /~date=2026-10-19
 BEGIN:VALARM
@@ -118,7 +144,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:870464@unisport-calendar
-DTSTAMP:20261016T012931Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261020T131500Z
 DTEND:20261020T140000Z
 SUMMARY:Pilates 45 (Kandidaattikeskus\, Top Lounge)
@@ -126,9 +152,7 @@ LOCATION:Yliopistokampukset
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/13/-/-/-/-/~date=2026-10-20\nInstructor: Hanna Autio\nFree spots when
   last checked: 15 / 15\nBooking opens 6 days before. Cancel at least 2 h 
- before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
- t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
- ort before relying on it.
+ before to avoid the 5 EUR fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-
  /~date=2026-10-20
 BEGIN:VALARM
@@ -139,7 +163,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:868355@unisport-calendar
-DTSTAMP:20261016T012931Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261020T141500Z
 DTEND:20261020T150000Z
 SUMMARY:Pilates 45 (Teatterikorkeakoulu Sörnäinen\, sali 525)
@@ -147,9 +171,7 @@ LOCATION:Yliopistokampukset
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/13/-/-/-/-/~date=2026-10-20\nInstructor: Hanna Kosonen\nFree spots wh
  en last checked: 20 / 20\nBooking opens 6 days before. Cancel at least 2 
- h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
- not run or endorsed by UniSport. Data may be stale\; always verify on Uni
- Sport before relying on it.
+ h before to avoid the 5 EUR fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-
  /~date=2026-10-20
 BEGIN:VALARM
@@ -160,7 +182,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:868390@unisport-calendar
-DTSTAMP:20261016T012931Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261021T141500Z
 DTEND:20261021T150000Z
 SUMMARY:Gentle Hatha Yoga 45 (Teatterikorkeakoulu Sörnäinen\, sali 525)
@@ -168,9 +190,7 @@ LOCATION:Yliopistokampukset
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/13/-/-/-/-/~date=2026-10-21\nInstructor: Kukka-Maaria Vuorikoski\nFre
  e spots when last checked: 20 / 20\nBooking opens 6 days before. Cancel a
- t least 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made cal
- endar — not run or endorsed by UniSport. Data may be stale\; always ver
- ify on UniSport before relying on it.
+ t least 2 h before to avoid the 5 EUR fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-
  /~date=2026-10-21
 BEGIN:VALARM
@@ -182,7 +202,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:868321@unisport-calendar
-DTSTAMP:20261016T012931Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261026T153000Z
 DTEND:20261026T161500Z
 SUMMARY:Pilates 45 (Musiikkitalo\, Tanssistudio)
@@ -190,9 +210,7 @@ LOCATION:Yliopistokampukset
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/13/-/-/-/-/~date=2026-10-26\nInstructor: Inari Nikkanen\nFree spots w
  hen last checked: 15 / 15\nBooking opens 6 days before. Cancel at least 2
-  h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar —
-  not run or endorsed by UniSport. Data may be stale\; always verify on Un
- iSport before relying on it.
+  h before to avoid the 5 EUR fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-
  /~date=2026-10-26
 BEGIN:VALARM
@@ -203,7 +221,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:870465@unisport-calendar
-DTSTAMP:20261016T012931Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261027T141500Z
 DTEND:20261027T150000Z
 SUMMARY:Pilates 45 (Kandidaattikeskus\, Top Lounge)
@@ -211,9 +229,7 @@ LOCATION:Yliopistokampukset
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/13/-/-/-/-/~date=2026-10-27\nInstructor: Hanna Autio\nFree spots when
   last checked: 15 / 15\nBooking opens 6 days before. Cancel at least 2 h 
- before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
- t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
- ort before relying on it.
+ before to avoid the 5 EUR fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-
  /~date=2026-10-27
 BEGIN:VALARM
@@ -224,7 +240,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:868356@unisport-calendar
-DTSTAMP:20261016T012931Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261027T151500Z
 DTEND:20261027T160000Z
 SUMMARY:Pilates 45 (Teatterikorkeakoulu Sörnäinen\, sali 525)
@@ -232,9 +248,7 @@ LOCATION:Yliopistokampukset
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/13/-/-/-/-/~date=2026-10-27\nInstructor: Hanna Kosonen\nFree spots wh
  en last checked: 20 / 20\nBooking opens 6 days before. Cancel at least 2 
- h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
- not run or endorsed by UniSport. Data may be stale\; always verify on Uni
- Sport before relying on it.
+ h before to avoid the 5 EUR fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-
  /~date=2026-10-27
 BEGIN:VALARM
@@ -245,7 +259,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:868391@unisport-calendar
-DTSTAMP:20261016T012931Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261028T151500Z
 DTEND:20261028T160000Z
 SUMMARY:Gentle Hatha Yoga 45 (Teatterikorkeakoulu Sörnäinen\, sali 525)
@@ -253,9 +267,7 @@ LOCATION:Yliopistokampukset
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/13/-/-/-/-/~date=2026-10-28\nInstructor: Kukka-Maaria Vuorikoski\nFre
  e spots when last checked: 20 / 20\nBooking opens 6 days before. Cancel a
- t least 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made cal
- endar — not run or endorsed by UniSport. Data may be stale\; always ver
- ify on UniSport before relying on it.
+ t least 2 h before to avoid the 5 EUR fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-
  /~date=2026-10-28
 BEGIN:VALARM

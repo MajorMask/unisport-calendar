@@ -4,24 +4,39 @@ PRODID:-//unisport-calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:UniSport Ball Games – Kumpula
-X-WR-CALDESC:Unofficial\, student-made calendar — not run or endorsed by
-  UniSport. Data may be stale\; always verify on UniSport before relying o
- n it.
 X-WR-TIMEZONE:Europe/Helsinki
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:882716@unisport-calendar
+DTSTAMP:20261015T212105Z
+DTSTART:20261010T070000Z
+DTEND:20261010T090000Z
+SUMMARY:Koripallo: rentovuoro
+LOCATION:UniSport Kumpula
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/14/3/20/-/-/-/~date=2026-10-10\nFree spots when last checked: 3 / 15\nB
+ ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
+  fee.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
+ -/~date=2026-10-10
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Koripallo: rentovuoro
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:871103@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261010T120000Z
 DTEND:20261010T133000Z
 SUMMARY:Lentopallo: rentovuoro
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/14/3/20/-/-/-/~date=2026-10-10\nFree spots when last checked: 14 / 14\n
- Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ s/14/3/20/-/-/-/~date=2026-10-10\nFree spots when last checked: 1 / 14\nB
+ ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
+  fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-10
 BEGIN:VALARM
@@ -32,16 +47,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:871075@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261010T133000Z
 DTEND:20261010T150000Z
 SUMMARY:Lentopallo: pelurivuoro
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/14/3/20/-/-/-/~date=2026-10-10\nFree spots when last checked: 14 / 14\n
- Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ s/14/3/20/-/-/-/~date=2026-10-10\nFree spots when last checked: 0 / 14\nB
+ ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
+  fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-10
 BEGIN:VALARM
@@ -52,16 +66,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876199@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261012T130000Z
 DTEND:20261012T150000Z
 SUMMARY:Lentopallo: pelurivuoro
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/14/3/20/-/-/-/~date=2026-10-12\nFree spots when last checked: 14 / 14\n
- Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ s/14/3/20/-/-/-/~date=2026-10-12\nFree spots when last checked: 0 / 14\nB
+ ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
+  fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-12
 BEGIN:VALARM
@@ -72,16 +85,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876215@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261012T170000Z
 DTEND:20261012T180000Z
 SUMMARY:Koripallo: rentovuoro
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/14/3/20/-/-/-/~date=2026-10-12\nFree spots when last checked: 18 / 18\n
+ s/14/3/20/-/-/-/~date=2026-10-12\nFree spots when last checked: 16 / 18\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ R fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-12
 BEGIN:VALARM
@@ -92,16 +104,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876231@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261013T140000Z
 DTEND:20261013T150000Z
 SUMMARY:Salibandy: pelurivuoro (B-lohko)
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/14/3/20/-/-/-/~date=2026-10-13\nFree spots when last checked: 14 / 14\n
- Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ s/14/3/20/-/-/-/~date=2026-10-13\nFree spots when last checked: 0 / 14\nB
+ ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
+  fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-13
 BEGIN:VALARM
@@ -112,16 +123,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876248@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261013T170000Z
 DTEND:20261013T180000Z
 SUMMARY:Futsal: rentovuoro (B-lohko)
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/14/3/20/-/-/-/~date=2026-10-13\nFree spots when last checked: 12 / 12\n
- Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ s/14/3/20/-/-/-/~date=2026-10-13\nFree spots when last checked: 0 / 12\nB
+ ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
+  fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-13
 BEGIN:VALARM
@@ -132,16 +142,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876265@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261014T130000Z
 DTEND:20261014T150000Z
 SUMMARY:Lentopallo: pelurivuoro
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/14/3/20/-/-/-/~date=2026-10-14\nFree spots when last checked: 14 / 14\n
- Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ s/14/3/20/-/-/-/~date=2026-10-14\nFree spots when last checked: 0 / 14\nB
+ ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
+  fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-14
 BEGIN:VALARM
@@ -152,16 +161,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876282@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261015T130000Z
 DTEND:20261015T150000Z
 SUMMARY:Koripallo: rentovuoro
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/14/3/20/-/-/-/~date=2026-10-15\nFree spots when last checked: 18 / 18\n
+ s/14/3/20/-/-/-/~date=2026-10-15\nFree spots when last checked: 12 / 18\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ R fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-15
 BEGIN:VALARM
@@ -172,17 +180,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:880772@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261015T131500Z
 DTEND:20261015T143000Z
 SUMMARY:Lentopallo: ohjattu vuoro
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-15\nInstructor: Krista Kekkonen\nFree spots
-  when last checked: 14 / 14\nBooking opens 6 days before. Cancel at least
-  2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
- — not run or endorsed by UniSport. Data may be stale\; always verify on
-  UniSport before relying on it.
+  when last checked: 1 / 14\nBooking opens 6 days before. Cancel at least 
+ 2 h before to avoid the 5 EUR fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-15
 BEGIN:VALARM
@@ -193,16 +199,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:880751@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261015T143000Z
 DTEND:20261015T160000Z
 SUMMARY:Lentopallo: rentovuoro
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/14/3/20/-/-/-/~date=2026-10-15\nFree spots when last checked: 14 / 14\n
- Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ s/14/3/20/-/-/-/~date=2026-10-15\nFree spots when last checked: 2 / 14\nB
+ ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
+  fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-15
 BEGIN:VALARM
@@ -213,16 +218,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876295@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261016T123000Z
 DTEND:20261016T140000Z
 SUMMARY:Lentopallo: rentovuoro
 LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/14/3/20/-/-/-/~date=2026-10-16\nFree spots when last checked: 1 / 14\nB
+ s/14/3/20/-/-/-/~date=2026-10-16\nFree spots when last checked: 0 / 14\nB
  ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
-  fee.\nUnofficial\, student-made calendar — not run or endorsed by UniS
- port. Data may be stale\; always verify on UniSport before relying on it.
+  fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-16
 BEGIN:VALARM
@@ -233,7 +237,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876307@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261017T070000Z
 DTEND:20261017T090000Z
 SUMMARY:Koripallo: rentovuoro
@@ -241,8 +245,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-17\nFree spots when last checked: 13 / 15\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ R fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-17
 BEGIN:VALARM
@@ -253,7 +256,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:871104@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261017T120000Z
 DTEND:20261017T133000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -261,8 +264,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-17\nFree spots when last checked: 0 / 14\nB
  ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
-  fee.\nUnofficial\, student-made calendar — not run or endorsed by UniS
- port. Data may be stale\; always verify on UniSport before relying on it.
+  fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-17
 BEGIN:VALARM
@@ -273,7 +275,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:871076@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261017T133000Z
 DTEND:20261017T150000Z
 SUMMARY:Lentopallo: pelurivuoro
@@ -281,8 +283,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-17\nFree spots when last checked: 0 / 14\nB
  ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
-  fee.\nUnofficial\, student-made calendar — not run or endorsed by UniS
- port. Data may be stale\; always verify on UniSport before relying on it.
+  fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-17
 BEGIN:VALARM
@@ -293,7 +294,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876200@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261019T130000Z
 DTEND:20261019T150000Z
 SUMMARY:Lentopallo: pelurivuoro
@@ -301,8 +302,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-19\nFree spots when last checked: 0 / 14\nB
  ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
-  fee.\nUnofficial\, student-made calendar — not run or endorsed by UniS
- port. Data may be stale\; always verify on UniSport before relying on it.
+  fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-19
 BEGIN:VALARM
@@ -313,7 +313,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876216@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261019T170000Z
 DTEND:20261019T180000Z
 SUMMARY:Koripallo: rentovuoro
@@ -321,8 +321,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-19\nFree spots when last checked: 18 / 18\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ R fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-19
 BEGIN:VALARM
@@ -333,7 +332,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876232@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261020T140000Z
 DTEND:20261020T150000Z
 SUMMARY:Salibandy: pelurivuoro (B-lohko)
@@ -341,8 +340,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-20\nFree spots when last checked: 1 / 14\nB
  ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
-  fee.\nUnofficial\, student-made calendar — not run or endorsed by UniS
- port. Data may be stale\; always verify on UniSport before relying on it.
+  fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-20
 BEGIN:VALARM
@@ -353,7 +351,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876249@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261020T170000Z
 DTEND:20261020T180000Z
 SUMMARY:Futsal: rentovuoro (B-lohko)
@@ -361,8 +359,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-20\nFree spots when last checked: 8 / 12\nB
  ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
-  fee.\nUnofficial\, student-made calendar — not run or endorsed by UniS
- port. Data may be stale\; always verify on UniSport before relying on it.
+  fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-20
 BEGIN:VALARM
@@ -373,7 +370,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876266@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261021T130000Z
 DTEND:20261021T150000Z
 SUMMARY:Lentopallo: pelurivuoro
@@ -381,8 +378,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-21\nFree spots when last checked: 0 / 14\nB
  ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
-  fee.\nUnofficial\, student-made calendar — not run or endorsed by UniS
- port. Data may be stale\; always verify on UniSport before relying on it.
+  fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-21
 BEGIN:VALARM
@@ -393,7 +389,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876283@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261022T130000Z
 DTEND:20261022T150000Z
 SUMMARY:Koripallo: rentovuoro
@@ -401,8 +397,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-22\nFree spots when last checked: 18 / 18\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ R fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-22
 BEGIN:VALARM
@@ -413,7 +408,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:880773@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261022T131500Z
 DTEND:20261022T143000Z
 SUMMARY:Lentopallo: ohjattu vuoro
@@ -421,9 +416,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-22\nInstructor: Krista Kekkonen\nFree spots
   when last checked: 14 / 14\nBooking opens 6 days before. Cancel at least
-  2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
- — not run or endorsed by UniSport. Data may be stale\; always verify on
-  UniSport before relying on it.
+  2 h before to avoid the 5 EUR fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-22
 BEGIN:VALARM
@@ -434,7 +427,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:880752@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261022T143000Z
 DTEND:20261022T160000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -442,8 +435,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-22\nFree spots when last checked: 14 / 14\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ R fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-22
 BEGIN:VALARM
@@ -454,7 +446,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876296@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261023T123000Z
 DTEND:20261023T140000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -462,8 +454,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-23\nFree spots when last checked: 14 / 14\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ R fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-23
 BEGIN:VALARM
@@ -474,7 +465,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876308@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261024T070000Z
 DTEND:20261024T090000Z
 SUMMARY:Koripallo: rentovuoro
@@ -482,8 +473,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-24\nFree spots when last checked: 15 / 15\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ R fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-24
 BEGIN:VALARM
@@ -494,7 +484,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:871105@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261024T120000Z
 DTEND:20261024T133000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -502,8 +492,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-24\nFree spots when last checked: 14 / 14\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ R fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-24
 BEGIN:VALARM
@@ -514,7 +503,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:871077@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261024T133000Z
 DTEND:20261024T150000Z
 SUMMARY:Lentopallo: pelurivuoro
@@ -522,8 +511,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-24\nFree spots when last checked: 14 / 14\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ R fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-24
 BEGIN:VALARM
@@ -534,7 +522,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876201@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261026T140000Z
 DTEND:20261026T160000Z
 SUMMARY:Lentopallo: pelurivuoro
@@ -542,8 +530,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-26\nFree spots when last checked: 14 / 14\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ R fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-26
 BEGIN:VALARM
@@ -554,7 +541,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876217@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261026T180000Z
 DTEND:20261026T190000Z
 SUMMARY:Koripallo: rentovuoro
@@ -562,8 +549,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-26\nFree spots when last checked: 18 / 18\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ R fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-26
 BEGIN:VALARM
@@ -574,7 +560,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876233@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261027T150000Z
 DTEND:20261027T160000Z
 SUMMARY:Salibandy: pelurivuoro (B-lohko)
@@ -582,8 +568,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-27\nFree spots when last checked: 14 / 14\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ R fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-27
 BEGIN:VALARM
@@ -594,7 +579,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876250@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261027T180000Z
 DTEND:20261027T190000Z
 SUMMARY:Futsal: rentovuoro (B-lohko)
@@ -602,8 +587,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-27\nFree spots when last checked: 12 / 12\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ R fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-27
 BEGIN:VALARM
@@ -614,7 +598,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876267@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261028T140000Z
 DTEND:20261028T160000Z
 SUMMARY:Lentopallo: pelurivuoro
@@ -622,8 +606,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-28\nFree spots when last checked: 14 / 14\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ R fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-28
 BEGIN:VALARM
@@ -634,7 +617,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876284@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261029T140000Z
 DTEND:20261029T160000Z
 SUMMARY:Koripallo: rentovuoro
@@ -642,8 +625,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-29\nFree spots when last checked: 18 / 18\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ R fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-29
 BEGIN:VALARM
@@ -654,7 +636,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:880774@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261029T141500Z
 DTEND:20261029T153000Z
 SUMMARY:Lentopallo: ohjattu vuoro
@@ -662,9 +644,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-29\nInstructor: Krista Kekkonen\nFree spots
   when last checked: 14 / 14\nBooking opens 6 days before. Cancel at least
-  2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
- — not run or endorsed by UniSport. Data may be stale\; always verify on
-  UniSport before relying on it.
+  2 h before to avoid the 5 EUR fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-29
 BEGIN:VALARM
@@ -675,7 +655,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:880753@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261029T153000Z
 DTEND:20261029T170000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -683,8 +663,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-29\nFree spots when last checked: 14 / 14\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ R fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-29
 BEGIN:VALARM
@@ -695,7 +674,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:876297@unisport-calendar
-DTSTAMP:20261016T012932Z
+DTSTAMP:20261015T212105Z
 DTSTART:20261030T133000Z
 DTEND:20261030T150000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -703,8 +682,7 @@ LOCATION:UniSport Kumpula
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/14/3/20/-/-/-/~date=2026-10-30\nFree spots when last checked: 14 / 14\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
+ R fee.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/
  -/~date=2026-10-30
 BEGIN:VALARM

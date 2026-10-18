@@ -430,5 +430,17 @@
     "capacity": null,
     "source": "Take a Break",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/39/-/32/-/-/-/~date=2026-10-29"
+  },
+  {
+    "id": "868636",
+    "name": "Online: Mind a Break!",
+    "start": "2026-11-02T10:00:00.000Z",
+    "end": "2026-11-02T10:15:00.000Z",
+    "location": "UniSport Kluuvi",
+    "instructor": "Eija Karonen",
+    "free": 0,
+    "capacity": null,
+    "source": "Take a Break",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/39/-/32/-/-/-/~date=2026-11-02"
   }
 ]

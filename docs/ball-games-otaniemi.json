@@ -250,5 +250,29 @@
     "capacity": 14,
     "source": "Ball Games Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/-/~date=2026-10-30"
+  },
+  {
+    "id": "857937",
+    "name": "Salibandy: pelurivuoro",
+    "start": "2026-11-02T14:00:00.000Z",
+    "end": "2026-11-02T15:00:00.000Z",
+    "location": "UniSport Otaniemi",
+    "instructor": "",
+    "free": 18,
+    "capacity": 18,
+    "source": "Ball Games Otaniemi",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/-/~date=2026-11-02"
+  },
+  {
+    "id": "857959",
+    "name": "Lentopallo: rentovuoro",
+    "start": "2026-11-02T19:00:00.000Z",
+    "end": "2026-11-02T20:30:00.000Z",
+    "location": "UniSport Otaniemi",
+    "instructor": "",
+    "free": 14,
+    "capacity": 14,
+    "source": "Ball Games Otaniemi",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/-/~date=2026-11-02"
   }
 ]

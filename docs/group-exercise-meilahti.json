@@ -378,7 +378,7 @@
     "end": "2026-10-25T10:45:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Jassi Koskimies",
-    "free": 9,
+    "free": 7,
     "capacity": 16,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-25"
@@ -670,5 +670,53 @@
     "capacity": 40,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-02"
+  },
+  {
+    "id": "882835",
+    "name": "LISÄTUNTI: Dance Choreo Commercial",
+    "start": "2026-11-03T14:50:00.000Z",
+    "end": "2026-11-03T15:50:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Sara Omar",
+    "free": 40,
+    "capacity": 40,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-03"
+  },
+  {
+    "id": "863567",
+    "name": "Kettlebell 45",
+    "start": "2026-11-03T16:00:00.000Z",
+    "end": "2026-11-03T16:45:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Jassi Koskimies",
+    "free": 30,
+    "capacity": 30,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-03"
+  },
+  {
+    "id": "863602",
+    "name": "BODYPUMP™ på svenska",
+    "start": "2026-11-03T17:00:00.000Z",
+    "end": "2026-11-03T18:00:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Anette Bäckman",
+    "free": 48,
+    "capacity": 48,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-03"
+  },
+  {
+    "id": "863637",
+    "name": "Power Circuit Beginners",
+    "start": "2026-11-03T17:05:00.000Z",
+    "end": "2026-11-03T18:05:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Jassi Koskimies",
+    "free": 16,
+    "capacity": 16,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-03"
   }
 ]

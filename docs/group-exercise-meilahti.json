@@ -234,7 +234,7 @@
     "end": "2026-10-20T15:45:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Jassi Koskimies",
-    "free": 26,
+    "free": 27,
     "capacity": 30,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-20"
@@ -246,7 +246,7 @@
     "end": "2026-10-20T17:00:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Anette Bäckman",
-    "free": 46,
+    "free": 47,
     "capacity": 48,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-20"
@@ -294,7 +294,7 @@
     "end": "2026-10-21T16:30:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Runo Salonen",
-    "free": 38,
+    "free": 37,
     "capacity": 40,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-21"
@@ -306,7 +306,7 @@
     "end": "2026-10-22T14:45:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Marjan Aqazada",
-    "free": 37,
+    "free": 36,
     "capacity": 40,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-22"
@@ -378,7 +378,7 @@
     "end": "2026-10-25T10:45:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Jassi Koskimies",
-    "free": 7,
+    "free": 6,
     "capacity": 16,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-25"

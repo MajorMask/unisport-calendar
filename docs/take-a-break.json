@@ -430,5 +430,53 @@
     "capacity": null,
     "source": "Take a Break",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/39/-/32/-/-/-/~date=2026-11-03"
+  },
+  {
+    "id": "868706",
+    "name": "Online: Take a Break!",
+    "start": "2026-11-04T10:00:00.000Z",
+    "end": "2026-11-04T10:15:00.000Z",
+    "location": "UniSport Kluuvi",
+    "instructor": "Jenni Haukirauma",
+    "free": 0,
+    "capacity": null,
+    "source": "Take a Break",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/39/-/32/-/-/-/~date=2026-11-04"
+  },
+  {
+    "id": "881863",
+    "name": "Take a Break! (Keskusta)",
+    "start": "2026-11-04T10:00:00.000Z",
+    "end": "2026-11-04T10:15:00.000Z",
+    "location": "Yliopistokampukset",
+    "instructor": "Eija Karonen",
+    "free": 0,
+    "capacity": null,
+    "source": "Take a Break",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/39/-/32/-/-/-/~date=2026-11-04"
+  },
+  {
+    "id": "868532",
+    "name": "Take a Break! (Keskusta)",
+    "start": "2026-11-04T10:30:00.000Z",
+    "end": "2026-11-04T10:45:00.000Z",
+    "location": "Yliopistokampukset",
+    "instructor": "Eija Karonen",
+    "free": 0,
+    "capacity": null,
+    "source": "Take a Break",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/39/-/32/-/-/-/~date=2026-11-04"
+  },
+  {
+    "id": "868567",
+    "name": "Take a Break! (Töölö)",
+    "start": "2026-11-04T12:30:00.000Z",
+    "end": "2026-11-04T12:45:00.000Z",
+    "location": "Yliopistokampukset",
+    "instructor": "Katri Djerf",
+    "free": 0,
+    "capacity": null,
+    "source": "Take a Break",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/39/-/32/-/-/-/~date=2026-11-04"
   }
 ]

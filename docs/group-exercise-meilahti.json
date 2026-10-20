@@ -258,7 +258,7 @@
     "end": "2026-10-21T16:30:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Runo Salonen",
-    "free": 37,
+    "free": 35,
     "capacity": 40,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-21"
@@ -294,7 +294,7 @@
     "end": "2026-10-22T17:05:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Eija Karonen",
-    "free": 46,
+    "free": 45,
     "capacity": 48,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-22"
@@ -366,7 +366,7 @@
     "end": "2026-10-26T15:45:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Panu Erästö",
-    "free": 16,
+    "free": 14,
     "capacity": 16,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-26"
@@ -682,5 +682,41 @@
     "capacity": 16,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-03"
+  },
+  {
+    "id": "863672",
+    "name": "Pilates 45",
+    "start": "2026-11-04T14:25:00.000Z",
+    "end": "2026-11-04T15:10:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Noora Nieminen",
+    "free": 40,
+    "capacity": 40,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-04"
+  },
+  {
+    "id": "863707",
+    "name": "Body",
+    "start": "2026-11-04T15:20:00.000Z",
+    "end": "2026-11-04T16:20:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Helena Pasanen",
+    "free": 40,
+    "capacity": 40,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-04"
+  },
+  {
+    "id": "863742",
+    "name": "BODYCOMBAT™",
+    "start": "2026-11-04T16:30:00.000Z",
+    "end": "2026-11-04T17:30:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Runo Salonen",
+    "free": 40,
+    "capacity": 40,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-04"
   }
 ]

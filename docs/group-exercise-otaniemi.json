@@ -330,7 +330,7 @@
     "end": "2026-10-21T17:05:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Jaakko Kuusisto",
-    "free": 14,
+    "free": 13,
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-21"
@@ -378,7 +378,7 @@
     "end": "2026-10-22T17:05:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Hanna Huumonen",
-    "free": 20,
+    "free": 19,
     "capacity": 28,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-22"
@@ -426,7 +426,7 @@
     "end": "2026-10-25T14:40:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Jere Jääskeläinen",
-    "free": 7,
+    "free": 5,
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-25"
@@ -802,5 +802,53 @@
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-01"
+  },
+  {
+    "id": "866095",
+    "name": "BODYBALANCE™ in English",
+    "start": "2026-11-04T15:10:00.000Z",
+    "end": "2026-11-04T16:10:00.000Z",
+    "location": "UniSport Otaniemi",
+    "instructor": "Karoliina Hakkarainen",
+    "free": 28,
+    "capacity": 28,
+    "source": "Group Exercise Otaniemi",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-04"
+  },
+  {
+    "id": "866228",
+    "name": "Power Circuit Beginners in English",
+    "start": "2026-11-04T16:10:00.000Z",
+    "end": "2026-11-04T17:10:00.000Z",
+    "location": "UniSport Otaniemi",
+    "instructor": "Jaakko Kuusisto",
+    "free": 12,
+    "capacity": 12,
+    "source": "Group Exercise Otaniemi",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-04"
+  },
+  {
+    "id": "866137",
+    "name": "Pilates",
+    "start": "2026-11-04T16:15:00.000Z",
+    "end": "2026-11-04T17:15:00.000Z",
+    "location": "UniSport Otaniemi",
+    "instructor": "Kirsi Ketola",
+    "free": 28,
+    "capacity": 28,
+    "source": "Group Exercise Otaniemi",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-04"
+  },
+  {
+    "id": "866179",
+    "name": "Kettlebell 45 in English",
+    "start": "2026-11-04T17:20:00.000Z",
+    "end": "2026-11-04T18:05:00.000Z",
+    "location": "UniSport Otaniemi",
+    "instructor": "Jaakko Kuusisto",
+    "free": 25,
+    "capacity": 25,
+    "source": "Group Exercise Otaniemi",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-04"
   }
 ]

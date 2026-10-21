@@ -1,17 +1,5 @@
 [
   {
-    "id": "868389",
-    "name": "Gentle Hatha Yoga 45 (Teatterikorkeakoulu Sörnäinen, sali 525)",
-    "start": "2026-10-14T14:15:00.000Z",
-    "end": "2026-10-14T15:00:00.000Z",
-    "location": "Yliopistokampukset",
-    "instructor": "Kukka-Maaria Vuorikoski",
-    "free": 20,
-    "capacity": 20,
-    "source": "Group Exercise Campuses",
-    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/~date=2026-10-14"
-  },
-  {
     "id": "868320",
     "name": "Pilates 45 (Musiikkitalo, Tanssistudio)",
     "start": "2026-10-19T14:30:00.000Z",
@@ -54,7 +42,7 @@
     "end": "2026-10-21T15:00:00.000Z",
     "location": "Yliopistokampukset",
     "instructor": "Kukka-Maaria Vuorikoski",
-    "free": 19,
+    "free": 17,
     "capacity": 20,
     "source": "Group Exercise Campuses",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/~date=2026-10-21"
@@ -70,18 +58,6 @@
     "capacity": 15,
     "source": "Group Exercise Campuses",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/~date=2026-10-26"
-  },
-  {
-    "id": "868389",
-    "name": "PERUTTU:Gentle Hatha Yoga 45 (Teatterikorkeakoulu Sörnäinen, sali 525)",
-    "start": "2026-10-14T14:15:00.000Z",
-    "end": "2026-10-14T15:00:00.000Z",
-    "location": "Yliopistokampukset",
-    "instructor": "",
-    "free": 0,
-    "capacity": null,
-    "source": "Group Exercise Campuses",
-    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/~date=2026-10-14"
   },
   {
     "id": "870465",

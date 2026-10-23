@@ -1,29 +1,5 @@
 [
   {
-    "id": "866440",
-    "name": "BODYPUMP™  in English",
-    "start": "2026-10-16T13:45:00.000Z",
-    "end": "2026-10-16T14:45:00.000Z",
-    "location": "UniSport Otaniemi",
-    "instructor": "Elias Uusi-Rauva",
-    "free": 0,
-    "capacity": 25,
-    "source": "Group Exercise Otaniemi",
-    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-16"
-  },
-  {
-    "id": "866483",
-    "name": "BODYBALANCE™ in English",
-    "start": "2026-10-16T15:00:00.000Z",
-    "end": "2026-10-16T16:00:00.000Z",
-    "location": "UniSport Otaniemi",
-    "instructor": "Elias Uusi-Rauva",
-    "free": 15,
-    "capacity": 28,
-    "source": "Group Exercise Otaniemi",
-    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-16"
-  },
-  {
     "id": "866552",
     "name": "BODYCOMBAT™",
     "start": "2026-10-17T08:30:00.000Z",
@@ -306,7 +282,7 @@
     "end": "2026-10-23T16:00:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Hanna Autio",
-    "free": 21,
+    "free": 12,
     "capacity": 28,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-23"
@@ -318,7 +294,7 @@
     "end": "2026-10-25T10:15:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Anna Petrenko",
-    "free": 20,
+    "free": 19,
     "capacity": 28,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-25"
@@ -450,7 +426,7 @@
     "end": "2026-10-28T17:10:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Jaakko Kuusisto",
-    "free": 7,
+    "free": 5,
     "capacity": 12,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-10-28"
@@ -713,7 +689,7 @@
     "start": "2026-11-04T15:10:00.000Z",
     "end": "2026-11-04T16:10:00.000Z",
     "location": "UniSport Otaniemi",
-    "instructor": "Karoliina Hakkarainen",
+    "instructor": "Hanna Autio",
     "free": 28,
     "capacity": 28,
     "source": "Group Exercise Otaniemi",

@@ -234,7 +234,7 @@
     "end": "2026-10-29T17:00:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "",
-    "free": 1,
+    "free": 0,
     "capacity": 14,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-10-29"
@@ -246,7 +246,7 @@
     "end": "2026-10-30T15:00:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "",
-    "free": 12,
+    "free": 11,
     "capacity": 14,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-10-30"
@@ -270,7 +270,7 @@
     "end": "2026-10-31T14:30:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "",
-    "free": 1,
+    "free": 0,
     "capacity": 14,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-10-31"

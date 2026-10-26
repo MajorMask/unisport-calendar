@@ -570,7 +570,7 @@
     "end": "2026-10-28T17:15:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "Kari Short",
-    "free": 12,
+    "free": 11,
     "capacity": 40,
     "source": "Group Exercise Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-10-28"
@@ -714,7 +714,7 @@
     "end": "2026-10-30T16:50:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "Mirjam Rabi",
-    "free": 41,
+    "free": 40,
     "capacity": 43,
     "source": "Group Exercise Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-10-30"

@@ -210,7 +210,7 @@
     "end": "2026-10-27T15:50:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Sara Omar",
-    "free": 16,
+    "free": 8,
     "capacity": 40,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-27"
@@ -221,7 +221,7 @@
     "start": "2026-10-27T16:00:00.000Z",
     "end": "2026-10-27T16:45:00.000Z",
     "location": "UniSport Meilahti",
-    "instructor": "",
+    "instructor": "Hanna Autio",
     "free": 28,
     "capacity": 30,
     "source": "Group Exercise Meilahti",
@@ -282,7 +282,7 @@
     "end": "2026-10-28T17:30:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Runo Salonen",
-    "free": 38,
+    "free": 39,
     "capacity": 40,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-28"
@@ -306,7 +306,7 @@
     "end": "2026-10-29T16:55:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Eija Karonen",
-    "free": 42,
+    "free": 43,
     "capacity": 48,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-29"
@@ -318,7 +318,7 @@
     "end": "2026-10-29T18:05:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Eija Karonen",
-    "free": 46,
+    "free": 47,
     "capacity": 48,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-29"
@@ -330,7 +330,7 @@
     "end": "2026-10-30T06:15:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Eija Karonen",
-    "free": 28,
+    "free": 27,
     "capacity": 30,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-30"
@@ -390,7 +390,7 @@
     "end": "2026-11-01T10:45:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Jassi Koskimies",
-    "free": 3,
+    "free": 0,
     "capacity": 16,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-01"
@@ -402,7 +402,7 @@
     "end": "2026-11-01T17:30:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Maija Lanteri",
-    "free": 38,
+    "free": 37,
     "capacity": 40,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-01"
@@ -730,5 +730,17 @@
     "capacity": 16,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-10"
+  },
+  {
+    "id": "863636",
+    "name": "PERUTTU: Power Circuit Beginners",
+    "start": "2026-10-27T17:05:00.000Z",
+    "end": "2026-10-27T18:05:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "",
+    "free": 0,
+    "capacity": null,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-27"
   }
 ]

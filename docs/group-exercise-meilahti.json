@@ -234,7 +234,7 @@
     "end": "2026-10-29T16:55:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Eija Karonen",
-    "free": 43,
+    "free": 44,
     "capacity": 48,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-29"
@@ -306,7 +306,7 @@
     "end": "2026-10-31T10:40:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Stella Dimitrova",
-    "free": 41,
+    "free": 42,
     "capacity": 48,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-31"
@@ -706,5 +706,41 @@
     "capacity": 40,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-11"
+  },
+  {
+    "id": "863778",
+    "name": "Dance Choreo Dancehall",
+    "start": "2026-11-12T14:45:00.000Z",
+    "end": "2026-11-12T15:45:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Marjan Aqazada",
+    "free": 40,
+    "capacity": 40,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-12"
+  },
+  {
+    "id": "863813",
+    "name": "BODYPUMP™",
+    "start": "2026-11-12T15:55:00.000Z",
+    "end": "2026-11-12T16:55:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Eija Karonen",
+    "free": 48,
+    "capacity": 48,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-12"
+  },
+  {
+    "id": "863848",
+    "name": "Gentle Hatha Yoga",
+    "start": "2026-11-12T17:05:00.000Z",
+    "end": "2026-11-12T18:05:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Eija Karonen",
+    "free": 48,
+    "capacity": 48,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-12"
   }
 ]

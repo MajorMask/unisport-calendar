@@ -234,7 +234,7 @@
     "end": "2026-10-31T10:40:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Stella Dimitrova",
-    "free": 38,
+    "free": 39,
     "capacity": 48,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-31"
@@ -258,7 +258,7 @@
     "end": "2026-11-01T17:30:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Maija Lanteri",
-    "free": 33,
+    "free": 32,
     "capacity": 40,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-01"
@@ -706,5 +706,29 @@
     "capacity": 40,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-13"
+  },
+  {
+    "id": "864076",
+    "name": "BODYPUMP™  in English",
+    "start": "2026-11-14T08:15:00.000Z",
+    "end": "2026-11-14T09:15:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Elias Uusi-Rauva",
+    "free": 48,
+    "capacity": 48,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-14"
+  },
+  {
+    "id": "864110",
+    "name": "Flow Yoga 75 in English",
+    "start": "2026-11-14T09:25:00.000Z",
+    "end": "2026-11-14T10:40:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Stella Dimitrova",
+    "free": 48,
+    "capacity": 48,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-14"
   }
 ]

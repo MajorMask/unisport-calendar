@@ -11,48 +11,8 @@ X-WR-TIMEZONE:Europe/Helsinki
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-UID:858021@unisport-calendar
-DTSTAMP:20261030T095807Z
-DTSTART:20261023T120000Z
-DTEND:20261023T130000Z
-SUMMARY:Salibandy: pelurivuoro
-LOCATION:UniSport Otaniemi
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/14/5/20/-/-/-/~date=2026-10-23\nFree spots when last checked: 0 / 18\nB
- ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
-  fee.\nUnofficial\, student-made calendar — not run or endorsed by UniS
- port. Data may be stale\; always verify on UniSport before relying on it.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
- -/~date=2026-10-23
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Salibandy: pelurivuoro
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:858041@unisport-calendar
-DTSTAMP:20261030T095807Z
-DTSTART:20261023T150000Z
-DTEND:20261023T160000Z
-SUMMARY:Koripallo: pelurivuoro
-LOCATION:UniSport Otaniemi
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/14/5/20/-/-/-/~date=2026-10-23\nFree spots when last checked: 15 / 20\n
- Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
- R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
- Sport. Data may be stale\; always verify on UniSport before relying on it.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
- -/~date=2026-10-23
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Koripallo: pelurivuoro
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:858061@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261023T170000Z
 DTEND:20261023T180000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -72,7 +32,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:857936@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261026T140000Z
 DTEND:20261026T150000Z
 SUMMARY:Salibandy: pelurivuoro
@@ -92,7 +52,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:857958@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261026T190000Z
 DTEND:20261026T203000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -112,7 +72,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:857980@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261027T190000Z
 DTEND:20261027T203000Z
 SUMMARY:Koripallo: rentovuoro
@@ -132,7 +92,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858002@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261029T190000Z
 DTEND:20261029T203000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -152,7 +112,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858022@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261030T130000Z
 DTEND:20261030T140000Z
 SUMMARY:Salibandy: pelurivuoro
@@ -172,13 +132,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858042@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261030T160000Z
 DTEND:20261030T170000Z
 SUMMARY:Koripallo: pelurivuoro
 LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/14/5/20/-/-/-/~date=2026-10-30\nFree spots when last checked: 19 / 20\n
+ s/14/5/20/-/-/-/~date=2026-10-30\nFree spots when last checked: 14 / 20\n
  Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
  R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
  Sport. Data may be stale\; always verify on UniSport before relying on it.
@@ -192,16 +152,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858062@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261030T180000Z
 DTEND:20261030T190000Z
 SUMMARY:Lentopallo: rentovuoro
 LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/14/5/20/-/-/-/~date=2026-10-30\nFree spots when last checked: 6 / 14\nB
- ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
-  fee.\nUnofficial\, student-made calendar — not run or endorsed by UniS
- port. Data may be stale\; always verify on UniSport before relying on it.
+ s/14/5/20/-/-/-/~date=2026-10-30\nFree spots when last checked: 10 / 14\n
+ Booking opens 6 days before. Cancel at least 2 h before to avoid the 5 EU
+ R fee.\nUnofficial\, student-made calendar — not run or endorsed by Uni
+ Sport. Data may be stale\; always verify on UniSport before relying on it.
 URL:https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/
  -/~date=2026-10-30
 BEGIN:VALARM
@@ -212,7 +172,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:857937@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261102T140000Z
 DTEND:20261102T150000Z
 SUMMARY:Salibandy: pelurivuoro
@@ -232,13 +192,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:857959@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261102T190000Z
 DTEND:20261102T203000Z
 SUMMARY:Lentopallo: rentovuoro
 LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/14/5/20/-/-/-/~date=2026-11-02\nFree spots when last checked: 7 / 14\nB
+ s/14/5/20/-/-/-/~date=2026-11-02\nFree spots when last checked: 5 / 14\nB
  ooking opens 6 days before. Cancel at least 2 h before to avoid the 5 EUR
   fee.\nUnofficial\, student-made calendar — not run or endorsed by UniS
  port. Data may be stale\; always verify on UniSport before relying on it.
@@ -252,7 +212,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:857981@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261103T190000Z
 DTEND:20261103T203000Z
 SUMMARY:Koripallo: rentovuoro
@@ -272,7 +232,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858003@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261105T190000Z
 DTEND:20261105T203000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -292,7 +252,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858023@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261106T130000Z
 DTEND:20261106T140000Z
 SUMMARY:Salibandy: pelurivuoro
@@ -312,7 +272,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858043@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261106T160000Z
 DTEND:20261106T170000Z
 SUMMARY:Koripallo: pelurivuoro
@@ -332,7 +292,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858063@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261106T180000Z
 DTEND:20261106T190000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -352,7 +312,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:857938@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261109T140000Z
 DTEND:20261109T150000Z
 SUMMARY:Salibandy: pelurivuoro
@@ -372,7 +332,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:857960@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261109T190000Z
 DTEND:20261109T203000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -392,7 +352,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:857982@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261110T190000Z
 DTEND:20261110T203000Z
 SUMMARY:Koripallo: rentovuoro
@@ -412,7 +372,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858004@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261112T190000Z
 DTEND:20261112T203000Z
 SUMMARY:Lentopallo: rentovuoro
@@ -432,7 +392,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858024@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261113T130000Z
 DTEND:20261113T140000Z
 SUMMARY:Salibandy: pelurivuoro
@@ -452,7 +412,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858044@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261113T160000Z
 DTEND:20261113T170000Z
 SUMMARY:Koripallo: pelurivuoro
@@ -472,7 +432,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:858064@unisport-calendar
-DTSTAMP:20261030T095807Z
+DTSTAMP:20261030T175926Z
 DTSTART:20261113T180000Z
 DTEND:20261113T190000Z
 SUMMARY:Lentopallo: rentovuoro

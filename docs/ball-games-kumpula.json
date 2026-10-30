@@ -1,17 +1,5 @@
 [
   {
-    "id": "876296",
-    "name": "Lentopallo: rentovuoro",
-    "start": "2026-10-23T12:30:00.000Z",
-    "end": "2026-10-23T14:00:00.000Z",
-    "location": "UniSport Kumpula",
-    "instructor": "",
-    "free": 13,
-    "capacity": 14,
-    "source": "Ball Games Kumpula",
-    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-10-23"
-  },
-  {
     "id": "876308",
     "name": "Koripallo: rentovuoro",
     "start": "2026-10-24T07:00:00.000Z",
@@ -162,7 +150,7 @@
     "end": "2026-10-31T10:00:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "",
-    "free": 15,
+    "free": 14,
     "capacity": 15,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-10-31"
@@ -210,7 +198,7 @@
     "end": "2026-11-02T19:00:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "",
-    "free": 18,
+    "free": 17,
     "capacity": 18,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-11-02"
@@ -234,7 +222,7 @@
     "end": "2026-11-03T19:00:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "",
-    "free": 7,
+    "free": 6,
     "capacity": 12,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-11-03"
@@ -270,7 +258,7 @@
     "end": "2026-11-05T15:30:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "Krista Kekkonen",
-    "free": 14,
+    "free": 11,
     "capacity": 14,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-11-05"
@@ -282,7 +270,7 @@
     "end": "2026-11-05T17:00:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "",
-    "free": 14,
+    "free": 13,
     "capacity": 14,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-11-05"

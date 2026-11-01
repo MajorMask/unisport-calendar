@@ -306,7 +306,7 @@
     "end": "2026-11-03T15:50:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Sara Omar",
-    "free": 19,
+    "free": 17,
     "capacity": 40,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-03"
@@ -730,5 +730,29 @@
     "capacity": 48,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-14"
+  },
+  {
+    "id": "864144",
+    "name": "Power Circuit",
+    "start": "2026-11-15T10:00:00.000Z",
+    "end": "2026-11-15T10:45:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Panu Erästö",
+    "free": 16,
+    "capacity": 16,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-15"
+  },
+  {
+    "id": "864226",
+    "name": "Pilates",
+    "start": "2026-11-15T16:30:00.000Z",
+    "end": "2026-11-15T17:30:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Maija Lanteri",
+    "free": 40,
+    "capacity": 40,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-15"
   }
 ]

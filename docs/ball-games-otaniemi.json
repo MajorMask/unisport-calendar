@@ -102,7 +102,7 @@
     "end": "2026-11-02T20:30:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "",
-    "free": 3,
+    "free": 0,
     "capacity": 14,
     "source": "Ball Games Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/-/~date=2026-11-02"
@@ -126,7 +126,7 @@
     "end": "2026-11-05T20:30:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "",
-    "free": 12,
+    "free": 8,
     "capacity": 14,
     "source": "Ball Games Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/-/~date=2026-11-05"
@@ -138,7 +138,7 @@
     "end": "2026-11-06T14:00:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "",
-    "free": 15,
+    "free": 12,
     "capacity": 18,
     "source": "Ball Games Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/-/~date=2026-11-06"

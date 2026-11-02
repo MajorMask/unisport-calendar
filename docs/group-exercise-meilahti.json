@@ -270,7 +270,7 @@
     "end": "2026-11-02T17:35:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Kirsi Ketola",
-    "free": 35,
+    "free": 34,
     "capacity": 40,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-02"
@@ -282,7 +282,7 @@
     "end": "2026-11-03T15:50:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Sara Omar",
-    "free": 13,
+    "free": 10,
     "capacity": 40,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-03"
@@ -730,5 +730,41 @@
     "capacity": 40,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-15"
+  },
+  {
+    "id": "863534",
+    "name": "Power Circuit",
+    "start": "2026-11-16T15:00:00.000Z",
+    "end": "2026-11-16T15:45:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Panu Erästö",
+    "free": 16,
+    "capacity": 16,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-16"
+  },
+  {
+    "id": "863466",
+    "name": "BODYPUMP™",
+    "start": "2026-11-16T15:15:00.000Z",
+    "end": "2026-11-16T16:15:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Elias Uusi-Rauva",
+    "free": 48,
+    "capacity": 48,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-16"
+  },
+  {
+    "id": "863500",
+    "name": "Pilates",
+    "start": "2026-11-16T16:35:00.000Z",
+    "end": "2026-11-16T17:35:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Kirsi Ketola",
+    "free": 40,
+    "capacity": 40,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-16"
   }
 ]

@@ -406,5 +406,29 @@
     "capacity": 18,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-11-16"
+  },
+  {
+    "id": "876236",
+    "name": "Salibandy: pelurivuoro (B-lohko)",
+    "start": "2026-11-17T15:00:00.000Z",
+    "end": "2026-11-17T16:00:00.000Z",
+    "location": "UniSport Kumpula",
+    "instructor": "",
+    "free": 16,
+    "capacity": 16,
+    "source": "Ball Games Kumpula",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-11-17"
+  },
+  {
+    "id": "876253",
+    "name": "Futsal: rentovuoro (B-lohko)",
+    "start": "2026-11-17T18:00:00.000Z",
+    "end": "2026-11-17T19:00:00.000Z",
+    "location": "UniSport Kumpula",
+    "instructor": "",
+    "free": 12,
+    "capacity": 12,
+    "source": "Ball Games Kumpula",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-11-17"
   }
 ]

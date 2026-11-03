@@ -54,7 +54,7 @@
     "end": "2026-11-04T16:00:00.000Z",
     "location": "Yliopistokampukset",
     "instructor": "Kukka-Maaria Vuorikoski",
-    "free": 19,
+    "free": 17,
     "capacity": 20,
     "source": "Group Exercise Campuses",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/~date=2026-11-04"
@@ -142,5 +142,17 @@
     "capacity": 20,
     "source": "Group Exercise Campuses",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/~date=2026-11-17"
+  },
+  {
+    "id": "868394",
+    "name": "Gentle Hatha Yoga 45 (Teatterikorkeakoulu Sörnäinen, sali 525)",
+    "start": "2026-11-18T15:15:00.000Z",
+    "end": "2026-11-18T16:00:00.000Z",
+    "location": "Yliopistokampukset",
+    "instructor": "Kukka-Maaria Vuorikoski",
+    "free": 20,
+    "capacity": 20,
+    "source": "Group Exercise Campuses",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/13/-/-/-/-/~date=2026-11-18"
   }
 ]

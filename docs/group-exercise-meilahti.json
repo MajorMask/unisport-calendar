@@ -1,29 +1,5 @@
 [
   {
-    "id": "863998",
-    "name": "Pilates",
-    "start": "2026-10-30T12:55:00.000Z",
-    "end": "2026-10-30T13:55:00.000Z",
-    "location": "UniSport Meilahti",
-    "instructor": "Inari Nikkanen",
-    "free": 32,
-    "capacity": 40,
-    "source": "Group Exercise Meilahti",
-    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-30"
-  },
-  {
-    "id": "863922",
-    "name": "BODYCOMBAT™",
-    "start": "2026-10-30T15:15:00.000Z",
-    "end": "2026-10-30T16:15:00.000Z",
-    "location": "UniSport Meilahti",
-    "instructor": "Eija Karonen",
-    "free": 34,
-    "capacity": 40,
-    "source": "Group Exercise Meilahti",
-    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-10-30"
-  },
-  {
     "id": "864074",
     "name": "BODYPUMP™  in English",
     "start": "2026-10-31T08:15:00.000Z",
@@ -246,7 +222,7 @@
     "end": "2026-11-06T13:55:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Maija Lanteri",
-    "free": 38,
+    "free": 33,
     "capacity": 40,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-06"
@@ -318,7 +294,7 @@
     "end": "2026-11-09T15:45:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Panu Erästö",
-    "free": 1,
+    "free": 0,
     "capacity": 16,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-09"
@@ -330,7 +306,7 @@
     "end": "2026-11-09T16:15:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Elias Uusi-Rauva",
-    "free": 47,
+    "free": 45,
     "capacity": 48,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-09"
@@ -354,7 +330,7 @@
     "end": "2026-11-10T15:50:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Sara Omar",
-    "free": 10,
+    "free": 7,
     "capacity": 40,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-10"

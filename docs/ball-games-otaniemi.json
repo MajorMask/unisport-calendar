@@ -1,17 +1,5 @@
 [
   {
-    "id": "857959",
-    "name": "Lentopallo: rentovuoro",
-    "start": "2026-11-02T19:00:00.000Z",
-    "end": "2026-11-02T20:30:00.000Z",
-    "location": "UniSport Otaniemi",
-    "instructor": "",
-    "free": 0,
-    "capacity": 14,
-    "source": "Ball Games Otaniemi",
-    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/-/~date=2026-11-02"
-  },
-  {
     "id": "857981",
     "name": "Koripallo: rentovuoro",
     "start": "2026-11-03T19:00:00.000Z",
@@ -262,5 +250,17 @@
     "capacity": 14,
     "source": "Ball Games Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/-/~date=2026-11-23"
+  },
+  {
+    "id": "857984",
+    "name": "Koripallo: rentovuoro",
+    "start": "2026-11-24T19:00:00.000Z",
+    "end": "2026-11-24T20:30:00.000Z",
+    "location": "UniSport Otaniemi",
+    "instructor": "",
+    "free": 20,
+    "capacity": 20,
+    "source": "Ball Games Otaniemi",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/5/20/-/-/-/~date=2026-11-24"
   }
 ]

@@ -438,7 +438,7 @@
     "end": "2026-11-11T10:45:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "Helena Pasanen",
-    "free": 39,
+    "free": 40,
     "capacity": 43,
     "source": "Group Exercise Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-11-11"
@@ -1306,5 +1306,65 @@
     "capacity": null,
     "source": "Group Exercise Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-11-20"
+  },
+  {
+    "id": "864996",
+    "name": "BODYPUMP™",
+    "start": "2026-11-25T06:30:00.000Z",
+    "end": "2026-11-25T07:30:00.000Z",
+    "location": "UniSport Kumpula",
+    "instructor": "Zuzu Elyousfi",
+    "free": 43,
+    "capacity": 43,
+    "source": "Group Exercise Kumpula",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-11-25"
+  },
+  {
+    "id": "865031",
+    "name": "Body 45",
+    "start": "2026-11-25T10:00:00.000Z",
+    "end": "2026-11-25T10:45:00.000Z",
+    "location": "UniSport Kumpula",
+    "instructor": "Helena Pasanen",
+    "free": 43,
+    "capacity": 43,
+    "source": "Group Exercise Kumpula",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-11-25"
+  },
+  {
+    "id": "865066",
+    "name": "BODYBALANCE™  in English",
+    "start": "2026-11-25T15:10:00.000Z",
+    "end": "2026-11-25T16:10:00.000Z",
+    "location": "UniSport Kumpula",
+    "instructor": "Reka Malinen",
+    "free": 43,
+    "capacity": 43,
+    "source": "Group Exercise Kumpula",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-11-25"
+  },
+  {
+    "id": "865101",
+    "name": "Zumba™ in English",
+    "start": "2026-11-25T16:15:00.000Z",
+    "end": "2026-11-25T17:15:00.000Z",
+    "location": "UniSport Kumpula",
+    "instructor": "Kari Short",
+    "free": 40,
+    "capacity": 40,
+    "source": "Group Exercise Kumpula",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-11-25"
+  },
+  {
+    "id": "865139",
+    "name": "Pilates 45",
+    "start": "2026-11-25T17:25:00.000Z",
+    "end": "2026-11-25T18:10:00.000Z",
+    "location": "UniSport Kumpula",
+    "instructor": "Katja Lilja",
+    "free": 44,
+    "capacity": 44,
+    "source": "Group Exercise Kumpula",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-11-25"
   }
 ]

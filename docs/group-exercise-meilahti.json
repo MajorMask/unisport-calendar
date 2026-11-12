@@ -258,7 +258,7 @@
     "end": "2026-11-12T16:55:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Eija Karonen",
-    "free": 44,
+    "free": 45,
     "capacity": 48,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-12"
@@ -270,7 +270,7 @@
     "end": "2026-11-12T18:05:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Eija Karonen",
-    "free": 45,
+    "free": 46,
     "capacity": 48,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-12"
@@ -366,7 +366,7 @@
     "end": "2026-11-16T15:45:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Panu Erästö",
-    "free": 5,
+    "free": 4,
     "capacity": 16,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-16"
@@ -718,5 +718,41 @@
     "capacity": 40,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-25"
+  },
+  {
+    "id": "863780",
+    "name": "Dance Choreo Dancehall",
+    "start": "2026-11-26T14:45:00.000Z",
+    "end": "2026-11-26T15:45:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Marjan Aqazada",
+    "free": 40,
+    "capacity": 40,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-26"
+  },
+  {
+    "id": "863815",
+    "name": "BODYPUMP™",
+    "start": "2026-11-26T15:55:00.000Z",
+    "end": "2026-11-26T16:55:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Eija Karonen",
+    "free": 48,
+    "capacity": 48,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-26"
+  },
+  {
+    "id": "863850",
+    "name": "Gentle Hatha Yoga",
+    "start": "2026-11-26T17:05:00.000Z",
+    "end": "2026-11-26T18:05:00.000Z",
+    "location": "UniSport Meilahti",
+    "instructor": "Eija Karonen",
+    "free": 48,
+    "capacity": 48,
+    "source": "Group Exercise Meilahti",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-26"
   }
 ]

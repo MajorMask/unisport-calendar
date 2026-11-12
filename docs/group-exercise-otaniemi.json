@@ -1,17 +1,5 @@
 [
   {
-    "id": "866408",
-    "name": "Pilates 45 in English",
-    "start": "2026-11-05T17:20:00.000Z",
-    "end": "2026-11-05T18:05:00.000Z",
-    "location": "UniSport Otaniemi",
-    "instructor": "Hanna Huumonen",
-    "free": 12,
-    "capacity": 28,
-    "source": "Group Exercise Otaniemi",
-    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-05"
-  },
-  {
     "id": "866443",
     "name": "BODYPUMP™  in English",
     "start": "2026-11-06T14:45:00.000Z",
@@ -318,7 +306,7 @@
     "end": "2026-11-14T11:40:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Adele Salonen",
-    "free": 26,
+    "free": 25,
     "capacity": 28,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-14"
@@ -330,7 +318,7 @@
     "end": "2026-11-15T10:15:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Anna Petrenko",
-    "free": 25,
+    "free": 23,
     "capacity": 28,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-15"
@@ -462,7 +450,7 @@
     "end": "2026-11-18T17:10:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Jaakko Kuusisto",
-    "free": 12,
+    "free": 10,
     "capacity": 12,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-18"
@@ -486,7 +474,7 @@
     "end": "2026-11-18T18:05:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Jaakko Kuusisto",
-    "free": 25,
+    "free": 24,
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-18"
@@ -874,5 +862,65 @@
     "capacity": 28,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-26"
+  },
+  {
+    "id": "866444",
+    "name": "TUNTIMUUTOS: Body in English",
+    "start": "2026-11-13T14:45:00.000Z",
+    "end": "2026-11-13T15:45:00.000Z",
+    "location": "UniSport Otaniemi",
+    "instructor": "Eeva Impiö",
+    "free": 0,
+    "capacity": 25,
+    "source": "Group Exercise Otaniemi",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-13"
+  },
+  {
+    "id": "866487",
+    "name": "TUNTIMUUTOS: Pilates in English",
+    "start": "2026-11-13T16:00:00.000Z",
+    "end": "2026-11-13T17:00:00.000Z",
+    "location": "UniSport Otaniemi",
+    "instructor": "Eeva Impiö",
+    "free": 24,
+    "capacity": 28,
+    "source": "Group Exercise Otaniemi",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-13"
+  },
+  {
+    "id": "882932",
+    "name": "Kuntosalin workshop: Liikkuvuutta voimaharjoittelulla",
+    "start": "2026-11-27T14:00:00.000Z",
+    "end": "2026-11-27T16:00:00.000Z",
+    "location": "UniSport Otaniemi",
+    "instructor": "Jaakko Kuusisto",
+    "free": 8,
+    "capacity": 8,
+    "source": "Group Exercise Otaniemi",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-27"
+  },
+  {
+    "id": "866446",
+    "name": "BODYPUMP™  in English",
+    "start": "2026-11-27T14:45:00.000Z",
+    "end": "2026-11-27T15:45:00.000Z",
+    "location": "UniSport Otaniemi",
+    "instructor": "Elias Uusi-Rauva",
+    "free": 25,
+    "capacity": 25,
+    "source": "Group Exercise Otaniemi",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-27"
+  },
+  {
+    "id": "866489",
+    "name": "BODYBALANCE™ in English",
+    "start": "2026-11-27T16:00:00.000Z",
+    "end": "2026-11-27T17:00:00.000Z",
+    "location": "UniSport Otaniemi",
+    "instructor": "Elias Uusi-Rauva",
+    "free": 28,
+    "capacity": 28,
+    "source": "Group Exercise Otaniemi",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-27"
   }
 ]

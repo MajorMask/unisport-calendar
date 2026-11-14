@@ -1,29 +1,5 @@
 [
   {
-    "id": "866555",
-    "name": "BODYCOMBAT™",
-    "start": "2026-11-07T09:30:00.000Z",
-    "end": "2026-11-07T10:30:00.000Z",
-    "location": "UniSport Otaniemi",
-    "instructor": "Helena Pasanen",
-    "free": 16,
-    "capacity": 25,
-    "source": "Group Exercise Otaniemi",
-    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-07"
-  },
-  {
-    "id": "866589",
-    "name": "Pilates",
-    "start": "2026-11-07T10:40:00.000Z",
-    "end": "2026-11-07T11:40:00.000Z",
-    "location": "UniSport Otaniemi",
-    "instructor": "Adele Salonen",
-    "free": 20,
-    "capacity": 28,
-    "source": "Group Exercise Otaniemi",
-    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-07"
-  },
-  {
     "id": "870943",
     "name": "Ashtanga Yoga 75 in English",
     "start": "2026-11-08T09:00:00.000Z",
@@ -270,7 +246,7 @@
     "end": "2026-11-14T10:30:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Helena Pasanen",
-    "free": 22,
+    "free": 16,
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-14"
@@ -282,7 +258,7 @@
     "end": "2026-11-14T11:40:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Adele Salonen",
-    "free": 23,
+    "free": 15,
     "capacity": 28,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-14"
@@ -306,7 +282,7 @@
     "end": "2026-11-15T14:40:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Jere Jääskeläinen",
-    "free": 2,
+    "free": 1,
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-15"
@@ -318,7 +294,7 @@
     "end": "2026-11-15T16:30:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Jassi Koskimies",
-    "free": 6,
+    "free": 2,
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-15"
@@ -426,7 +402,7 @@
     "end": "2026-11-18T17:10:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Jaakko Kuusisto",
-    "free": 10,
+    "free": 7,
     "capacity": 12,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-18"
@@ -438,7 +414,7 @@
     "end": "2026-11-18T17:15:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Kirsi Ketola",
-    "free": 26,
+    "free": 25,
     "capacity": 28,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-18"
@@ -450,7 +426,7 @@
     "end": "2026-11-18T18:05:00.000Z",
     "location": "UniSport Otaniemi",
     "instructor": "Jaakko Kuusisto",
-    "free": 24,
+    "free": 23,
     "capacity": 25,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-18"
@@ -526,18 +502,6 @@
     "capacity": 28,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-20"
-  },
-  {
-    "id": "884102",
-    "name": "Tuntematon",
-    "start": "2026-11-07T14:00:00.000Z",
-    "end": "2026-11-07T15:00:00.000Z",
-    "location": "UniSport Otaniemi",
-    "instructor": "",
-    "free": 0,
-    "capacity": null,
-    "source": "Group Exercise Otaniemi",
-    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-07"
   },
   {
     "id": "866339",
@@ -898,5 +862,17 @@
     "capacity": 28,
     "source": "Group Exercise Otaniemi",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-28"
+  },
+  {
+    "id": "870944",
+    "name": "TUNTIMUUTOS: Yin Yoga 75 in English",
+    "start": "2026-11-15T09:00:00.000Z",
+    "end": "2026-11-15T10:15:00.000Z",
+    "location": "UniSport Otaniemi",
+    "instructor": "Kirsi Ketola",
+    "free": 22,
+    "capacity": 28,
+    "source": "Group Exercise Otaniemi",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/~date=2026-11-15"
   }
 ]

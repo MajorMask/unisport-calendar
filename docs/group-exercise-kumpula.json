@@ -426,7 +426,7 @@
     "end": "2026-11-21T09:30:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "Jaakko Kuusisto",
-    "free": 15,
+    "free": 16,
     "capacity": 25,
     "source": "Group Exercise Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-11-21"
@@ -438,7 +438,7 @@
     "end": "2026-11-21T11:00:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "Marianne Airisniemi",
-    "free": 37,
+    "free": 38,
     "capacity": 44,
     "source": "Group Exercise Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-11-21"
@@ -462,7 +462,7 @@
     "end": "2026-11-22T09:00:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "Mari Mäki-Torkko",
-    "free": 35,
+    "free": 34,
     "capacity": 43,
     "source": "Group Exercise Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-11-22"
@@ -498,7 +498,7 @@
     "end": "2026-11-22T17:50:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "Outi Pikkuoksa",
-    "free": 35,
+    "free": 34,
     "capacity": 44,
     "source": "Group Exercise Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-11-22"
@@ -522,7 +522,7 @@
     "end": "2026-11-23T16:20:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "Kukka-Maaria Vuorikoski",
-    "free": 40,
+    "free": 39,
     "capacity": 44,
     "source": "Group Exercise Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-11-23"
@@ -690,7 +690,7 @@
     "end": "2026-11-25T17:15:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "Kari Short",
-    "free": 16,
+    "free": 15,
     "capacity": 40,
     "source": "Group Exercise Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-11-25"
@@ -1282,5 +1282,41 @@
     "capacity": 40,
     "source": "Group Exercise Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-12-04"
+  },
+  {
+    "id": "865520",
+    "name": "Kettlebell 45",
+    "start": "2026-12-05T08:45:00.000Z",
+    "end": "2026-12-05T09:30:00.000Z",
+    "location": "UniSport Kumpula",
+    "instructor": "Jaakko Kuusisto",
+    "free": 25,
+    "capacity": 25,
+    "source": "Group Exercise Kumpula",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-12-05"
+  },
+  {
+    "id": "865554",
+    "name": "Pilates på svenska",
+    "start": "2026-12-05T10:00:00.000Z",
+    "end": "2026-12-05T11:00:00.000Z",
+    "location": "UniSport Kumpula",
+    "instructor": "Marianne Airisniemi",
+    "free": 44,
+    "capacity": 44,
+    "source": "Group Exercise Kumpula",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-12-05"
+  },
+  {
+    "id": "865588",
+    "name": "Dance Mix",
+    "start": "2026-12-05T11:05:00.000Z",
+    "end": "2026-12-05T12:05:00.000Z",
+    "location": "UniSport Kumpula",
+    "instructor": "Marianne Airisniemi",
+    "free": 40,
+    "capacity": 40,
+    "source": "Group Exercise Kumpula",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-12-05"
   }
 ]

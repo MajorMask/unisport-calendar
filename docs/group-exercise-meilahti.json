@@ -1,29 +1,5 @@
 [
   {
-    "id": "864076",
-    "name": "BODYPUMP™  in English",
-    "start": "2026-11-14T08:15:00.000Z",
-    "end": "2026-11-14T09:15:00.000Z",
-    "location": "UniSport Meilahti",
-    "instructor": "Hanna Kosonen",
-    "free": 36,
-    "capacity": 48,
-    "source": "Group Exercise Meilahti",
-    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-14"
-  },
-  {
-    "id": "864110",
-    "name": "Flow Yoga 75 in English",
-    "start": "2026-11-14T09:25:00.000Z",
-    "end": "2026-11-14T10:40:00.000Z",
-    "location": "UniSport Meilahti",
-    "instructor": "Anna Ahtiainen",
-    "free": 37,
-    "capacity": 48,
-    "source": "Group Exercise Meilahti",
-    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-14"
-  },
-  {
     "id": "864144",
     "name": "Power Circuit",
     "start": "2026-11-15T10:00:00.000Z",
@@ -234,7 +210,7 @@
     "end": "2026-11-21T09:15:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Mirjam Rabi",
-    "free": 45,
+    "free": 38,
     "capacity": 48,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-21"
@@ -246,7 +222,7 @@
     "end": "2026-11-21T10:40:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Stella Dimitrova",
-    "free": 46,
+    "free": 34,
     "capacity": 48,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-21"
@@ -294,7 +270,7 @@
     "end": "2026-11-23T16:15:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Elias Uusi-Rauva",
-    "free": 45,
+    "free": 44,
     "capacity": 48,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-23"
@@ -414,7 +390,7 @@
     "end": "2026-11-26T16:55:00.000Z",
     "location": "UniSport Meilahti",
     "instructor": "Eija Karonen",
-    "free": 48,
+    "free": 46,
     "capacity": 48,
     "source": "Group Exercise Meilahti",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/4/-/-/-/-/~date=2026-11-26"

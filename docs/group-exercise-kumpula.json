@@ -426,7 +426,7 @@
     "end": "2026-11-23T15:15:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "Helena Pasanen",
-    "free": 40,
+    "free": 39,
     "capacity": 43,
     "source": "Group Exercise Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-11-23"
@@ -450,7 +450,7 @@
     "end": "2026-11-23T17:15:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "Milla Valjus",
-    "free": 33,
+    "free": 31,
     "capacity": 40,
     "source": "Group Exercise Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-11-23"
@@ -522,7 +522,7 @@
     "end": "2026-11-24T16:00:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "Giulia Saponaro",
-    "free": 13,
+    "free": 12,
     "capacity": 25,
     "source": "Group Exercise Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-11-24"
@@ -606,7 +606,7 @@
     "end": "2026-11-25T17:15:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "Kari Short",
-    "free": 6,
+    "free": 3,
     "capacity": 40,
     "source": "Group Exercise Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-11-25"
@@ -642,7 +642,7 @@
     "end": "2026-11-26T11:25:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "Jenni Haukirauma",
-    "free": 43,
+    "free": 42,
     "capacity": 43,
     "source": "Group Exercise Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-11-26"
@@ -762,7 +762,7 @@
     "end": "2026-11-27T17:45:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "Salla Laukkanen",
-    "free": 38,
+    "free": 36,
     "capacity": 40,
     "source": "Group Exercise Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-11-27"
@@ -810,7 +810,7 @@
     "end": "2026-11-28T12:05:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "Marianne Airisniemi",
-    "free": 39,
+    "free": 38,
     "capacity": 40,
     "source": "Group Exercise Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-11-28"
@@ -1270,5 +1270,65 @@
     "capacity": 44,
     "source": "Group Exercise Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-12-06"
+  },
+  {
+    "id": "864455",
+    "name": "Easy Training",
+    "start": "2026-12-07T14:15:00.000Z",
+    "end": "2026-12-07T15:15:00.000Z",
+    "location": "UniSport Kumpula",
+    "instructor": "Helena Pasanen",
+    "free": 43,
+    "capacity": 43,
+    "source": "Group Exercise Kumpula",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-12-07"
+  },
+  {
+    "id": "864537",
+    "name": "Gentle Hatha Yoga in English",
+    "start": "2026-12-07T15:20:00.000Z",
+    "end": "2026-12-07T16:20:00.000Z",
+    "location": "UniSport Kumpula",
+    "instructor": "Ulla Prami",
+    "free": 44,
+    "capacity": 44,
+    "source": "Group Exercise Kumpula",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-12-07"
+  },
+  {
+    "id": "864619",
+    "name": "LES MILLS DANCE™",
+    "start": "2026-12-07T16:30:00.000Z",
+    "end": "2026-12-07T17:15:00.000Z",
+    "location": "UniSport Kumpula",
+    "instructor": "Milla Valjus",
+    "free": 40,
+    "capacity": 40,
+    "source": "Group Exercise Kumpula",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-12-07"
+  },
+  {
+    "id": "864749",
+    "name": "Core Training 30",
+    "start": "2026-12-07T17:20:00.000Z",
+    "end": "2026-12-07T17:50:00.000Z",
+    "location": "UniSport Kumpula",
+    "instructor": "Milla Valjus",
+    "free": 45,
+    "capacity": 45,
+    "source": "Group Exercise Kumpula",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-12-07"
+  },
+  {
+    "id": "864783",
+    "name": "Mobility 45",
+    "start": "2026-12-07T17:55:00.000Z",
+    "end": "2026-12-07T18:40:00.000Z",
+    "location": "UniSport Kumpula",
+    "instructor": "Milla Valjus",
+    "free": 43,
+    "capacity": 43,
+    "source": "Group Exercise Kumpula",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/3/3/-/-/-/-/~date=2026-12-07"
   }
 ]

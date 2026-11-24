@@ -1,29 +1,5 @@
 [
   {
-    "id": "876236",
-    "name": "Salibandy: pelurivuoro (B-lohko)",
-    "start": "2026-11-17T15:00:00.000Z",
-    "end": "2026-11-17T16:00:00.000Z",
-    "location": "UniSport Kumpula",
-    "instructor": "",
-    "free": 0,
-    "capacity": 14,
-    "source": "Ball Games Kumpula",
-    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-11-17"
-  },
-  {
-    "id": "876253",
-    "name": "Futsal: rentovuoro (B-lohko)",
-    "start": "2026-11-17T18:00:00.000Z",
-    "end": "2026-11-17T19:00:00.000Z",
-    "location": "UniSport Kumpula",
-    "instructor": "",
-    "free": 0,
-    "capacity": 12,
-    "source": "Ball Games Kumpula",
-    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-11-17"
-  },
-  {
     "id": "876270",
     "name": "Lentopallo: pelurivuoro",
     "start": "2026-11-18T14:00:00.000Z",
@@ -198,7 +174,7 @@
     "end": "2026-11-26T15:30:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "Krista Kekkonen",
-    "free": 5,
+    "free": 4,
     "capacity": 14,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-11-26"
@@ -270,7 +246,7 @@
     "end": "2026-11-30T16:00:00.000Z",
     "location": "UniSport Kumpula",
     "instructor": "",
-    "free": 14,
+    "free": 0,
     "capacity": 14,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-11-30"
@@ -454,5 +430,17 @@
     "capacity": 12,
     "source": "Ball Games Kumpula",
     "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-12-08"
+  },
+  {
+    "id": "876273",
+    "name": "Lentopallo: pelurivuoro",
+    "start": "2026-12-09T14:00:00.000Z",
+    "end": "2026-12-09T16:00:00.000Z",
+    "location": "UniSport Kumpula",
+    "instructor": "",
+    "free": 14,
+    "capacity": 14,
+    "source": "Ball Games Kumpula",
+    "bookUrl": "https://oma.enkora.fi/unisport/reservations2/reservations/14/3/20/-/-/-/~date=2026-12-09"
   }
 ]

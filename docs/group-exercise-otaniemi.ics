@@ -11,71 +11,8 @@ X-WR-TIMEZONE:Europe/Helsinki
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-UID:865758@unisport-calendar
-DTSTAMP:20261123T123107Z
-DTSTART:20261116T151000Z
-DTEND:20261116T161000Z
-SUMMARY:BODYPUMP™
-LOCATION:UniSport Otaniemi
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/5/-/-/-/-/~date=2026-11-16\nInstructor: Mirva Kivinen\nFree spots whe
- n last checked: 13 / 25\nBooking opens 6 days before. Cancel at least 2 h
-  before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — n
- ot run or endorsed by UniSport. Data may be stale\; always verify on UniS
- port before relying on it.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/
- ~date=2026-11-16
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BODYPUMP™
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:865826@unisport-calendar
-DTSTAMP:20261123T123107Z
-DTSTART:20261116T162000Z
-DTEND:20261116T172000Z
-SUMMARY:BODYCOMBAT™  in English
-LOCATION:UniSport Otaniemi
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/5/-/-/-/-/~date=2026-11-16\nInstructor: Karoliina Hakkarainen\nFree s
- pots when last checked: 15 / 25\nBooking opens 6 days before. Cancel at l
- east 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calend
- ar — not run or endorsed by UniSport. Data may be stale\; always verify
-  on UniSport before relying on it.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/
- ~date=2026-11-16
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BODYCOMBAT™  in English
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:865860@unisport-calendar
-DTSTAMP:20261123T123107Z
-DTSTART:20261116T172500Z
-DTEND:20261116T182500Z
-SUMMARY:Dance Mix Latin
-LOCATION:UniSport Otaniemi
-DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
- s/3/5/-/-/-/-/~date=2026-11-16\nInstructor: Sirpa Rantanen\nFree spots wh
- en last checked: 14 / 25\nBooking opens 6 days before. Cancel at least 2 
- h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
- not run or endorsed by UniSport. Data may be stale\; always verify on Uni
- Sport before relying on it.
-URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/
- ~date=2026-11-16
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dance Mix Latin
-TRIGGER:-PT60M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:865935@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261117T090000Z
 DTEND:20261117T100000Z
 SUMMARY:BODYPUMP™
@@ -96,7 +33,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865971@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261117T150000Z
 DTEND:20261117T160000Z
 SUMMARY:Flow Yoga in English
@@ -117,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866013@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261117T161500Z
 DTEND:20261117T171500Z
 SUMMARY:Body in English
@@ -138,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866055@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261117T172500Z
 DTEND:20261117T182500Z
 SUMMARY:BODYPUMP™
@@ -159,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866097@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261118T151000Z
 DTEND:20261118T161000Z
 SUMMARY:BODYBALANCE™ in English
@@ -180,7 +117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866230@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261118T161000Z
 DTEND:20261118T171000Z
 SUMMARY:Power Circuit Beginners in English
@@ -201,7 +138,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866139@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261118T161500Z
 DTEND:20261118T171500Z
 SUMMARY:Pilates
@@ -222,7 +159,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866181@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261118T172000Z
 DTEND:20261118T180500Z
 SUMMARY:Kettlebell 45 in English
@@ -243,7 +180,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866299@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261119T141500Z
 DTEND:20261119T150000Z
 SUMMARY:Physio Neck & Back 45
@@ -264,7 +201,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866340@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261119T151000Z
 DTEND:20261119T161000Z
 SUMMARY:Dance Choreo Showjazz
@@ -285,7 +222,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866375@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261119T161500Z
 DTEND:20261119T171500Z
 SUMMARY:BODYCOMBAT™ in English
@@ -306,7 +243,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866375@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261119T161500Z
 DTEND:20261119T171500Z
 SUMMARY:PERUTTU: BODYCOMBAT™ in English
@@ -326,7 +263,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866410@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261119T172000Z
 DTEND:20261119T180500Z
 SUMMARY:Pilates 45 in English
@@ -347,7 +284,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866445@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261120T144500Z
 DTEND:20261120T154500Z
 SUMMARY:BODYPUMP™  in English
@@ -368,7 +305,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866488@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261120T160000Z
 DTEND:20261120T170000Z
 SUMMARY:BODYBALANCE™ in English
@@ -389,7 +326,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866557@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261121T093000Z
 DTEND:20261121T103000Z
 SUMMARY:BODYCOMBAT™
@@ -410,7 +347,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866591@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261121T104000Z
 DTEND:20261121T114000Z
 SUMMARY:Pilates
@@ -431,7 +368,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:870945@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261122T090000Z
 DTEND:20261122T101500Z
 SUMMARY:Ashtanga Yoga 75 in English
@@ -452,7 +389,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866625@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261122T134000Z
 DTEND:20261122T144000Z
 SUMMARY:Dance Choreo Commercial in English
@@ -473,7 +410,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866659@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261122T153000Z
 DTEND:20261122T163000Z
 SUMMARY:BODYPUMP™  in English
@@ -494,7 +431,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865759@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261123T151000Z
 DTEND:20261123T161000Z
 SUMMARY:BODYPUMP™
@@ -515,7 +452,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865827@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261123T162000Z
 DTEND:20261123T172000Z
 SUMMARY:BODYCOMBAT™  in English
@@ -536,7 +473,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865861@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261123T172500Z
 DTEND:20261123T182500Z
 SUMMARY:Dance Mix Latin
@@ -557,14 +494,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865936@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261124T090000Z
 DTEND:20261124T100000Z
 SUMMARY:BODYPUMP™
 LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/5/-/-/-/-/~date=2026-11-24\nInstructor: Hanna Autio\nFree spots when 
- last checked: 23 / 25\nBooking opens 6 days before. Cancel at least 2 h b
+ last checked: 21 / 25\nBooking opens 6 days before. Cancel at least 2 h b
  efore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not
   run or endorsed by UniSport. Data may be stale\; always verify on UniSpo
  rt before relying on it.
@@ -578,7 +515,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865972@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261124T150000Z
 DTEND:20261124T160000Z
 SUMMARY:Flow Yoga in English
@@ -599,14 +536,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866014@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261124T161500Z
 DTEND:20261124T171500Z
 SUMMARY:Body in English
 LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/5/-/-/-/-/~date=2026-11-24\nInstructor: Mirjam Rabi\nFree spots when 
- last checked: 27 / 28\nBooking opens 6 days before. Cancel at least 2 h b
+ last checked: 26 / 28\nBooking opens 6 days before. Cancel at least 2 h b
  efore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not
   run or endorsed by UniSport. Data may be stale\; always verify on UniSpo
  rt before relying on it.
@@ -620,14 +557,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866056@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261124T172500Z
 DTEND:20261124T182500Z
 SUMMARY:BODYPUMP™
 LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/5/-/-/-/-/~date=2026-11-24\nInstructor: Jessica Suni\nFree spots when
-  last checked: 19 / 25\nBooking opens 6 days before. Cancel at least 2 h 
+  last checked: 18 / 25\nBooking opens 6 days before. Cancel at least 2 h 
  before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
  t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
  ort before relying on it.
@@ -641,7 +578,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:882961@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261125T135000Z
 DTEND:20261125T155000Z
 SUMMARY:Gym workshop: Strength Training from a Movement Control Perspective
@@ -663,14 +600,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866098@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261125T151000Z
 DTEND:20261125T161000Z
 SUMMARY:BODYBALANCE™ in English
 LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/5/-/-/-/-/~date=2026-11-25\nInstructor: Karoliina Hakkarainen\nFree s
- pots when last checked: 22 / 28\nBooking opens 6 days before. Cancel at l
+ pots when last checked: 21 / 28\nBooking opens 6 days before. Cancel at l
  east 2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calend
  ar — not run or endorsed by UniSport. Data may be stale\; always verify
   on UniSport before relying on it.
@@ -684,7 +621,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866231@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261125T161000Z
 DTEND:20261125T171000Z
 SUMMARY:Power Circuit Beginners in English
@@ -705,14 +642,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866140@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261125T161500Z
 DTEND:20261125T171500Z
 SUMMARY:Pilates
 LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/5/-/-/-/-/~date=2026-11-25\nInstructor: Kirsi Ketola\nFree spots when
-  last checked: 23 / 28\nBooking opens 6 days before. Cancel at least 2 h 
+  last checked: 20 / 28\nBooking opens 6 days before. Cancel at least 2 h 
  before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
  t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
  ort before relying on it.
@@ -726,7 +663,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866182@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261125T172000Z
 DTEND:20261125T180500Z
 SUMMARY:Kettlebell 45 in English
@@ -747,14 +684,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866300@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261126T141500Z
 DTEND:20261126T150000Z
 SUMMARY:Physio Neck & Back 45
 LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/5/-/-/-/-/~date=2026-11-26\nInstructor: Adele Salonen\nFree spots whe
- n last checked: 27 / 28\nBooking opens 6 days before. Cancel at least 2 h
+ n last checked: 26 / 28\nBooking opens 6 days before. Cancel at least 2 h
   before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — n
  ot run or endorsed by UniSport. Data may be stale\; always verify on UniS
  port before relying on it.
@@ -768,7 +705,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:883043@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261126T150000Z
 DTEND:20261126T170000Z
 SUMMARY:Gym workshop: GBD-German body composition
@@ -789,7 +726,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866341@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261126T151000Z
 DTEND:20261126T161000Z
 SUMMARY:TUNTIMUUTOS: Dance Choreo Commercial
@@ -810,14 +747,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866376@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261126T161500Z
 DTEND:20261126T171500Z
 SUMMARY:BODYCOMBAT™ in English
 LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/5/-/-/-/-/~date=2026-11-26\nInstructor: Hanna Huumonen\nFree spots wh
- en last checked: 22 / 25\nBooking opens 6 days before. Cancel at least 2 
+ en last checked: 20 / 25\nBooking opens 6 days before. Cancel at least 2 
  h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — 
  not run or endorsed by UniSport. Data may be stale\; always verify on Uni
  Sport before relying on it.
@@ -831,7 +768,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866411@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261126T172000Z
 DTEND:20261126T180500Z
 SUMMARY:Pilates 45 in English
@@ -852,7 +789,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:882932@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261127T140000Z
 DTEND:20261127T160000Z
 SUMMARY:Kuntosalin workshop: Liikkuvuutta voimaharjoittelulla
@@ -873,14 +810,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866446@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261127T144500Z
 DTEND:20261127T154500Z
 SUMMARY:BODYPUMP™  in English
 LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/5/-/-/-/-/~date=2026-11-27\nInstructor: Elias Uusi-Rauva\nFree spots 
- when last checked: 15 / 25\nBooking opens 6 days before. Cancel at least 
+ when last checked: 13 / 25\nBooking opens 6 days before. Cancel at least 
  2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
  — not run or endorsed by UniSport. Data may be stale\; always verify on
   UniSport before relying on it.
@@ -894,14 +831,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866489@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261127T160000Z
 DTEND:20261127T170000Z
 SUMMARY:BODYBALANCE™ in English
 LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/5/-/-/-/-/~date=2026-11-27\nInstructor: Elias Uusi-Rauva\nFree spots 
- when last checked: 27 / 28\nBooking opens 6 days before. Cancel at least 
+ when last checked: 26 / 28\nBooking opens 6 days before. Cancel at least 
  2 h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar 
  — not run or endorsed by UniSport. Data may be stale\; always verify on
   UniSport before relying on it.
@@ -915,7 +852,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866558@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261128T093000Z
 DTEND:20261128T103000Z
 SUMMARY:BODYCOMBAT™
@@ -936,14 +873,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866592@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261128T104000Z
 DTEND:20261128T114000Z
 SUMMARY:Pilates
 LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/5/-/-/-/-/~date=2026-11-28\nInstructor: Adele Salonen\nFree spots whe
- n last checked: 27 / 28\nBooking opens 6 days before. Cancel at least 2 h
+ n last checked: 26 / 28\nBooking opens 6 days before. Cancel at least 2 h
   before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — n
  ot run or endorsed by UniSport. Data may be stale\; always verify on UniS
  port before relying on it.
@@ -957,14 +894,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:870946@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261129T090000Z
 DTEND:20261129T101500Z
 SUMMARY:Ashtanga Yoga 75 in English
 LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/5/-/-/-/-/~date=2026-11-29\nInstructor: Anna Petrenko\nFree spots whe
- n last checked: 28 / 28\nBooking opens 6 days before. Cancel at least 2 h
+ n last checked: 27 / 28\nBooking opens 6 days before. Cancel at least 2 h
   before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — n
  ot run or endorsed by UniSport. Data may be stale\; always verify on UniS
  port before relying on it.
@@ -978,7 +915,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866626@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261129T134000Z
 DTEND:20261129T144000Z
 SUMMARY:Dance Choreo Commercial in English
@@ -999,14 +936,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866660@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261129T153000Z
 DTEND:20261129T163000Z
 SUMMARY:BODYPUMP™  in English
 LOCATION:UniSport Otaniemi
 DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
  s/3/5/-/-/-/-/~date=2026-11-29\nInstructor: Jassi Koskimies\nFree spots w
- hen last checked: 25 / 25\nBooking opens 6 days before. Cancel at least 2
+ hen last checked: 21 / 25\nBooking opens 6 days before. Cancel at least 2
   h before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar —
   not run or endorsed by UniSport. Data may be stale\; always verify on Un
  iSport before relying on it.
@@ -1020,7 +957,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865760@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261130T151000Z
 DTEND:20261130T161000Z
 SUMMARY:BODYPUMP™
@@ -1041,7 +978,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865828@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261130T162000Z
 DTEND:20261130T172000Z
 SUMMARY:BODYCOMBAT™  in English
@@ -1062,7 +999,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865862@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261130T172500Z
 DTEND:20261130T182500Z
 SUMMARY:Dance Mix Latin
@@ -1083,7 +1020,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865937@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261201T090000Z
 DTEND:20261201T100000Z
 SUMMARY:BODYPUMP™
@@ -1104,7 +1041,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865973@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261201T150000Z
 DTEND:20261201T160000Z
 SUMMARY:Flow Yoga in English
@@ -1125,7 +1062,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866015@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261201T161500Z
 DTEND:20261201T171500Z
 SUMMARY:Body in English
@@ -1146,7 +1083,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866057@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261201T172500Z
 DTEND:20261201T182500Z
 SUMMARY:BODYPUMP™
@@ -1167,7 +1104,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866099@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261202T151000Z
 DTEND:20261202T161000Z
 SUMMARY:BODYBALANCE™ in English
@@ -1188,7 +1125,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866232@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261202T161000Z
 DTEND:20261202T171000Z
 SUMMARY:Power Circuit Beginners in English
@@ -1209,7 +1146,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866141@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261202T161500Z
 DTEND:20261202T171500Z
 SUMMARY:Pilates
@@ -1230,7 +1167,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866183@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261202T172000Z
 DTEND:20261202T180500Z
 SUMMARY:Kettlebell 45 in English
@@ -1251,7 +1188,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866301@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261203T141500Z
 DTEND:20261203T150000Z
 SUMMARY:Physio Neck & Back 45
@@ -1272,7 +1209,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866342@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261203T151000Z
 DTEND:20261203T161000Z
 SUMMARY:Dance Choreo Showjazz
@@ -1293,7 +1230,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866377@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261203T161500Z
 DTEND:20261203T171500Z
 SUMMARY:BODYCOMBAT™ in English
@@ -1314,7 +1251,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866412@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261203T172000Z
 DTEND:20261203T180500Z
 SUMMARY:Pilates 45 in English
@@ -1335,7 +1272,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866447@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261204T144500Z
 DTEND:20261204T154500Z
 SUMMARY:BODYPUMP™  in English
@@ -1356,7 +1293,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866490@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261204T160000Z
 DTEND:20261204T170000Z
 SUMMARY:BODYBALANCE™ in English
@@ -1377,7 +1314,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866559@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261205T093000Z
 DTEND:20261205T103000Z
 SUMMARY:BODYCOMBAT™
@@ -1398,7 +1335,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866593@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261205T104000Z
 DTEND:20261205T114000Z
 SUMMARY:Pilates
@@ -1419,7 +1356,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866627@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261206T134000Z
 DTEND:20261206T144000Z
 SUMMARY:Dance Choreo Commercial in English
@@ -1440,7 +1377,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:866661@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261206T153000Z
 DTEND:20261206T163000Z
 SUMMARY:BODYPUMP™  in English
@@ -1461,7 +1398,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865761@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261207T151000Z
 DTEND:20261207T161000Z
 SUMMARY:BODYPUMP™
@@ -1482,7 +1419,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865829@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261207T162000Z
 DTEND:20261207T172000Z
 SUMMARY:BODYCOMBAT™  in English
@@ -1503,7 +1440,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:865863@unisport-calendar
-DTSTAMP:20261123T123107Z
+DTSTAMP:20261124T021054Z
 DTSTART:20261207T172500Z
 DTEND:20261207T182500Z
 SUMMARY:Dance Mix Latin
@@ -1519,6 +1456,90 @@ URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Dance Mix Latin
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865938@unisport-calendar
+DTSTAMP:20261124T021054Z
+DTSTART:20261208T090000Z
+DTEND:20261208T100000Z
+SUMMARY:BODYPUMP™
+LOCATION:UniSport Otaniemi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/5/-/-/-/-/~date=2026-12-08\nInstructor: Hanna Autio\nFree spots when 
+ last checked: 25 / 25\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not
+  run or endorsed by UniSport. Data may be stale\; always verify on UniSpo
+ rt before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/
+ ~date=2026-12-08
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:865974@unisport-calendar
+DTSTAMP:20261124T021054Z
+DTSTART:20261208T150000Z
+DTEND:20261208T160000Z
+SUMMARY:Flow Yoga in English
+LOCATION:UniSport Otaniemi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/5/-/-/-/-/~date=2026-12-08\nInstructor: Ulla Prami\nFree spots when l
+ ast checked: 28 / 28\nBooking opens 6 days before. Cancel at least 2 h be
+ fore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not 
+ run or endorsed by UniSport. Data may be stale\; always verify on UniSpor
+ t before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/
+ ~date=2026-12-08
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Flow Yoga in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:866016@unisport-calendar
+DTSTAMP:20261124T021054Z
+DTSTART:20261208T161500Z
+DTEND:20261208T171500Z
+SUMMARY:Body in English
+LOCATION:UniSport Otaniemi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/5/-/-/-/-/~date=2026-12-08\nInstructor: Mirjam Rabi\nFree spots when 
+ last checked: 28 / 28\nBooking opens 6 days before. Cancel at least 2 h b
+ efore to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — not
+  run or endorsed by UniSport. Data may be stale\; always verify on UniSpo
+ rt before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/
+ ~date=2026-12-08
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Body in English
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:866058@unisport-calendar
+DTSTAMP:20261124T021054Z
+DTSTART:20261208T172500Z
+DTEND:20261208T182500Z
+SUMMARY:BODYPUMP™
+LOCATION:UniSport Otaniemi
+DESCRIPTION:Book: https://oma.enkora.fi/unisport/reservations2/reservation
+ s/3/5/-/-/-/-/~date=2026-12-08\nInstructor: Jessica Suni\nFree spots when
+  last checked: 25 / 25\nBooking opens 6 days before. Cancel at least 2 h 
+ before to avoid the 5 EUR fee.\nUnofficial\, student-made calendar — no
+ t run or endorsed by UniSport. Data may be stale\; always verify on UniSp
+ ort before relying on it.
+URL:https://oma.enkora.fi/unisport/reservations2/reservations/3/5/-/-/-/-/
+ ~date=2026-12-08
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BODYPUMP™
 TRIGGER:-PT60M
 END:VALARM
 END:VEVENT
